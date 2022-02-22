@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MapSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BlockBuildTime>0.5</BlockBuildTime>
+  <ComponentCostModifier>1</ComponentCostModifier>
+  <MinBlocks>1</MinBlocks>
+  <MaxBlocks>2147483647</MaxBlocks>
+  <Subgrids>true</Subgrids>
+  <PowerModifier>6</PowerModifier>
+  <ExtraCompCost>1</ExtraCompCost>
+  <ExtraComponent xsi:nil="true" />
+</MapSettings>

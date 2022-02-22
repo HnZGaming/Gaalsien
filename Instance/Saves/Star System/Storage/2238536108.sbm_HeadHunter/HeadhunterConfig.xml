@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="utf-16"?>
+<HeadhunterConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FactionBountyPercent>0.01</FactionBountyPercent>
+  <FactionMinBountyPercent>0.1</FactionMinBountyPercent>
+  <FactionMaxBountyPercent>2</FactionMaxBountyPercent>
+  <PlayerBountyPercent>0.01</PlayerBountyPercent>
+  <PlayerMinBountyPercent>0.1</PlayerMinBountyPercent>
+  <PlayerMaxBountyPercent>2</PlayerMaxBountyPercent>
+  <AllowPersonalBounties>true</AllowPersonalBounties>
+  <MinPersonalBounty>5000</MinPersonalBounty>
+  <PersonalBountyFee>0</PersonalBountyFee>
+  <DeathFeeBountyPercent>0.0005</DeathFeeBountyPercent>
+  <TakeDeathFeeFrom>richest</TakeDeathFeeFrom>
+  <EnableDeathMessages>true</EnableDeathMessages>
+  <ConfigListLength>10</ConfigListLength>
+  <DialogListLength>10</DialogListLength>
+  <RefreshBountyInterval>2</RefreshBountyInterval>
+  <DuelsEnabled>true</DuelsEnabled>
+  <BroadcastName>Headhunt</BroadcastName>
+  <BroadcastNameColor>255,220,150</BroadcastNameColor>
+  <Players>
+    <HeadhunterPlayer Name="ryo" Faction="ADM" Balance="17783543" DeathCost="441084" DeathCount="5" KillCost="7988029" KillCount="41" LastUpdate="22.02.22 23:51:58">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="ADM.ryo" Cost="27376" Timestamp="21.02.22 12:41:35" />
+        <HeadhunterReason Reason="Suicide" Player="ADM.ryo" Cost="27389" Timestamp="21.02.22 12:21:00" />
+        <HeadhunterReason Reason="Suicide" Player="ADM.ryo" Cost="27403" Timestamp="19.02.22 17:00:37" />
+        <HeadhunterReason Reason="Suicide" Player="ADM.ryo" Cost="27417" Timestamp="16.02.22 21:01:09" />
+        <HeadhunterReason Reason="Explosion" Player="RAM.AFx-TT-Rampage" Cost="67593" Timestamp="16.02.22 19:51:42" />
+        <HeadhunterReason Reason="Temperature" Cost="32912" Timestamp="27.01.22 23:52:20" />
+        <HeadhunterReason Reason="Suicide" Player="ADM.ryo" Cost="32912" Timestamp="26.01.22 22:36:48" />
+        <HeadhunterReason Reason="Drill" Player="FSH.FishToasts" Cost="65913" Timestamp="25.01.22 17:05:43" />
+        <HeadhunterReason Reason="Suicide" Player="ADM.ryo" Cost="32961" Timestamp="22.01.22 14:49:17" />
+        <HeadhunterReason Reason="Suicide" Player="ADM.ryo" Cost="32977" Timestamp="22.01.22 14:46:54" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Fall" Player="FSH.FishToasts" Cost="5091213" Timestamp="19.02.22 17:00:17" />
+        <HeadhunterReason Reason="Fall" Player="ATS.Captain_kes_kae" Cost="1786714" Timestamp="04.02.22 20:39:49" />
+        <HeadhunterReason Reason="Grid" Player="ATS.Bad_Rambo" Cost="910537" Timestamp="22.12.21 12:09:25" />
+        <HeadhunterReason Reason="Bullet" Player="EWB.DroneSensor" Cost="0" Timestamp="19.12.21 04:34:17" />
+        <HeadhunterReason Reason="Bullet" Player="AIS.MAD GENIUS" Cost="3939" Timestamp="11.12.21 15:55:26" />
+        <HeadhunterReason Reason="Bullet" Player="R" Cost="0" Timestamp="08.12.21 22:29:43" />
+        <HeadhunterReason Reason="Bullet" Player="ram.AFx-TT-Rampage" Cost="13" Timestamp="15.11.21 23:24:44" />
+        <HeadhunterReason Reason="Bullet" Player="AIS.Beengo" Cost="13043" Timestamp="15.11.21 23:15:48" />
+        <HeadhunterReason Reason="Bullet" Player="ram.AFx-TT-Rampage" Cost="11" Timestamp="15.11.21 23:12:05" />
+        <HeadhunterReason Reason="Bullet" Player="AIS.Beengo" Cost="12217" Timestamp="15.11.21 23:11:16" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Beengo" Faction="AIS" Balance="466199958" DeathCost="4598038" DeathCount="97" KillCost="668" KillCount="1" LastUpdate="22.02.22 21:11:40">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="AIS.Beengo" Cost="197010" Timestamp="22.02.22 16:27:05" />
+        <HeadhunterReason Reason="Suicide" Player="AIS.Beengo" Cost="197109" Timestamp="21.02.22 12:47:26" />
+        <HeadhunterReason Reason="Suicide" Player="AIS.Beengo" Cost="197207" Timestamp="21.02.22 12:44:57" />
+        <HeadhunterReason Reason="Suicide" Player="AIS.Beengo" Cost="184476" Timestamp="20.02.22 19:19:49" />
+        <HeadhunterReason Reason="Grid" Player="AIS.Beengo" Cost="168788" Timestamp="20.02.22 17:42:21" />
+        <HeadhunterReason Reason="Suicide" Player="AIS.Beengo" Cost="163099" Timestamp="17.02.22 19:30:20" />
+        <HeadhunterReason Reason="Grid" Player="PARALLAX.The Chairman" Cost="163181" Timestamp="16.02.22 16:16:02" />
+        <HeadhunterReason Reason="Grid" Player="AIS.Beengo" Cost="155004" Timestamp="15.02.22 17:16:20" />
+        <HeadhunterReason Reason="Suicide" Player="AIS.Beengo" Cost="134236" Timestamp="09.02.22 08:49:13" />
+        <HeadhunterReason Reason="Grid" Player="AIS.Beengo" Cost="136954" Timestamp="09.02.22 07:29:28" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="NWO.Captain_kes_kae" Cost="668" Timestamp="18.01.22 17:31:43" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="holmestoyourwatson" Balance="1427489" DeathCost="6780" DeathCount="18" KillCost="0" KillCount="0" LastUpdate="02.02.22 16:55:47">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="holmestoyourwatson" Cost="713" Timestamp="02.02.22 16:55:47" />
+        <HeadhunterReason Reason="Suicide" Player="EOB.holmestoyourwatson" Cost="714" Timestamp="30.12.21 19:02:23" />
+        <HeadhunterReason Reason="Temperature" Cost="714" Timestamp="30.12.21 18:42:10" />
+        <HeadhunterReason Reason="Suicide" Player="EOB.holmestoyourwatson" Cost="714" Timestamp="29.12.21 18:25:25" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="715" Timestamp="29.12.21 18:17:17" />
+        <HeadhunterReason Reason="Suicide" Player="EOB.holmestoyourwatson" Cost="1572" Timestamp="21.12.21 20:24:03" />
+        <HeadhunterReason Reason="Explosion" Player="SPRT.Space Pirates" Cost="1572" Timestamp="21.12.21 20:23:14" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="18.12.21 19:53:29" />
+        <HeadhunterReason Reason="LowPressure" Cost="4" Timestamp="18.12.21 01:41:07" />
+        <HeadhunterReason Reason="Grid" Player="EOB.holmestoyourwatson" Cost="4" Timestamp="23.11.21 23:54:04" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="EOB.xay2114" Cost="0" Timestamp="19.11.21 15:18:46" />
+        <HeadhunterReason Reason="Fall" Player="EOB.Beragon" Cost="0" Timestamp="12.11.21 17:46:41" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Darkcross" Faction="UDE" Balance="27021687" DeathCost="480095" DeathCount="92" KillCost="0" KillCount="0" LastUpdate="14.01.22 12:45:42">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="UDE.Darkcross" Cost="13510" Timestamp="14.01.22 12:45:42" />
+        <HeadhunterReason Reason="Fall" Cost="13517" Timestamp="14.01.22 12:33:10" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="13524" Timestamp="14.01.22 00:34:04" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="13544" Timestamp="14.01.22 00:31:48" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="13544" Timestamp="14.01.22 00:31:24" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="13544" Timestamp="14.01.22 00:30:37" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="13558" Timestamp="14.01.22 00:21:35" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="13558" Timestamp="14.01.22 00:21:09" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="13571" Timestamp="14.01.22 00:16:17" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="13571" Timestamp="14.01.22 00:15:19" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Fall" Player="UDE.Faber-Castell" Cost="0" Timestamp="30.11.21 21:26:21" />
+        <HeadhunterReason Reason="Grid" Player="UDE.SuchaEng" Cost="0" Timestamp="29.11.21 22:56:18" />
+        <HeadhunterReason Reason="Fall" Player="UDE.SuchaEng" Cost="0" Timestamp="28.11.21 20:08:06" />
+        <HeadhunterReason Reason="Fall" Player="UDE.SuchaEng" Cost="0" Timestamp="28.11.21 18:53:35" />
+        <HeadhunterReason Reason="Grid" Player="UDE.Captain Colleen" Cost="0" Timestamp="27.11.21 01:56:52" />
+        <HeadhunterReason Reason="Bullet" Player="UDE.Captain Colleen" Cost="0" Timestamp="25.11.21 22:43:07" />
+        <HeadhunterReason Reason="Grid" Player="DOD.Captain Colleen" Cost="0" Timestamp="25.11.21 22:35:25" />
+        <HeadhunterReason Reason="Grid" Player="DOD.Captain Colleen" Cost="0" Timestamp="25.11.21 22:33:36" />
+        <HeadhunterReason Reason="Grid" Player="DOD.SuchaEng" Cost="0" Timestamp="25.11.21 22:33:28" />
+        <HeadhunterReason Reason="Grid" Player="DOD.Captain Colleen" Cost="0" Timestamp="25.11.21 22:33:08" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Cetet" Faction="BRD" Balance="9991" DeathCost="9" DeathCount="2" KillCost="0" KillCount="0" LastUpdate="08.02.22 22:28:01">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="08.02.22 22:22:59" />
+        <HeadhunterReason Reason="Temperature" Cost="5" Timestamp="10.11.21 23:07:30" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="AFx-TT-Rampage" Faction="RAM" Balance="185908" DeathCost="28331" DeathCount="80" KillCost="67593" KillCount="1" LastUpdate="17.02.22 23:29:15">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="IGDC.Intergalactic Drilling Consortium CEO" Cost="92" Timestamp="17.02.22 23:29:15" />
+        <HeadhunterReason Reason="Grid" Player="GCTC.Galactic Technologies CEO" Cost="93" Timestamp="17.02.22 23:15:57" />
+        <HeadhunterReason Reason="Suicide" Player="RAM.AFx-TT-Rampage" Cost="93" Timestamp="17.02.22 18:00:57" />
+        <HeadhunterReason Reason="Suicide" Player="RAM.AFx-TT-Rampage" Cost="93" Timestamp="17.02.22 11:46:47" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="93" Timestamp="17.02.22 11:28:53" />
+        <HeadhunterReason Reason="Suicide" Player="RAM.AFx-TT-Rampage" Cost="93" Timestamp="16.02.22 23:53:50" />
+        <HeadhunterReason Reason="Fall" Cost="93" Timestamp="16.02.22 22:40:51" />
+        <HeadhunterReason Reason="Suicide" Player="RAM.AFx-TT-Rampage" Cost="93" Timestamp="16.02.22 20:24:08" />
+        <HeadhunterReason Reason="Explosion" Player="RAM.AFx-TT-Rampage" Cost="86" Timestamp="16.02.22 19:51:42" />
+        <HeadhunterReason Reason="Suicide" Player="RAM.AFx-TT-Rampage" Cost="87" Timestamp="16.02.22 00:21:23" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Explosion" Player="ADM.ryo" Cost="67593" Timestamp="16.02.22 19:51:42" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Beragon" Faction="AIS" Balance="38307323" DeathCost="1168967" DeathCount="41" KillCost="307293" KillCount="1" LastUpdate="18.02.22 10:17:10">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="19560" Timestamp="08.02.22 16:25:56" />
+        <HeadhunterReason Reason="Explosion" Cost="17657" Timestamp="05.02.22 17:12:31" />
+        <HeadhunterReason Reason="Suicide" Player="AIS.Beragon" Cost="17666" Timestamp="04.02.22 20:56:58" />
+        <HeadhunterReason Reason="Suicide" Player="AIS.Beragon" Cost="17675" Timestamp="04.02.22 20:23:34" />
+        <HeadhunterReason Reason="Fall" Cost="17684" Timestamp="04.02.22 15:52:31" />
+        <HeadhunterReason Reason="Suicide" Player="AIS.Beragon" Cost="17693" Timestamp="04.02.22 15:30:43" />
+        <HeadhunterReason Reason="Grid" Player="AIS.Beragon" Cost="17701" Timestamp="04.02.22 11:26:04" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="27813" Timestamp="03.02.22 23:07:48" />
+        <HeadhunterReason Reason="Suicide" Player="AIS.Beragon" Cost="23668" Timestamp="03.02.22 21:33:11" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="23680" Timestamp="03.02.22 20:36:12" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="AIS.MHRZKY" Cost="307293" Timestamp="26.01.22 15:43:47" />
+        <HeadhunterReason Reason="Grid" Player="EOB.JERAMIYA82" Cost="0" Timestamp="25.01.22 10:59:44" />
+        <HeadhunterReason Reason="Bullet" Player="EOB.JERAMIYA82" Cost="0" Timestamp="12.11.21 21:24:42" />
+        <HeadhunterReason Reason="Fall" Player="EOB.holmestoyourwatson" Cost="0" Timestamp="12.11.21 17:46:41" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="MHRZKY" Faction="AIS" Balance="9900" DeathCost="768785" DeathCount="10" KillCost="0" KillCount="0" LastUpdate="06.02.22 18:51:42">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="489" Timestamp="06.02.22 17:51:03" />
+        <HeadhunterReason Reason="Grid" Player="AIS.JERAMIYA82" Cost="489" Timestamp="06.02.22 17:49:39" />
+        <HeadhunterReason Reason="Grid" Player="AIS.JERAMIYA82" Cost="490" Timestamp="06.02.22 17:40:48" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="490" Timestamp="06.02.22 17:39:46" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="490" Timestamp="06.02.22 17:38:23" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="491" Timestamp="06.02.22 17:23:06" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="491" Timestamp="06.02.22 17:20:12" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="491" Timestamp="06.02.22 17:18:06" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="491" Timestamp="04.02.22 16:13:59" />
+        <HeadhunterReason Reason="Temperature" Cost="28149" Timestamp="31.01.22 18:05:51" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="JERAMIYA82" Faction="AIS" Balance="9979" DeathCost="32918" DeathCount="11" KillCost="0" KillCount="0" LastUpdate="19.02.22 12:38:05">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="AIS.JERAMIYA82" Cost="487" Timestamp="10.02.22 13:15:34" />
+        <HeadhunterReason Reason="Fall" Cost="487" Timestamp="10.02.22 13:15:03" />
+        <HeadhunterReason Reason="Explosion" Cost="490" Timestamp="06.02.22 17:47:12" />
+        <HeadhunterReason Reason="Bullet" Player="SOSB.Sovereign Shipbuilding CEO" Cost="492" Timestamp="03.02.22 09:49:49" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="492" Timestamp="03.02.22 08:44:13" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="493" Timestamp="03.02.22 08:40:10" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="493" Timestamp="03.02.22 08:37:54" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="493" Timestamp="03.02.22 08:35:20" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="493" Timestamp="03.02.22 08:34:03" />
+        <HeadhunterReason Reason="Suicide" Player="AIS.JERAMIYA82" Cost="28163" Timestamp="31.01.22 11:55:14" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="AIS.MHRZKY" Cost="0" Timestamp="06.02.22 17:49:39" />
+        <HeadhunterReason Reason="Grid" Player="AIS.MHRZKY" Cost="0" Timestamp="06.02.22 17:40:48" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="gaseoussnake" Faction="EWB" Balance="9947" DeathCost="53" DeathCount="13" KillCost="0" KillCount="0" LastUpdate="17.02.22 13:15:35">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="02.02.22 16:22:54" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="02.02.22 00:12:51" />
+        <HeadhunterReason Reason="Grid" Player="EWB.gaseoussnake" Cost="4" Timestamp="12.12.21 22:00:01" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="10.12.21 16:40:39" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="10.12.21 16:34:35" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="06.12.21 13:48:49" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="05.12.21 22:08:08" />
+        <HeadhunterReason Reason="Grid" Cost="4" Timestamp="03.12.21 16:57:37" />
+        <HeadhunterReason Reason="Grid" Player="EWB.gaseoussnake" Cost="4" Timestamp="03.12.21 16:54:19" />
+        <HeadhunterReason Reason="Grid" Cost="4" Timestamp="26.11.21 14:57:09" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Vista" Faction="ATS" Balance="59" DeathCost="2330" DeathCount="68" KillCost="0" KillCount="0" LastUpdate="21.02.22 09:51:21">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Player="ATS.Captain_kes_kae" Cost="906" Timestamp="20.02.22 14:46:17" />
+        <HeadhunterReason Reason="Suicide" Player="ATS.Vista" Cost="906" Timestamp="19.02.22 18:44:54" />
+        <HeadhunterReason Reason="Suicide" Player="Vie.Vista" Cost="7" Timestamp="19.02.22 18:25:49" />
+        <HeadhunterReason Reason="Suicide" Player="Vie.Vista" Cost="7" Timestamp="19.02.22 18:19:25" />
+        <HeadhunterReason Reason="Suicide" Player="Vie.Vista" Cost="7" Timestamp="19.02.22 18:15:34" />
+        <HeadhunterReason Reason="Suicide" Player="Vie.Vista" Cost="7" Timestamp="19.02.22 17:43:20" />
+        <HeadhunterReason Reason="Destruction" Cost="7" Timestamp="19.02.22 17:41:10" />
+        <HeadhunterReason Reason="Destruction" Cost="7" Timestamp="19.02.22 17:39:21" />
+        <HeadhunterReason Reason="Suicide" Player="Vie.Vista" Cost="7" Timestamp="12.02.22 15:45:09" />
+        <HeadhunterReason Reason="Fall" Cost="7" Timestamp="12.02.22 10:40:55" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Fall" Player="ATS.Captain_kes_kae" Cost="0" Timestamp="20.02.22 14:46:17" />
+        <HeadhunterReason Reason="Grid" Player="Vie.Captain_kes_kae" Cost="0" Timestamp="01.12.21 17:46:40" />
+        <HeadhunterReason Reason="Fall" Player="Vie.Sam7" Cost="0" Timestamp="29.11.21 20:06:26" />
+        <HeadhunterReason Reason="Grid" Player="Vie.Sam7" Cost="0" Timestamp="29.11.21 18:20:51" />
+        <HeadhunterReason Reason="Grid" Player="Vie.Sam7" Cost="0" Timestamp="29.11.21 17:12:53" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Captain_kes_kae" Faction="ATS" Balance="81291726" DeathCost="1634269" DeathCount="54" KillCost="0" KillCount="0" LastUpdate="22.02.22 19:59:21">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="ATS.Captain_kes_kae" Cost="40666" Timestamp="20.02.22 18:02:09" />
+        <HeadhunterReason Reason="Fall" Cost="40686" Timestamp="20.02.22 17:56:28" />
+        <HeadhunterReason Reason="Explosion" Player="IMBER.The Tribunal" Cost="40706" Timestamp="20.02.22 17:47:46" />
+        <HeadhunterReason Reason="Fall" Player="ATS.Vista" Cost="43706" Timestamp="20.02.22 14:46:17" />
+        <HeadhunterReason Reason="Grid" Player="ATS.Bad_Rambo" Cost="43706" Timestamp="19.02.22 17:48:04" />
+        <HeadhunterReason Reason="Grid" Player="SOSB.Sovereign Shipbuilding CEO" Cost="43728" Timestamp="07.02.22 18:40:45" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="43270" Timestamp="05.02.22 21:09:45" />
+        <HeadhunterReason Reason="Grid" Player="SOWE.Sovereign Welders CEO" Cost="43291" Timestamp="05.02.22 20:25:12" />
+        <HeadhunterReason Reason="Fall" Player="ADM.ryo" Cost="893357" Timestamp="04.02.22 20:39:49" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="40017" Timestamp="01.02.22 22:01:43" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Fall" Player="ATS.Vista" Cost="0" Timestamp="20.02.22 14:46:17" />
+        <HeadhunterReason Reason="Grid" Player="NWO.ImmortalTweety" Cost="0" Timestamp="29.01.22 15:45:18" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Dashawk" Faction="TBG" Balance="9947" DeathCost="53" DeathCount="11" KillCost="0" KillCount="0" LastUpdate="17.02.22 02:50:24">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="TBG.Dashawk" Cost="4" Timestamp="10.02.22 00:40:54" />
+        <HeadhunterReason Reason="LowPressure" Cost="4" Timestamp="07.12.21 01:32:17" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="06.12.21 22:52:23" />
+        <HeadhunterReason Reason="Explosion" Player="SPRT.Space Pirates" Cost="4" Timestamp="06.12.21 22:45:29" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="06.12.21 22:25:29" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="06.12.21 19:28:01" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="06.12.21 19:26:51" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="5" Timestamp="06.12.21 19:26:29" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="5" Timestamp="06.12.21 19:26:02" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="5" Timestamp="06.12.21 19:25:45" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Bad_Rambo" Faction="ATS" Balance="132307758" DeathCost="2885429" DeathCount="131" KillCost="0" KillCount="0" LastUpdate="22.02.22 19:34:13">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="46738" Timestamp="22.02.22 14:16:35" />
+        <HeadhunterReason Reason="Fall" Cost="12630" Timestamp="22.02.22 13:23:50" />
+        <HeadhunterReason Reason="Fall" Cost="12642" Timestamp="22.02.22 08:34:26" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="12642" Timestamp="22.02.22 08:34:04" />
+        <HeadhunterReason Reason="Grid" Player="INCON.Contractors" Cost="12655" Timestamp="22.02.22 08:31:48" />
+        <HeadhunterReason Reason="Grid" Player="INCON.Contractors" Cost="12655" Timestamp="22.02.22 08:30:02" />
+        <HeadhunterReason Reason="Fall" Cost="12674" Timestamp="22.02.22 08:26:29" />
+        <HeadhunterReason Reason="Fall" Cost="12674" Timestamp="22.02.22 08:25:15" />
+        <HeadhunterReason Reason="Fall" Cost="12674" Timestamp="22.02.22 08:24:36" />
+        <HeadhunterReason Reason="Grid" Player="ATS.Bad_Rambo" Cost="12687" Timestamp="22.02.22 08:01:46" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="ATS.Captain_kes_kae" Cost="0" Timestamp="19.02.22 17:48:04" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="KhaoKong" Faction="JPN" Balance="9995" DeathCost="5" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="21.01.22 01:33:23">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="JPN.KhaoKong" Cost="5" Timestamp="20.01.22 20:32:49" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="DroneSensor" Faction="EWB" Balance="16157867" DeathCost="1141947" DeathCount="386" KillCost="95" KillCount="1" LastUpdate="22.02.22 23:51:58">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="EWB.DroneSensor" Cost="7170" Timestamp="22.02.22 22:41:41" />
+        <HeadhunterReason Reason="Fall" Cost="7174" Timestamp="22.02.22 22:28:39" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="7177" Timestamp="22.02.22 01:14:18" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="7185" Timestamp="22.02.22 01:13:06" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="7185" Timestamp="22.02.22 01:12:15" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="7195" Timestamp="22.02.22 01:11:23" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="7195" Timestamp="22.02.22 01:10:37" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="7195" Timestamp="22.02.22 01:09:32" />
+        <HeadhunterReason Reason="Suicide" Player="EWB.DroneSensor" Cost="7199" Timestamp="22.02.22 00:55:21" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="7203" Timestamp="22.02.22 00:45:21" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="EWB.Cocodogg420" Cost="0" Timestamp="22.02.22 00:53:25" />
+        <HeadhunterReason Reason="Bullet" Player="MME.TNG" Cost="95" Timestamp="19.02.22 02:16:20" />
+        <HeadhunterReason Reason="Grid" Player="EWB.millhorncave" Cost="0" Timestamp="15.02.22 13:52:29" />
+        <HeadhunterReason Reason="Grid" Player="EWB.CNT_ALT_DEL" Cost="0" Timestamp="10.02.22 13:19:06" />
+        <HeadhunterReason Reason="Grid" Player="EWB.Yogibear!" Cost="0" Timestamp="26.01.22 04:04:25" />
+        <HeadhunterReason Reason="Grid" Player="EWB.Yogibear!" Cost="0" Timestamp="26.01.22 04:03:18" />
+        <HeadhunterReason Reason="Grid" Player="EWB.TIO AIDIL" Cost="0" Timestamp="22.01.22 11:49:31" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="CiRCA" Faction="EWB" Balance="19112255" DeathCost="115287" DeathCount="21" KillCost="198" KillCount="1" LastUpdate="20.02.22 02:57:53">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="EWB.CiRCA" Cost="9560" Timestamp="07.02.22 17:05:58" />
+        <HeadhunterReason Reason="Fall" Cost="9565" Timestamp="07.02.22 17:03:20" />
+        <HeadhunterReason Reason="Grid" Player="EWB.CiRCA" Cost="9570" Timestamp="06.02.22 20:45:13" />
+        <HeadhunterReason Reason="Grid" Cost="9575" Timestamp="06.02.22 18:55:47" />
+        <HeadhunterReason Reason="Fall" Cost="9579" Timestamp="06.02.22 17:34:58" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="9584" Timestamp="18.01.22 14:48:51" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="9589" Timestamp="18.01.22 14:45:56" />
+        <HeadhunterReason Reason="Fall" Cost="9599" Timestamp="18.01.22 14:41:11" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="9599" Timestamp="18.01.22 14:40:00" />
+        <HeadhunterReason Reason="Grid" Player="EWB.CiRCA" Cost="9603" Timestamp="17.01.22 16:39:55" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Bullet" Player="Semaj" Cost="198" Timestamp="08.02.22 17:48:49" />
+        <HeadhunterReason Reason="Grid" Player="EWB.DroneSensor" Cost="0" Timestamp="08.01.22 01:11:47" />
+        <HeadhunterReason Reason="Grid" Player="EWB.DroneSensor" Cost="0" Timestamp="08.01.22 00:27:29" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="zporporz" Faction="Urq" Balance="69245" DeathCost="1327" DeathCount="15" KillCost="0" KillCount="0" LastUpdate="14.01.22 18:49:22">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="Urq.zporporz" Cost="34" Timestamp="14.01.22 17:54:33" />
+        <HeadhunterReason Reason="Floating" Cost="34" Timestamp="14.01.22 16:06:57" />
+        <HeadhunterReason Reason="Suicide" Player="Urq.zporporz" Cost="34" Timestamp="14.01.22 15:56:39" />
+        <HeadhunterReason Reason="Suicide" Player="Urq.zporporz" Cost="34" Timestamp="14.01.22 15:55:51" />
+        <HeadhunterReason Reason="Fall" Player="Urq.zporporz" Cost="34" Timestamp="14.01.22 15:51:07" />
+        <HeadhunterReason Reason="Fall" Player="Urq.zporporz" Cost="34" Timestamp="14.01.22 15:50:21" />
+        <HeadhunterReason Reason="Fall" Player="Urq.zporporz" Cost="34" Timestamp="14.01.22 15:47:44" />
+        <HeadhunterReason Reason="Fall" Cost="44" Timestamp="11.01.22 21:29:00" />
+        <HeadhunterReason Reason="Suicide" Player="Urq.zporporz" Cost="44" Timestamp="11.01.22 21:25:53" />
+        <HeadhunterReason Reason="Explosion" Player="REAVER.Miranda Survivors" Cost="44" Timestamp="11.01.22 21:14:07" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Bullet" Player="Urq.Jack NorthStar" Cost="0" Timestamp="14.01.22 17:50:05" />
+        <HeadhunterReason Reason="Bullet" Player="Urq.Jack NorthStar" Cost="0" Timestamp="14.01.22 17:49:23" />
+        <HeadhunterReason Reason="Bullet" Player="Urq.Jack NorthStar" Cost="0" Timestamp="14.01.22 17:44:57" />
+        <HeadhunterReason Reason="Bullet" Player="Urq.Jack NorthStar" Cost="0" Timestamp="14.01.22 17:37:54" />
+        <HeadhunterReason Reason="Bullet" Player="Urq.Jack NorthStar" Cost="0" Timestamp="14.01.22 16:52:51" />
+        <HeadhunterReason Reason="Bullet" Player="Urq.Jack NorthStar" Cost="0" Timestamp="14.01.22 16:48:12" />
+        <HeadhunterReason Reason="Grind" Player="Urq.Jack NorthStar" Cost="0" Timestamp="10.01.22 21:57:42" />
+        <HeadhunterReason Reason="Fall" Player="Urq.Jack NorthStar" Cost="0" Timestamp="10.01.22 21:47:10" />
+        <HeadhunterReason Reason="Grid" Player="Urq.Jack NorthStar" Cost="0" Timestamp="10.01.22 21:42:00" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Zed 5000" Faction="TDF" Balance="9895" DeathCost="109" DeathCount="22" KillCost="0" KillCount="0" LastUpdate="22.02.22 23:51:58">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.02.22 23:51:58" />
+        <HeadhunterReason Reason="Grid" Player="TDF.Zed 5000" Cost="4" Timestamp="22.02.22 18:48:55" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.02.22 16:36:32" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.02.22 14:49:02" />
+        <HeadhunterReason Reason="Grid" Player="TDF.Zed 5000" Cost="4" Timestamp="21.02.22 22:13:18" />
+        <HeadhunterReason Reason="Explosion" Cost="4" Timestamp="21.02.22 15:55:28" />
+        <HeadhunterReason Reason="LowPressure" Cost="4" Timestamp="21.02.22 00:06:03" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 17:46:33" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 17:43:35" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 17:37:40" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="deblasio" Faction="FZB" Balance="9963" DeathCost="41" DeathCount="8" KillCost="0" KillCount="0" LastUpdate="21.01.22 19:35:10">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="21.01.22 19:35:10" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="11.01.22 12:06:33" />
+        <HeadhunterReason Reason="Grid" Player="FZB.deblasio" Cost="4" Timestamp="09.01.22 18:30:08" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="09.01.22 17:39:26" />
+        <HeadhunterReason Reason="Grid" Cost="4" Timestamp="07.01.22 21:05:03" />
+        <HeadhunterReason Reason="Grid" Cost="4" Timestamp="07.01.22 13:50:59" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="06.01.22 20:21:49" />
+        <HeadhunterReason Reason="Suicide" Player="FZB.deblasio" Cost="4" Timestamp="06.01.22 19:29:28" />
+        <HeadhunterReason Reason="Grid" Player="FZB.deblasio" Cost="4" Timestamp="06.01.22 19:26:27" />
+        <HeadhunterReason Reason="Suicide" Player="deblasio" Cost="5" Timestamp="24.12.21 09:26:07" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="ImmortalTweety" Faction="NWO" Balance="514041" DeathCost="759" DeathCount="23" KillCost="0" KillCount="0" LastUpdate="12.02.22 15:55:20">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="257" Timestamp="04.02.22 21:25:35" />
+        <HeadhunterReason Reason="Suicide" Player="NWO.ImmortalTweety" Cost="257" Timestamp="04.02.22 21:02:32" />
+        <HeadhunterReason Reason="Fall" Cost="31" Timestamp="29.01.22 16:01:33" />
+        <HeadhunterReason Reason="Grid" Player="NWO.Captain_kes_kae" Cost="31" Timestamp="29.01.22 15:45:18" />
+        <HeadhunterReason Reason="Suicide" Player="NWO.ImmortalTweety" Cost="31" Timestamp="29.01.22 15:44:38" />
+        <HeadhunterReason Reason="Temperature" Cost="31" Timestamp="29.01.22 13:52:32" />
+        <HeadhunterReason Reason="Grid" Player="NWO.ImmortalTweety" Cost="4" Timestamp="25.01.22 21:45:07" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="4" Timestamp="25.01.22 21:39:24" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="4" Timestamp="25.01.22 21:34:41" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="4" Timestamp="25.01.22 21:13:07" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="teenkaiju" Faction="EWB" Balance="9959" DeathCost="45" DeathCount="11" KillCost="0" KillCount="0" LastUpdate="06.02.22 14:28:20">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="06.02.22 14:28:20" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="06.02.22 14:26:29" />
+        <HeadhunterReason Reason="Bullet" Player="IGDC.Intergalactic Drilling Consortium CEO" Cost="4" Timestamp="06.02.22 14:24:59" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="06.02.22 14:14:04" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 17:18:20" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 17:17:32" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="08.01.22 15:12:17" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="08.01.22 15:09:16" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="06.01.22 23:35:44" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="06.01.22 23:34:02" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="hardreyn" Faction="APB" Balance="9955" DeathCost="45" DeathCount="9" KillCost="0" KillCount="0" LastUpdate="20.01.22 21:06:03">
+      <DeathList>
+        <HeadhunterReason Reason="Explosion" Player="SPRT.Space Pirates" Cost="4" Timestamp="20.01.22 21:03:55" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="17.01.22 00:31:11" />
+        <HeadhunterReason Reason="Suicide" Player="APB.hardreyn" Cost="4" Timestamp="16.01.22 12:22:24" />
+        <HeadhunterReason Reason="Suicide" Player="APB.hardreyn" Cost="4" Timestamp="16.01.22 12:08:16" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="16.01.22 12:05:56" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="16.01.22 12:05:42" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="16.01.22 12:05:31" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="16.01.22 12:05:09" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="16.01.22 12:03:21" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="16.01.22 12:02:39" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="งง Two Snake" Faction="SAF" Balance="2802521" DeathCost="6988" DeathCount="8" KillCost="0" KillCount="0" LastUpdate="20.02.22 18:44:31">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="SAF.งง Two Snake" Cost="1401" Timestamp="20.02.22 17:50:22" />
+        <HeadhunterReason Reason="Suicide" Player="SAF.งง Two Snake" Cost="1402" Timestamp="20.02.22 17:48:10" />
+        <HeadhunterReason Reason="Suicide" Player="SAF.งง Two Snake" Cost="1403" Timestamp="20.02.22 15:48:02" />
+        <HeadhunterReason Reason="Suicide" Player="SAF.งง Two Snake" Cost="1404" Timestamp="20.02.22 15:45:41" />
+        <HeadhunterReason Reason="Weld" Player="SAF.งง Two Snake" Cost="210" Timestamp="14.02.22 00:22:50" />
+        <HeadhunterReason Reason="Suicide" Player="SAF.งง Two Snake" Cost="116" Timestamp="13.02.22 01:11:29" />
+        <HeadhunterReason Reason="Suicide" Player="SAF.งง Two Snake" Cost="116" Timestamp="13.02.22 01:09:07" />
+        <HeadhunterReason Reason="Fall" Cost="117" Timestamp="10.02.22 01:07:36" />
+        <HeadhunterReason Reason="Suicide" Player="SAF.งง Two Snake" Cost="117" Timestamp="10.02.22 01:00:33" />
+        <HeadhunterReason Reason="Fall" Cost="117" Timestamp="10.02.22 00:58:36" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Aegis21" Balance="9995" DeathCost="13" DeathCount="3" KillCost="0" KillCount="0" LastUpdate="22.01.22 17:08:08">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.01.22 17:10:02" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.01.22 17:08:08" />
+        <HeadhunterReason Reason="Fall" Cost="5" Timestamp="22.01.22 03:17:40" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Jemmysenpaii" Faction="UBA" Balance="98795479" DeathCost="1262696" DeathCount="224" KillCost="0" KillCount="0" LastUpdate="21.02.22 21:15:22">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="UBA.Jemmysenpaii" Cost="49397" Timestamp="21.02.22 21:16:08" />
+        <HeadhunterReason Reason="Suicide" Player="UBA.Jemmysenpaii" Cost="50288" Timestamp="19.02.22 11:54:07" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="50313" Timestamp="19.02.22 11:49:43" />
+        <HeadhunterReason Reason="Grid" Player="UBA.Deamon" Cost="50313" Timestamp="18.02.22 21:31:43" />
+        <HeadhunterReason Reason="Grid" Player="UBA.Jemmysenpaii" Cost="50338" Timestamp="18.02.22 21:27:44" />
+        <HeadhunterReason Reason="Rocket" Player="REAVER.Miranda Survivors" Cost="36237" Timestamp="18.02.22 11:14:56" />
+        <HeadhunterReason Reason="Suicide" Player="UBA.Jemmysenpaii" Cost="36255" Timestamp="18.02.22 11:11:48" />
+        <HeadhunterReason Reason="Suicide" Player="UBA.Jemmysenpaii" Cost="36273" Timestamp="17.02.22 11:23:37" />
+        <HeadhunterReason Reason="Suicide" Player="UBA.Jemmysenpaii" Cost="35034" Timestamp="16.02.22 20:07:57" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="29910" Timestamp="16.02.22 19:02:35" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="UBA.Deamon" Cost="0" Timestamp="14.02.22 16:53:24" />
+        <HeadhunterReason Reason="Grid" Player="UBA.zgholdingsllc1" Cost="0" Timestamp="13.02.22 19:27:23" />
+        <HeadhunterReason Reason="Grid" Player="UBA.Deamon" Cost="0" Timestamp="04.02.22 12:16:44" />
+        <HeadhunterReason Reason="Grid" Player="UBA.Deamon" Cost="0" Timestamp="03.02.22 14:00:05" />
+        <HeadhunterReason Reason="Weld" Player="UBA.Deamon" Cost="0" Timestamp="28.01.22 13:07:46" />
+        <HeadhunterReason Reason="Fall" Player="UBA.Deamon" Cost="0" Timestamp="25.01.22 12:01:49" />
+        <HeadhunterReason Reason="Fall" Player="UBA.Praydchicken" Cost="0" Timestamp="24.01.22 11:35:51" />
+        <HeadhunterReason Reason="Fall" Player="UBA.Praydchicken" Cost="0" Timestamp="24.01.22 10:23:06" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Deamon" Faction="UBA" Balance="9642758" DeathCost="64964" DeathCount="57" KillCost="0" KillCount="0" LastUpdate="15.02.22 11:57:25">
+      <DeathList>
+        <HeadhunterReason Reason="Explosion" Cost="4823" Timestamp="15.02.22 11:42:33" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="4826" Timestamp="15.02.22 07:41:32" />
+        <HeadhunterReason Reason="Fall" Cost="4828" Timestamp="15.02.22 07:39:01" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="4831" Timestamp="15.02.22 07:36:28" />
+        <HeadhunterReason Reason="Suicide" Player="UBA.Deamon" Cost="4833" Timestamp="15.02.22 06:43:17" />
+        <HeadhunterReason Reason="Suicide" Player="UBA.Deamon" Cost="4835" Timestamp="15.02.22 06:34:46" />
+        <HeadhunterReason Reason="Fall" Cost="4838" Timestamp="15.02.22 05:53:23" />
+        <HeadhunterReason Reason="Suicide" Player="UBA.Deamon" Cost="5501" Timestamp="14.02.22 18:31:09" />
+        <HeadhunterReason Reason="Fall" Cost="4984" Timestamp="14.02.22 17:42:57" />
+        <HeadhunterReason Reason="Grid" Player="UBA.Jemmysenpaii" Cost="4984" Timestamp="14.02.22 16:53:24" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="UBA.Jemmysenpaii" Cost="0" Timestamp="18.02.22 21:31:43" />
+        <HeadhunterReason Reason="Grind" Player="UBA.Jemmysenpaii" Cost="0" Timestamp="09.02.22 07:13:37" />
+        <HeadhunterReason Reason="Grind" Player="UBA.Jemmysenpaii" Cost="0" Timestamp="07.02.22 14:13:30" />
+        <HeadhunterReason Reason="Grid" Player="UBA.Praydchicken" Cost="0" Timestamp="06.02.22 21:04:37" />
+        <HeadhunterReason Reason="Grind" Player="UBA.Jemmysenpaii" Cost="0" Timestamp="06.02.22 17:30:51" />
+        <HeadhunterReason Reason="Weld" Player="UBA.Jemmysenpaii" Cost="0" Timestamp="04.02.22 12:51:33" />
+        <HeadhunterReason Reason="Grid" Player="UBA.Jemmysenpaii" Cost="0" Timestamp="03.02.22 16:08:08" />
+        <HeadhunterReason Reason="Grid" Player="UBA.Jemmysenpaii" Cost="0" Timestamp="30.01.22 23:10:01" />
+        <HeadhunterReason Reason="Grid" Player="UBA.Jemmysenpaii" Cost="0" Timestamp="29.01.22 05:27:57" />
+        <HeadhunterReason Reason="Grid" Player="UBA.Jemmysenpaii" Cost="0" Timestamp="29.01.22 02:39:52" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Chawit" Balance="9939" DeathCost="61" DeathCount="15" KillCost="0" KillCount="0" LastUpdate="15.02.22 16:06:59">
+      <DeathList>
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="05.02.22 17:33:33" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="05.02.22 02:29:14" />
+        <HeadhunterReason Reason="Grid" Player="Chawit" Cost="4" Timestamp="04.02.22 19:45:34" />
+        <HeadhunterReason Reason="Grid" Player="Chawit" Cost="4" Timestamp="04.02.22 19:42:11" />
+        <HeadhunterReason Reason="Grid" Player="Chawit" Cost="4" Timestamp="04.02.22 01:15:57" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="03.02.22 02:04:48" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="03.02.22 00:38:46" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="01.02.22 21:25:39" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="01.02.22 04:58:56" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="01.02.22 03:23:09" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Nasshuki" Faction="JTO" Balance="0" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="28.01.22 00:31:11">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Praydchicken" Faction="UBA" Balance="9963" DeathCost="2362" DeathCount="22" KillCost="0" KillCount="0" LastUpdate="08.02.22 09:47:28">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Cost="120" Timestamp="07.02.22 19:43:05" />
+        <HeadhunterReason Reason="Grid" Player="UBA.Deamon" Cost="122" Timestamp="06.02.22 21:04:37" />
+        <HeadhunterReason Reason="Suicide" Player="UBA.Praydchicken" Cost="122" Timestamp="06.02.22 18:52:04" />
+        <HeadhunterReason Reason="Grid" Cost="122" Timestamp="06.02.22 18:51:42" />
+        <HeadhunterReason Reason="Suicide" Player="UBA.Praydchicken" Cost="123" Timestamp="05.02.22 20:26:34" />
+        <HeadhunterReason Reason="Suicide" Player="UBA.Praydchicken" Cost="123" Timestamp="05.02.22 20:10:45" />
+        <HeadhunterReason Reason="Suicide" Player="UBA.Praydchicken" Cost="123" Timestamp="05.02.22 20:06:08" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="123" Timestamp="05.02.22 20:03:12" />
+        <HeadhunterReason Reason="Fall" Cost="123" Timestamp="05.02.22 19:58:59" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="123" Timestamp="05.02.22 19:56:59" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Fall" Player="UBA.Jemmysenpaii" Cost="0" Timestamp="24.01.22 11:35:51" />
+        <HeadhunterReason Reason="Fall" Player="UBA.Jemmysenpaii" Cost="0" Timestamp="24.01.22 10:23:06" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="VeteranLoser" Faction="-_-" Balance="3373076" DeathCost="2210" DeathCount="6" KillCost="0" KillCount="0" LastUpdate="17.02.22 23:29:15">
+      <DeathList>
+        <HeadhunterReason Reason="Explosion" Player="IMBER.The Tribunal" Cost="1431" Timestamp="01.02.22 17:54:47" />
+        <HeadhunterReason Reason="Suicide" Player="-_-.VeteranLoser" Cost="78" Timestamp="01.02.22 16:43:01" />
+        <HeadhunterReason Reason="Suicide" Player="-_-.VeteranLoser" Cost="75" Timestamp="01.02.22 15:17:17" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="111" Timestamp="28.01.22 18:55:14" />
+        <HeadhunterReason Reason="Grid" Player="RVSR.Revolutionary Sappers CEO" Cost="128" Timestamp="28.01.22 00:16:09" />
+        <HeadhunterReason Reason="Grid" Player="SOWE.Sovereign Welders CEO" Cost="128" Timestamp="27.01.22 13:19:27" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="127" Timestamp="25.01.22 05:09:26" />
+        <HeadhunterReason Reason="Suicide" Player="-_-.VeteranLoser" Cost="127" Timestamp="24.01.22 12:00:11" />
+        <HeadhunterReason Reason="Fall" Cost="5" Timestamp="23.01.22 13:47:15" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="FishToasts" Faction="FSH" Balance="510284334" DeathCost="11933560" DeathCount="48" KillCost="65913" KillCount="1" LastUpdate="22.02.22 23:24:56">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="FSH.FishToasts" Cost="226009" Timestamp="22.02.22 22:27:24" />
+        <HeadhunterReason Reason="Suicide" Player="FSH.FishToasts" Cost="226122" Timestamp="20.02.22 20:30:32" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="226348" Timestamp="19.02.22 17:08:25" />
+        <HeadhunterReason Reason="Suicide" Player="FSH.FishToasts" Cost="226348" Timestamp="19.02.22 17:07:07" />
+        <HeadhunterReason Reason="Fall" Cost="226461" Timestamp="19.02.22 17:03:48" />
+        <HeadhunterReason Reason="Fall" Player="ADM.ryo" Cost="4575347" Timestamp="19.02.22 17:00:17" />
+        <HeadhunterReason Reason="Script" Cost="228863" Timestamp="19.02.22 16:49:14" />
+        <HeadhunterReason Reason="Floating" Cost="228978" Timestamp="19.02.22 15:58:57" />
+        <HeadhunterReason Reason="Grid" Player="INCON.Contractors" Cost="229092" Timestamp="17.02.22 23:59:30" />
+        <HeadhunterReason Reason="Grid" Player="FSH.FishToasts" Cost="229207" Timestamp="17.02.22 19:46:16" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="FSH.Culepica" Cost="0" Timestamp="19.02.22 10:47:24" />
+        <HeadhunterReason Reason="Grid" Player="FSH.Culepica" Cost="0" Timestamp="17.02.22 15:40:40" />
+        <HeadhunterReason Reason="Grid" Player="FSH.Culepica" Cost="0" Timestamp="16.02.22 14:34:46" />
+        <HeadhunterReason Reason="Drill" Player="ADM.ryo" Cost="65913" Timestamp="25.01.22 17:05:43" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Pope Kael" Faction="DHZ" Balance="9978" DeathCost="22" DeathCount="5" KillCost="0" KillCount="0" LastUpdate="31.01.22 10:40:09">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="DHZ.Pope Kael" Cost="4" Timestamp="31.01.22 00:36:20" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="27.01.22 23:25:42" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="24.01.22 01:15:10" />
+        <HeadhunterReason Reason="LowPressure" Cost="5" Timestamp="24.01.22 01:12:33" />
+        <HeadhunterReason Reason="Temperature" Cost="5" Timestamp="24.01.22 01:11:16" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="::DKHZN:: Psychonitrous" Faction="DHZ" Balance="9983" DeathCost="17" DeathCount="4" KillCost="0" KillCount="0" LastUpdate="21.02.22 22:13:18">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="4" Timestamp="05.02.22 19:24:43" />
+        <HeadhunterReason Reason="Grid" Cost="4" Timestamp="30.01.22 17:37:43" />
+        <HeadhunterReason Reason="Grid" Player="INCON.Contractors" Cost="4" Timestamp="30.01.22 16:44:47" />
+        <HeadhunterReason Reason="Fall" Cost="5" Timestamp="24.01.22 00:44:13" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="DHZ.DH.Seeker4761" Cost="0" Timestamp="03.02.22 20:58:05" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="SoulReaperII" Faction="EWB" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="31.01.22 02:14:29">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="DH.Seeker4761" Faction="DHZ" Balance="9979" DeathCost="29" DeathCount="6" KillCost="0" KillCount="0" LastUpdate="03.02.22 21:06:29">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="03.02.22 21:06:29" />
+        <HeadhunterReason Reason="Grid" Player="DHZ.::DKHZN:: Psychonitrous" Cost="4" Timestamp="03.02.22 20:58:05" />
+        <HeadhunterReason Reason="LowPressure" Cost="4" Timestamp="03.02.22 13:19:55" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="27.01.22 20:44:00" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="27.01.22 20:43:29" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="27.01.22 20:32:45" />
+        <HeadhunterReason Reason="LowPressure" Cost="5" Timestamp="27.01.22 18:41:49" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="::DKHZN:: Drakanis Vader" Faction="DHZ" Balance="9995" DeathCost="5" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="28.01.22 00:16:09">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="5" Timestamp="28.01.22 00:07:36" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Henak&quot;" Faction="BnY" Balance="22954" DeathCost="1128" DeathCount="27" KillCost="0" KillCount="0" LastUpdate="20.02.22 22:20:02">
+      <DeathList>
+        <HeadhunterReason Reason="Temperature" Cost="39" Timestamp="20.02.22 21:26:50" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="39" Timestamp="20.02.22 20:49:03" />
+        <HeadhunterReason Reason="Temperature" Cost="39" Timestamp="20.02.22 20:40:44" />
+        <HeadhunterReason Reason="LowPressure" Cost="48" Timestamp="11.02.22 15:26:14" />
+        <HeadhunterReason Reason="Grid" Player="BnY.RickenBacker" Cost="48" Timestamp="10.02.22 22:53:42" />
+        <HeadhunterReason Reason="Temperature" Cost="48" Timestamp="10.02.22 01:33:15" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="48" Timestamp="10.02.22 00:39:15" />
+        <HeadhunterReason Reason="Fall" Cost="48" Timestamp="09.02.22 23:44:19" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="48" Timestamp="08.02.22 23:59:46" />
+        <HeadhunterReason Reason="Suicide" Player="BnY.Henak&quot;" Cost="48" Timestamp="08.02.22 23:28:31" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Fall" Player="BnY.BruhMaster77" Cost="0" Timestamp="12.02.22 00:13:09" />
+        <HeadhunterReason Reason="Fall" Player="BnY.BruhMaster77" Cost="0" Timestamp="04.02.22 22:51:21" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="BruhMaster77" Faction="BnY" Balance="20419843" DeathCost="96972" DeathCount="44" KillCost="246621" KillCount="1" LastUpdate="22.02.22 23:24:56">
+      <DeathList>
+        <HeadhunterReason Reason="Explosion" Cost="10215" Timestamp="20.02.22 21:08:35" />
+        <HeadhunterReason Reason="Rocket" Player="BnY.BruhMaster77" Cost="10097" Timestamp="18.02.22 20:33:36" />
+        <HeadhunterReason Reason="Rocket" Player="BnY.BruhMaster77" Cost="10102" Timestamp="18.02.22 00:04:59" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="10107" Timestamp="17.02.22 00:42:40" />
+        <HeadhunterReason Reason="Fall" Cost="10112" Timestamp="17.02.22 00:39:33" />
+        <HeadhunterReason Reason="Floating" Cost="10117" Timestamp="16.02.22 20:57:49" />
+        <HeadhunterReason Reason="Fall" Player="BnY.Henak&quot;" Cost="9628" Timestamp="12.02.22 00:13:09" />
+        <HeadhunterReason Reason="Grid" Player="BnY.RickenBacker" Cost="9628" Timestamp="12.02.22 00:10:36" />
+        <HeadhunterReason Reason="Fall" Cost="9633" Timestamp="12.02.22 00:02:27" />
+        <HeadhunterReason Reason="Fall" Cost="1270" Timestamp="11.02.22 18:28:08" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Bullet" Player="ATS.Bad_Rambo" Cost="246621" Timestamp="18.02.22 20:49:19" />
+        <HeadhunterReason Reason="Grid" Player="BnY.Henak&quot;" Cost="0" Timestamp="05.02.22 18:37:13" />
+        <HeadhunterReason Reason="Grid" Player="BnY.RickenBacker" Cost="0" Timestamp="31.01.22 00:26:27" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="RickenBacker" Faction="BnY" Balance="9995" DeathCost="1203" DeathCount="23" KillCost="0" KillCount="0" LastUpdate="20.02.22 22:20:02">
+      <DeathList>
+        <HeadhunterReason Reason="Explosion" Cost="39" Timestamp="20.02.22 21:08:35" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="39" Timestamp="20.02.22 20:50:26" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="39" Timestamp="20.02.22 20:20:19" />
+        <HeadhunterReason Reason="Fall" Cost="48" Timestamp="10.02.22 23:03:05" />
+        <HeadhunterReason Reason="Bullet" Player="BnY.RickenBacker" Cost="48" Timestamp="09.02.22 01:23:02" />
+        <HeadhunterReason Reason="LowPressure" Cost="48" Timestamp="06.02.22 19:51:37" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="48" Timestamp="06.02.22 02:47:29" />
+        <HeadhunterReason Reason="LowPressure" Cost="199" Timestamp="05.02.22 20:18:10" />
+        <HeadhunterReason Reason="Grid" Player="BnY.RickenBacker" Cost="49" Timestamp="05.02.22 19:23:58" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="49" Timestamp="05.02.22 18:23:54" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="BnY.BruhMaster77" Cost="0" Timestamp="12.02.22 00:10:36" />
+        <HeadhunterReason Reason="Grid" Player="BnY.Henak&quot;" Cost="0" Timestamp="10.02.22 22:53:42" />
+        <HeadhunterReason Reason="Grid" Player="BnY.BruhMaster77" Cost="0" Timestamp="09.02.22 23:50:21" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="::DKHZN:: Junebug" Faction="DHZ" Balance="9995" DeathCost="5" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="28.01.22 11:12:24">
+      <DeathList>
+        <HeadhunterReason Reason="LowPressure" Cost="5" Timestamp="28.01.22 10:29:59" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Sea Raider" Faction="NPA" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="02.02.22 08:00:22">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Beagle" Balance="10000" DeathCost="5" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="29.01.22 09:58:46">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="Beagle" Cost="5" Timestamp="29.01.22 09:58:46" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="MasterCrap" Faction="HKS" Balance="9995" DeathCost="5" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="02.02.22 02:50:22">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="MasterCrap" Cost="5" Timestamp="01.02.22 18:50:23" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Demzky" Balance="10000" DeathCost="5" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="01.02.22 01:15:03">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="Demzky" Cost="5" Timestamp="01.02.22 01:15:03" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="123" Balance="9875" DeathCost="133" DeathCount="23" KillCost="0" KillCount="0" LastUpdate="22.02.22 01:57:41">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="22.02.22 01:59:14" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="22.02.22 01:58:24" />
+        <HeadhunterReason Reason="Suicide" Player="123" Cost="4" Timestamp="21.02.22 22:53:59" />
+        <HeadhunterReason Reason="Suicide" Player="123" Cost="4" Timestamp="21.02.22 22:50:59" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="21.02.22 22:44:23" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="21.02.22 22:41:10" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="21.02.22 22:40:36" />
+        <HeadhunterReason Reason="Suicide" Player="123" Cost="4" Timestamp="21.02.22 20:12:07" />
+        <HeadhunterReason Reason="Grid" Player="123" Cost="4" Timestamp="21.02.22 19:59:02" />
+        <HeadhunterReason Reason="Suicide" Player="123" Cost="4" Timestamp="21.02.22 19:48:42" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Rawger" Faction="ENG" Balance="9959" DeathCost="41" DeathCount="7" KillCost="0" KillCount="0" LastUpdate="22.02.22 19:43:58">
+      <DeathList>
+        <HeadhunterReason Reason="Explosion" Player="GCTC.Galactic Technologies CEO" Cost="4" Timestamp="22.02.22 19:41:06" />
+        <HeadhunterReason Reason="Suicide" Player="ENG.Rawger" Cost="4" Timestamp="22.02.22 19:34:13" />
+        <HeadhunterReason Reason="Suicide" Player="ENG.Rawger" Cost="4" Timestamp="22.02.22 19:31:41" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="07.02.22 19:10:38" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="07.02.22 18:31:53" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="07.02.22 12:27:55" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="03.02.22 15:55:34" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="03.02.22 14:31:25" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="03.02.22 14:25:09" />
+        <HeadhunterReason Reason="Suicide" Player="Rawger" Cost="5" Timestamp="03.02.22 13:55:53" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="furiousskeleton" Faction="NHI" Balance="9963" DeathCost="37" DeathCount="6" KillCost="0" KillCount="0" LastUpdate="05.02.22 13:05:58">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="04.02.22 22:03:50" />
+        <HeadhunterReason Reason="Suicide" Player="NHI.furiousskeleton" Cost="4" Timestamp="04.02.22 21:29:56" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="04.02.22 01:00:28" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="04.02.22 01:00:00" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="04.02.22 00:59:40" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="03.02.22 22:50:06" />
+        <HeadhunterReason Reason="Suicide" Player="NHI.furiousskeleton" Cost="4" Timestamp="03.02.22 21:37:43" />
+        <HeadhunterReason Reason="Suicide" Player="NHI.furiousskeleton" Cost="4" Timestamp="03.02.22 20:33:49" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="5" Timestamp="03.02.22 15:24:22" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Pewpew" Balance="9995" DeathCost="5" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="08.02.22 20:52:59">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="Pewpew" Cost="5" Timestamp="03.02.22 22:43:03" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Mr.Smitety" Faction="CRL" Balance="9942" DeathCost="58" DeathCount="9" KillCost="0" KillCount="0" LastUpdate="05.02.22 00:20:06">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="05.02.22 00:07:53" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="04.02.22 22:51:21" />
+        <HeadhunterReason Reason="Grid" Player="CRL.Mr.Smitety" Cost="4" Timestamp="04.02.22 22:10:43" />
+        <HeadhunterReason Reason="Suicide" Player="CRL.Mr.Smitety" Cost="4" Timestamp="04.02.22 22:09:53" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 21:37:56" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 21:28:43" />
+        <HeadhunterReason Reason="Suicide" Player="CRL.Mr.Smitety" Cost="4" Timestamp="04.02.22 20:57:16" />
+        <HeadhunterReason Reason="Suicide" Player="CRL.Mr.Smitety" Cost="4" Timestamp="04.02.22 20:46:20" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 20:39:59" />
+        <HeadhunterReason Reason="Suicide" Player="CRL.Mr.Smitety" Cost="4" Timestamp="04.02.22 20:39:21" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Topform Bitch" Faction="CRL" Balance="9774" DeathCost="230" DeathCount="53" KillCost="0" KillCount="0" LastUpdate="04.02.22 23:22:58">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 23:22:58" />
+        <HeadhunterReason Reason="Suicide" Player="CRL.Topform Bitch" Cost="4" Timestamp="04.02.22 23:19:54" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="04.02.22 23:08:39" />
+        <HeadhunterReason Reason="Suicide" Player="CRL.Topform Bitch" Cost="4" Timestamp="04.02.22 22:38:54" />
+        <HeadhunterReason Reason="Weld" Player="INCON.Contractors" Cost="4" Timestamp="04.02.22 22:35:02" />
+        <HeadhunterReason Reason="Weld" Player="INCON.Contractors" Cost="4" Timestamp="04.02.22 22:33:55" />
+        <HeadhunterReason Reason="Weld" Player="INCON.Contractors" Cost="4" Timestamp="04.02.22 22:32:59" />
+        <HeadhunterReason Reason="Suicide" Player="CRL.Topform Bitch" Cost="4" Timestamp="04.02.22 22:16:36" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 22:09:54" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 22:08:56" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Kasumii Maruyama" Faction="CRL" Balance="9931" DeathCost="69" DeathCount="17" KillCost="0" KillCount="0" LastUpdate="06.02.22 14:52:16">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="06.02.22 14:46:13" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="05.02.22 00:13:57" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="05.02.22 00:10:09" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="05.02.22 00:07:24" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="04.02.22 22:57:22" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="04.02.22 22:00:14" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="04.02.22 21:55:04" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="04.02.22 21:47:48" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="04.02.22 21:46:27" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 21:45:19" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Mads_" Faction="CRL" Balance="9959" DeathCost="41" DeathCount="10" KillCost="0" KillCount="0" LastUpdate="06.02.22 14:52:16">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="04.02.22 21:50:06" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 21:46:01" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="04.02.22 21:45:22" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="04.02.22 21:09:23" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 20:03:52" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 20:01:43" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 19:59:28" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 19:56:43" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="04.02.22 19:55:18" />
+        <HeadhunterReason Reason="Fall" Cost="5" Timestamp="04.02.22 19:52:29" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Artharius" Faction="EBM" Balance="4291535" DeathCost="43223" DeathCount="30" KillCost="707519" KillCount="2" LastUpdate="21.02.22 00:09:24">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="2146" Timestamp="21.02.22 00:05:41" />
+        <HeadhunterReason Reason="Suicide" Player="EBM.Artharius" Cost="2147" Timestamp="19.02.22 21:23:17" />
+        <HeadhunterReason Reason="Grid" Cost="2148" Timestamp="19.02.22 19:55:09" />
+        <HeadhunterReason Reason="Temperature" Cost="2150" Timestamp="16.02.22 21:41:09" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="2151" Timestamp="16.02.22 20:23:57" />
+        <HeadhunterReason Reason="Rocket" Player="REAVER.Miranda Survivors" Cost="2153" Timestamp="16.02.22 20:22:44" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="2153" Timestamp="16.02.22 20:21:37" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="2154" Timestamp="16.02.22 20:20:20" />
+        <HeadhunterReason Reason="Rocket" Player="REAVER.Miranda Survivors" Cost="2157" Timestamp="16.02.22 20:18:32" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="2157" Timestamp="16.02.22 20:17:51" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="ORT.Alex" Cost="0" Timestamp="21.02.22 00:18:23" />
+        <HeadhunterReason Reason="Bullet" Player="FSH.FishToasts" Cost="707519" Timestamp="15.02.22 22:58:54" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="KevanAwes" Faction="TES" Balance="9959" DeathCost="41" DeathCount="9" KillCost="0" KillCount="0" LastUpdate="21.02.22 17:10:08">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="TES.KevanAwes" Cost="4" Timestamp="11.02.22 19:07:49" />
+        <HeadhunterReason Reason="Floating" Cost="4" Timestamp="10.02.22 14:52:38" />
+        <HeadhunterReason Reason="Grid" Player="TES.KevanAwes" Cost="4" Timestamp="10.02.22 14:19:26" />
+        <HeadhunterReason Reason="Suicide" Player="TES.KevanAwes" Cost="4" Timestamp="10.02.22 14:18:37" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="10.02.22 13:47:36" />
+        <HeadhunterReason Reason="Grid" Player="TES.KevanAwes" Cost="4" Timestamp="09.02.22 13:29:07" />
+        <HeadhunterReason Reason="LowPressure" Cost="4" Timestamp="07.02.22 15:41:57" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="07.02.22 14:42:06" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="07.02.22 14:17:44" />
+        <HeadhunterReason Reason="LowPressure" Cost="5" Timestamp="05.02.22 18:59:30" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="ray" Faction="Vie" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="05.02.22 19:27:00">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="suwu" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="05.02.22 20:25:12">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="zgholdingsllc1" Faction="UBA" Balance="10471406" DeathCost="60056" DeathCount="24" KillCost="137993" KillCount="1" LastUpdate="22.02.22 02:22:06">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="5169" Timestamp="19.02.22 16:14:21" />
+        <HeadhunterReason Reason="Fall" Cost="5171" Timestamp="19.02.22 15:56:45" />
+        <HeadhunterReason Reason="Fall" Cost="5174" Timestamp="19.02.22 15:27:05" />
+        <HeadhunterReason Reason="Fall" Cost="5177" Timestamp="19.02.22 15:18:20" />
+        <HeadhunterReason Reason="Suicide" Player="UBA.zgholdingsllc1" Cost="5179" Timestamp="19.02.22 14:09:59" />
+        <HeadhunterReason Reason="Grid" Cost="5182" Timestamp="19.02.22 13:12:46" />
+        <HeadhunterReason Reason="Suicide" Player="UBA.zgholdingsllc1" Cost="5184" Timestamp="17.02.22 19:46:37" />
+        <HeadhunterReason Reason="Fall" Cost="5190" Timestamp="17.02.22 19:33:45" />
+        <HeadhunterReason Reason="Explosion" Cost="5190" Timestamp="17.02.22 19:33:06" />
+        <HeadhunterReason Reason="Suicide" Player="UBA.zgholdingsllc1" Cost="261" Timestamp="16.02.22 17:13:11" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Bullet" Player="EWB.DroneSensor" Cost="137993" Timestamp="22.02.22 00:26:40" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Catyko" Faction="ASA" Balance="9982" DeathCost="18" DeathCount="2" KillCost="0" KillCount="0" LastUpdate="07.02.22 14:42:06">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="ASA.Catyko" Cost="4" Timestamp="06.02.22 17:41:52" />
+        <HeadhunterReason Reason="Asphyxia" Cost="4" Timestamp="06.02.22 16:48:50" />
+        <HeadhunterReason Reason="Suicide" Player="ASA.Catyko" Cost="5" Timestamp="06.02.22 16:02:56" />
+        <HeadhunterReason Reason="Fall" Cost="5" Timestamp="06.02.22 16:01:18" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="PappaBear71" Faction="OSB" Balance="9935" DeathCost="65" DeathCount="16" KillCost="0" KillCount="0" LastUpdate="15.02.22 20:28:48">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="15.02.22 14:59:26" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="15.02.22 14:47:32" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="15.02.22 14:44:07" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="15.02.22 14:40:45" />
+        <HeadhunterReason Reason="Grid" Player="OSB.PappaBear71" Cost="4" Timestamp="15.02.22 14:14:36" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="15.02.22 11:50:10" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="15.02.22 11:25:19" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="12.02.22 02:30:55" />
+        <HeadhunterReason Reason="Explosion" Player="IMBER.The Tribunal" Cost="4" Timestamp="12.02.22 02:22:45" />
+        <HeadhunterReason Reason="Explosion" Player="IMBER.The Tribunal" Cost="4" Timestamp="10.02.22 14:05:01" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Cryptic" Faction="DSE" Balance="9979" DeathCost="25" DeathCount="4" KillCost="0" KillCount="0" LastUpdate="12.02.22 17:12:49">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="SPRT.Space Pirates" Cost="4" Timestamp="12.02.22 17:12:49" />
+        <HeadhunterReason Reason="Bullet" Player="SOSB.Sovereign Shipbuilding CEO" Cost="4" Timestamp="12.02.22 16:29:05" />
+        <HeadhunterReason Reason="Bullet" Player="SOSB.Sovereign Shipbuilding CEO" Cost="4" Timestamp="12.02.22 16:28:45" />
+        <HeadhunterReason Reason="Suicide" Player="DSE.Cryptic" Cost="4" Timestamp="12.02.22 15:49:42" />
+        <HeadhunterReason Reason="Suicide" Player="DSE.Cryptic" Cost="4" Timestamp="12.02.22 15:47:03" />
+        <HeadhunterReason Reason="Bullet" Player="RVSR.Revolutionary Sappers CEO" Cost="5" Timestamp="10.02.22 11:14:38" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Semaj" Faction="ALT" Balance="9888" DeathCost="112" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="13.02.22 21:39:51">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="EWB.Semaj" Cost="4" Timestamp="13.02.22 16:16:19" />
+        <HeadhunterReason Reason="Suicide" Player="EWB.Semaj" Cost="4" Timestamp="13.02.22 16:01:47" />
+        <HeadhunterReason Reason="Bullet" Player="EWB.CiRCA" Cost="99" Timestamp="08.02.22 17:48:49" />
+        <HeadhunterReason Reason="Suicide" Player="EWB.Semaj" Cost="5" Timestamp="08.02.22 17:36:39" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="ALT.Fran" Cost="0" Timestamp="13.02.22 16:30:00" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="TehJustOne" Faction="Ro2" Balance="9911" DeathCost="93" DeathCount="12" KillCost="0" KillCount="0" LastUpdate="18.02.22 21:45:24">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="Ro2.TehJustOne" Cost="4" Timestamp="18.02.22 21:45:24" />
+        <HeadhunterReason Reason="Suicide" Player="Ro2.TehJustOne" Cost="4" Timestamp="18.02.22 20:54:47" />
+        <HeadhunterReason Reason="Suicide" Player="RTD.TehJustOne" Cost="4" Timestamp="15.02.22 01:54:17" />
+        <HeadhunterReason Reason="Suicide" Player="RTD.TehJustOne" Cost="4" Timestamp="13.02.22 20:04:05" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="13.02.22 19:19:12" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="13.02.22 19:16:03" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="13.02.22 19:15:08" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="13.02.22 19:12:47" />
+        <HeadhunterReason Reason="Suicide" Player="RTD.TehJustOne" Cost="4" Timestamp="13.02.22 19:11:02" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="13.02.22 18:50:55" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="USDcom" Faction="USD" Balance="9947" DeathCost="53" DeathCount="7" KillCost="0" KillCount="0" LastUpdate="17.02.22 08:33:25">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="17.02.22 08:26:45" />
+        <HeadhunterReason Reason="Rocket" Player="REAVER.Miranda Survivors" Cost="4" Timestamp="17.02.22 08:25:38" />
+        <HeadhunterReason Reason="Suicide" Player="USD.USDcom" Cost="4" Timestamp="16.02.22 20:48:01" />
+        <HeadhunterReason Reason="Suicide" Player="USD.USDcom" Cost="4" Timestamp="16.02.22 20:45:54" />
+        <HeadhunterReason Reason="Suicide" Player="USD.USDcom" Cost="4" Timestamp="16.02.22 20:29:42" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="16.02.22 20:22:06" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="16.02.22 20:20:16" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="10.02.22 18:43:57" />
+        <HeadhunterReason Reason="Suicide" Player="USD.USDcom" Cost="4" Timestamp="10.02.22 18:42:55" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="10.02.22 18:33:40" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="HIPON" Faction="Ro2" Balance="2588" DeathCost="82" DeathCount="57" KillCost="0" KillCount="0" LastUpdate="18.02.22 21:45:24">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="1" Timestamp="17.02.22 22:29:12" />
+        <HeadhunterReason Reason="Fall" Cost="1" Timestamp="17.02.22 22:26:39" />
+        <HeadhunterReason Reason="Suicide" Player="Ro2.HIPON" Cost="1" Timestamp="16.02.22 22:10:28" />
+        <HeadhunterReason Reason="Fall" Cost="1" Timestamp="16.02.22 20:55:28" />
+        <HeadhunterReason Reason="Suicide" Player="RTD.HIPON" Cost="1" Timestamp="13.02.22 20:35:37" />
+        <HeadhunterReason Reason="Temperature" Cost="1" Timestamp="13.02.22 19:40:58" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="1" Timestamp="13.02.22 19:09:45" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="1" Timestamp="13.02.22 19:09:14" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="1" Timestamp="13.02.22 19:08:55" />
+        <HeadhunterReason Reason="Suicide" Player="RTD.HIPON" Cost="1" Timestamp="13.02.22 19:02:16" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="whatthefatfat10" Balance="10000" DeathCost="10" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="09.02.22 20:12:36">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="5" Timestamp="09.02.22 20:13:30" />
+        <HeadhunterReason Reason="Suicide" Player="whatthefatfat10" Cost="5" Timestamp="09.02.22 20:12:36" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="KART" Balance="9991" DeathCost="9" DeathCount="2" KillCost="0" KillCount="0" LastUpdate="10.02.22 19:39:09">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="10.02.22 19:26:34" />
+        <HeadhunterReason Reason="LowPressure" Cost="5" Timestamp="10.02.22 19:22:21" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="SyNcKJ" Faction="PSN" Balance="9995" DeathCost="5" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="11.02.22 00:50:38">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="PSN.SyNcKJ" Cost="5" Timestamp="11.02.22 00:10:38" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Animorph" Faction="TIC" Balance="9991" DeathCost="9" DeathCount="2" KillCost="0" KillCount="0" LastUpdate="11.02.22 03:39:33">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="11.02.22 03:29:38" />
+        <HeadhunterReason Reason="LowPressure" Cost="5" Timestamp="11.02.22 03:08:01" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Onepiece" Faction="HOT" Balance="9855" DeathCost="153" DeathCount="32" KillCost="0" KillCount="0" LastUpdate="21.02.22 23:24:17">
+      <DeathList>
+        <HeadhunterReason Reason="Weld" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 02:16:24" />
+        <HeadhunterReason Reason="Weld" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 02:15:50" />
+        <HeadhunterReason Reason="Grid" Player="HOT.azrul" Cost="4" Timestamp="20.02.22 02:00:13" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="20.02.22 01:59:54" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 01:59:16" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="20.02.22 01:58:23" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 01:49:12" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 01:48:00" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 01:43:18" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="19.02.22 05:32:25" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="NineNoeru" Faction="EGM" Balance="37580737" DeathCost="110668" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="22.02.22 21:30:00">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="EGM.NineNoeru" Cost="18799" Timestamp="22.02.22 21:11:40" />
+        <HeadhunterReason Reason="Suicide" Player="EGM.NineNoeru" Cost="18809" Timestamp="22.02.22 21:08:59" />
+        <HeadhunterReason Reason="Suicide" Player="EGM.NineNoeru" Cost="18818" Timestamp="22.02.22 20:58:54" />
+        <HeadhunterReason Reason="Suicide" Player="EGM.NineNoeru" Cost="18833" Timestamp="22.02.22 20:47:26" />
+        <HeadhunterReason Reason="Suicide" Player="EGM.NineNoeru" Cost="13801" Timestamp="16.02.22 22:25:46" />
+        <HeadhunterReason Reason="Suicide" Player="EGM.NineNoeru" Cost="13002" Timestamp="16.02.22 21:13:14" />
+        <HeadhunterReason Reason="Suicide" Player="EGM.NineNoeru" Cost="8577" Timestamp="16.02.22 15:45:26" />
+        <HeadhunterReason Reason="Suicide" Player="EGM.NineNoeru" Cost="4" Timestamp="15.02.22 20:19:22" />
+        <HeadhunterReason Reason="Suicide" Player="EGM.NineNoeru" Cost="4" Timestamp="15.02.22 17:30:54" />
+        <HeadhunterReason Reason="Suicide" Player="EGM.NineNoeru" Cost="4" Timestamp="15.02.22 17:29:57" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Poseidon_6th" Faction="DSE" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="15.02.22 15:08:40">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Alex" Faction="ORT" Balance="1601600" DeathCost="190074" DeathCount="58" KillCost="0" KillCount="0" LastUpdate="22.02.22 08:49:21">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="ORT.Alex" Cost="801" Timestamp="22.02.22 07:55:02" />
+        <HeadhunterReason Reason="Bullet" Player="ORKS.Gork and Mork" Cost="801" Timestamp="22.02.22 07:53:13" />
+        <HeadhunterReason Reason="Suicide" Player="ORT.Alex" Cost="2134" Timestamp="22.02.22 05:57:28" />
+        <HeadhunterReason Reason="Suicide" Player="ORT.Alex" Cost="2135" Timestamp="22.02.22 05:38:23" />
+        <HeadhunterReason Reason="Weld" Player="ORT.Alex" Cost="2136" Timestamp="22.02.22 05:15:37" />
+        <HeadhunterReason Reason="Suicide" Player="ORT.Alex" Cost="2137" Timestamp="22.02.22 04:53:18" />
+        <HeadhunterReason Reason="Suicide" Player="ORT.Alex" Cost="2138" Timestamp="21.02.22 20:37:46" />
+        <HeadhunterReason Reason="Suicide" Player="ORT.Alex" Cost="2140" Timestamp="21.02.22 20:34:21" />
+        <HeadhunterReason Reason="Suicide" Player="ORT.Alex" Cost="2141" Timestamp="21.02.22 17:45:03" />
+        <HeadhunterReason Reason="Suicide" Player="ORT.Alex" Cost="2142" Timestamp="21.02.22 17:10:08" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Culepica" Faction="bla" Balance="24748" DeathCost="2830" DeathCount="94" KillCost="16776" KillCount="2" LastUpdate="22.02.22 22:06:48">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="bla.Culepica" Cost="12" Timestamp="22.02.22 21:42:02" />
+        <HeadhunterReason Reason="Floating" Cost="12" Timestamp="22.02.22 21:41:42" />
+        <HeadhunterReason Reason="Suicide" Player="bla.Culepica" Cost="12" Timestamp="22.02.22 21:02:25" />
+        <HeadhunterReason Reason="Fall" Cost="12" Timestamp="22.02.22 20:54:41" />
+        <HeadhunterReason Reason="Suicide" Player="bla.Culepica" Cost="12" Timestamp="22.02.22 20:15:34" />
+        <HeadhunterReason Reason="Suicide" Player="bla.Culepica" Cost="12" Timestamp="22.02.22 20:05:04" />
+        <HeadhunterReason Reason="Suicide" Player="bla.Culepica" Cost="12" Timestamp="22.02.22 19:56:02" />
+        <HeadhunterReason Reason="Suicide" Player="bla.Culepica" Cost="12" Timestamp="22.02.22 19:49:55" />
+        <HeadhunterReason Reason="Suicide" Player="bla.Culepica" Cost="12" Timestamp="22.02.22 19:43:58" />
+        <HeadhunterReason Reason="Suicide" Player="bla.Culepica" Cost="12" Timestamp="22.02.22 19:40:45" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="ATS.Bad_Rambo" Cost="16767" Timestamp="22.02.22 00:20:59" />
+        <HeadhunterReason Reason="Grid" Player="Sara" Cost="9" Timestamp="21.02.22 21:32:10" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Fran" Faction="ALT" Balance="10000" DeathCost="5" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="13.02.22 20:55:21">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="ALT.Semaj" Cost="5" Timestamp="13.02.22 16:30:00" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="millhorncave" Faction="EWB" Balance="9990" DeathCost="14" DeathCount="2" KillCost="0" KillCount="0" LastUpdate="15.02.22 14:25:51">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="EWB.DroneSensor" Cost="4" Timestamp="15.02.22 13:52:29" />
+        <HeadhunterReason Reason="Fall" Cost="5" Timestamp="15.02.22 13:47:29" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="5" Timestamp="15.02.22 13:46:04" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="!Don-The-VII" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="13.02.22 16:34:15">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Cuc Thit" Faction="TDF" Balance="9991" DeathCost="13" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="22.02.22 15:39:08">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="TDF.Cuc Thit" Cost="4" Timestamp="22.02.22 15:39:08" />
+        <HeadhunterReason Reason="Suicide" Player="TDF.Cuc Thit" Cost="4" Timestamp="20.02.22 16:59:31" />
+        <HeadhunterReason Reason="Suicide" Player="TDF.Cuc Thit" Cost="5" Timestamp="20.02.22 16:55:40" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="JJ" Faction="EWB" Balance="9142238" DeathCost="18312" DeathCount="5" KillCost="0" KillCount="0" LastUpdate="22.02.22 23:51:58">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="SPRT.Space Pirates" Cost="4571" Timestamp="21.02.22 00:34:40" />
+        <HeadhunterReason Reason="Fall" Cost="4574" Timestamp="19.02.22 23:39:05" />
+        <HeadhunterReason Reason="Suicide" Player="EWB.JJ" Cost="4576" Timestamp="19.02.22 22:35:21" />
+        <HeadhunterReason Reason="Suicide" Player="EWB.JJ" Cost="4578" Timestamp="19.02.22 22:22:29" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 21:02:22" />
+        <HeadhunterReason Reason="Grid" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.02.22 00:25:18" />
+        <HeadhunterReason Reason="Grid" Player="EWB.JJ" Cost="5" Timestamp="16.02.22 00:27:24" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="EWB.DroneSensor" Cost="0" Timestamp="16.02.22 01:00:19" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="R@ndom" Faction="DSE" Balance="10000" DeathCost="5" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="14.02.22 02:15:12">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="5" Timestamp="14.02.22 02:15:12" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Gazer" Faction="NPC" Balance="9967" DeathCost="33" DeathCount="3" KillCost="0" KillCount="0" LastUpdate="16.02.22 17:28:54">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="NPC.Gazer" Cost="4" Timestamp="16.02.22 17:21:07" />
+        <HeadhunterReason Reason="Suicide" Player="NPC.Gazer" Cost="4" Timestamp="16.02.22 05:07:58" />
+        <HeadhunterReason Reason="Suicide" Player="NPC.Gazer" Cost="4" Timestamp="16.02.22 04:37:40" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="16.02.22 04:30:03" />
+        <HeadhunterReason Reason="Suicide" Player="NPC.Gazer" Cost="4" Timestamp="16.02.22 03:49:09" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="16.02.22 02:38:41" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="16.02.22 02:37:40" />
+        <HeadhunterReason Reason="Suicide" Player="NPC.Gazer" Cost="5" Timestamp="16.02.22 01:44:08" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Taipan" Faction="UFP" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="21.02.22 18:08:57">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="omgAL" Balance="9995" DeathCost="9" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="16.02.22 02:08:06">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="omgAL" Cost="4" Timestamp="16.02.22 02:08:06" />
+        <HeadhunterReason Reason="Suicide" Player="omgAL" Cost="5" Timestamp="16.02.22 02:04:20" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="The Pinnacle" Faction="EWB" Balance="9991" DeathCost="13" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="16.02.22 11:42:02">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="EWB.The Pinnacle" Cost="4" Timestamp="16.02.22 11:42:02" />
+        <HeadhunterReason Reason="Suicide" Player="EWB.The Pinnacle" Cost="4" Timestamp="16.02.22 11:39:11" />
+        <HeadhunterReason Reason="Suicide" Player="EWB.The Pinnacle" Cost="5" Timestamp="16.02.22 11:33:17" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Flash327" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="16.02.22 16:43:13">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Penguin" Faction="EWB" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="17.02.22 04:39:16">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Ethankiddo" Balance="9995" DeathCost="9" DeathCount="2" KillCost="0" KillCount="0" LastUpdate="21.02.22 15:31:00">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="21.02.22 15:31:00" />
+        <HeadhunterReason Reason="Fall" Cost="5" Timestamp="16.02.22 19:27:09" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="JellyBeast" Faction="USD" Balance="9985" DeathCost="15" DeathCount="3" KillCost="0" KillCount="0" LastUpdate="17.02.22 00:13:49">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="5" Timestamp="16.02.22 21:30:07" />
+        <HeadhunterReason Reason="Fall" Cost="5" Timestamp="16.02.22 21:29:10" />
+        <HeadhunterReason Reason="Fall" Cost="5" Timestamp="16.02.22 21:28:28" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="MinamiX" Faction="USD" Balance="9975" DeathCost="25" DeathCount="4" KillCost="0" KillCount="0" LastUpdate="17.02.22 12:23:26">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="17.02.22 02:50:24" />
+        <HeadhunterReason Reason="Suicide" Player="USD.MinamiX" Cost="4" Timestamp="17.02.22 02:21:58" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="17.02.22 02:21:01" />
+        <HeadhunterReason Reason="Explosion" Player="IMBER.The Tribunal" Cost="4" Timestamp="17.02.22 00:37:48" />
+        <HeadhunterReason Reason="Suicide" Player="USD.MinamiX" Cost="4" Timestamp="16.02.22 21:32:34" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="5" Timestamp="16.02.22 21:30:05" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="takrit2552" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="16.02.22 22:10:28">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Flyingace" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="16.02.22 23:37:32">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Lon Mon Dosier" Faction="#3w" Balance="9935" DeathCost="65" DeathCount="14" KillCost="0" KillCount="0" LastUpdate="22.02.22 04:21:36">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Cost="4" Timestamp="21.02.22 01:12:27" />
+        <HeadhunterReason Reason="Explosion" Player="IMBER.The Tribunal" Cost="4" Timestamp="20.02.22 09:43:17" />
+        <HeadhunterReason Reason="Weld" Player="#3w.Lon Mon Dosier" Cost="4" Timestamp="20.02.22 03:52:16" />
+        <HeadhunterReason Reason="Weld" Player="#3w.Lon Mon Dosier" Cost="4" Timestamp="20.02.22 03:43:47" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 02:36:53" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 02:36:08" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 02:29:43" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 02:28:20" />
+        <HeadhunterReason Reason="Grid" Player="#3w.Lon Mon Dosier" Cost="4" Timestamp="19.02.22 20:24:26" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 20:22:07" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="#3w.YesDooooo" Cost="0" Timestamp="20.02.22 00:40:09" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Zeroth" Faction="#3w" Balance="852406" DeathCost="443" DeathCount="3" KillCost="0" KillCount="0" LastUpdate="22.02.22 00:15:39">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="426" Timestamp="19.02.22 21:04:39" />
+        <HeadhunterReason Reason="Suicide" Player="#3w.Zeroth" Cost="0" Timestamp="19.02.22 12:38:05" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.02.22 09:56:45" />
+        <HeadhunterReason Reason="Suicide" Player="#3w.Zeroth" Cost="4" Timestamp="19.02.22 08:58:11" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 03:50:56" />
+        <HeadhunterReason Reason="Suicide" Player="Zeroth" Cost="5" Timestamp="17.02.22 22:56:32" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Clockwork The Painfully Ok" Faction="ISS" Balance="9903" DeathCost="97" DeathCount="20" KillCost="0" KillCount="0" LastUpdate="20.02.22 20:40:44">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="IMBER.The Tribunal" Cost="4" Timestamp="20.02.22 20:16:12" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="20.02.22 19:38:15" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="20.02.22 19:04:31" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="20.02.22 04:23:01" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="20.02.22 03:57:35" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="20.02.22 03:56:49" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="20.02.22 03:56:17" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="20.02.22 03:55:08" />
+        <HeadhunterReason Reason="Grid" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 03:52:28" />
+        <HeadhunterReason Reason="Rocket" Player="REAVER.Miranda Survivors" Cost="4" Timestamp="20.02.22 02:33:52" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="ISS.Crinalius" Cost="0" Timestamp="20.02.22 04:05:34" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Crinalius" Faction="ISS" Balance="9955" DeathCost="49" DeathCount="8" KillCost="0" KillCount="0" LastUpdate="20.02.22 20:40:44">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 19:28:36" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="20.02.22 04:22:48" />
+        <HeadhunterReason Reason="Grid" Player="ISS.Clockwork The Painfully Ok" Cost="4" Timestamp="20.02.22 04:05:34" />
+        <HeadhunterReason Reason="Floating" Cost="4" Timestamp="20.02.22 02:37:11" />
+        <HeadhunterReason Reason="Suicide" Player="ISS.Crinalius" Cost="4" Timestamp="20.02.22 01:52:11" />
+        <HeadhunterReason Reason="Grid" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 00:43:04" />
+        <HeadhunterReason Reason="Grid" Player="ISS.Crinalius" Cost="4" Timestamp="19.02.22 18:34:34" />
+        <HeadhunterReason Reason="Grid" Player="IMBER.The Tribunal" Cost="4" Timestamp="19.02.22 16:17:50" />
+        <HeadhunterReason Reason="Suicide" Player="ISS.Crinalius" Cost="4" Timestamp="19.02.22 00:43:32" />
+        <HeadhunterReason Reason="Suicide" Player="ISS.Crinalius" Cost="4" Timestamp="19.02.22 00:39:16" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="astroman" Faction="SHS" Balance="7167" DeathCost="31" DeathCount="8" KillCost="0" KillCount="0" LastUpdate="20.02.22 19:18:35">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="3" Timestamp="20.02.22 19:18:35" />
+        <HeadhunterReason Reason="Fall" Cost="3" Timestamp="19.02.22 20:32:34" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 19:38:43" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 19:32:34" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 19:21:48" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 19:21:00" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 18:32:44" />
+        <HeadhunterReason Reason="Fall" Cost="5" Timestamp="19.02.22 16:37:03" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="YesDooooo" Faction="#3w" Balance="9979" DeathCost="25" DeathCount="3" KillCost="0" KillCount="0" LastUpdate="21.02.22 00:11:50">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="20.02.22 15:41:42" />
+        <HeadhunterReason Reason="Drill" Player="#3w.YesDooooo" Cost="4" Timestamp="20.02.22 00:43:10" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="20.02.22 00:40:46" />
+        <HeadhunterReason Reason="Grid" Player="#3w.Lon Mon Dosier" Cost="4" Timestamp="20.02.22 00:40:09" />
+        <HeadhunterReason Reason="Suicide" Player="#3w.YesDooooo" Cost="4" Timestamp="19.02.22 22:37:10" />
+        <HeadhunterReason Reason="Suicide" Player="#3w.YesDooooo" Cost="5" Timestamp="19.02.22 00:27:30" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="azrul" Faction="HOT" Balance="9904" DeathCost="96" DeathCount="16" KillCost="0" KillCount="0" LastUpdate="20.02.22 02:36:08">
+      <DeathList>
+        <HeadhunterReason Reason="Weld" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 02:17:49" />
+        <HeadhunterReason Reason="Weld" Player="INCON.Contractors" Cost="4" Timestamp="20.02.22 02:16:39" />
+        <HeadhunterReason Reason="Suicide" Player="HOT.azrul" Cost="4" Timestamp="20.02.22 01:50:32" />
+        <HeadhunterReason Reason="Suicide" Player="HOT.azrul" Cost="4" Timestamp="19.02.22 01:39:01" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="19.02.22 01:32:14" />
+        <HeadhunterReason Reason="Suicide" Player="HOT.azrul" Cost="4" Timestamp="19.02.22 01:27:34" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="19.02.22 01:26:50" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 01:23:26" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Tribunal" Cost="4" Timestamp="19.02.22 01:22:54" />
+        <HeadhunterReason Reason="Suicide" Player="HOT.azrul" Cost="4" Timestamp="19.02.22 01:14:52" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="HOT.Onepiece" Cost="0" Timestamp="20.02.22 02:00:13" />
+        <HeadhunterReason Reason="Grid" Player="HOT.Onepiece" Cost="0" Timestamp="19.02.22 05:13:45" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="[MM] Toasterific" Faction="MME" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="19.02.22 02:56:40">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="TNG" Faction="MME" Balance="10000" DeathCost="95" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="19.02.22 02:16:20">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="EWB.DroneSensor" Cost="95" Timestamp="19.02.22 02:16:20" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Oh_Dead!!" Faction="#3w" Balance="9971" DeathCost="29" DeathCount="6" KillCost="0" KillCount="0" LastUpdate="19.02.22 05:20:54">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 05:15:22" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 04:40:09" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 04:33:12" />
+        <HeadhunterReason Reason="Bullet" Player="PARALLAX.The Chairman" Cost="4" Timestamp="19.02.22 04:17:27" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 03:42:06" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="19.02.22 03:40:59" />
+        <HeadhunterReason Reason="Suicide" Player="Oh_Dead!!" Cost="5" Timestamp="19.02.22 02:25:49" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Daniboi" Faction="SHS" Balance="10000" DeathCost="5" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="19.02.22 15:41:22">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="5" Timestamp="19.02.22 15:41:22" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="trolllord172" Faction="EWB" Balance="9995" DeathCost="5" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="22.02.22 20:58:18">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="5" Timestamp="19.02.22 19:33:33" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="B1gboy" Faction="EWB" Balance="10000" DeathCost="5" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="20.02.22 01:09:59">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="EWB.B1gboy" Cost="5" Timestamp="20.02.22 01:11:13" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="uwu" Faction="AIS" Balance="9991" DeathCost="486" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="20.02.22 15:16:30">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="AIS.uwu" Cost="486" Timestamp="20.02.22 14:36:36" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Darren" Balance="9974" DeathCost="8" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="20.02.22 15:16:30">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Cost="4" Timestamp="20.02.22 15:17:20" />
+        <HeadhunterReason Reason="Suicide" Player="Darren" Cost="4" Timestamp="20.02.22 15:09:15" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="devnull69x" Faction="69x" Balance="9979" DeathCost="21" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="22.02.22 20:21:09">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Cost="4" Timestamp="22.02.22 13:37:17" />
+        <HeadhunterReason Reason="Suicide" Player="69x.devnull69x" Cost="4" Timestamp="21.02.22 13:03:18" />
+        <HeadhunterReason Reason="Suicide" Player="69x.devnull69x" Cost="4" Timestamp="21.02.22 13:01:07" />
+        <HeadhunterReason Reason="Suicide" Player="69x.devnull69x" Cost="4" Timestamp="21.02.22 12:44:03" />
+        <HeadhunterReason Reason="Suicide" Player="devnull69x" Cost="5" Timestamp="20.02.22 16:05:28" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="PanZerJab" Faction="69x" Balance="9987" DeathCost="13" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="22.02.22 16:14:47">
+      <DeathList>
+        <HeadhunterReason Reason="Drill" Player="69x.PanZerJab" Cost="4" Timestamp="21.02.22 23:33:07" />
+        <HeadhunterReason Reason="Suicide" Player="69x.PanZerJab" Cost="4" Timestamp="21.02.22 20:55:32" />
+        <HeadhunterReason Reason="Suicide" Player="PanZerJab" Cost="5" Timestamp="20.02.22 16:05:08" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="guesswho2778" Balance="9995" DeathCost="9" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="20.02.22 20:22:40">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="EWB.guesswho2778" Cost="4" Timestamp="20.02.22 20:22:40" />
+        <HeadhunterReason Reason="Suicide" Player="EWB.guesswho2778" Cost="5" Timestamp="20.02.22 20:20:37" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Zenahi" Faction="OPA" Balance="9987" DeathCost="13" DeathCount="2" KillCost="0" KillCount="0" LastUpdate="21.02.22 08:05:21">
+      <DeathList>
+        <HeadhunterReason Reason="Explosion" Player="REAVER.Miranda Survivors" Cost="4" Timestamp="21.02.22 00:30:19" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="4" Timestamp="21.02.22 00:20:05" />
+        <HeadhunterReason Reason="Suicide" Player="OPA.Zenahi" Cost="5" Timestamp="20.02.22 23:30:45" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Nubest" Faction="OPA" Balance="9979" DeathCost="21" DeathCount="4" KillCost="0" KillCount="0" LastUpdate="21.02.22 01:06:06">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="OPA.Nubest" Cost="4" Timestamp="21.02.22 00:59:06" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="4" Timestamp="21.02.22 00:28:30" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="4" Timestamp="21.02.22 00:24:50" />
+        <HeadhunterReason Reason="LowPressure" Cost="4" Timestamp="21.02.22 00:23:08" />
+        <HeadhunterReason Reason="Suicide" Player="OPA.Nubest" Cost="5" Timestamp="20.02.22 23:30:35" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Vi" Faction="NRM" Balance="9923" DeathCost="77" DeathCount="8" KillCost="0" KillCount="0" LastUpdate="22.02.22 23:51:58">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="NRM.Vi" Cost="4" Timestamp="22.02.22 23:20:57" />
+        <HeadhunterReason Reason="Suicide" Player="NRM.Vi" Cost="4" Timestamp="22.02.22 23:17:59" />
+        <HeadhunterReason Reason="Suicide" Player="NRM.Vi" Cost="4" Timestamp="22.02.22 23:14:59" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.02.22 21:42:15" />
+        <HeadhunterReason Reason="Suicide" Player="NRM.Vi" Cost="4" Timestamp="22.02.22 20:58:18" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.02.22 20:53:11" />
+        <HeadhunterReason Reason="Suicide" Player="NRM.Vi" Cost="4" Timestamp="22.02.22 20:50:21" />
+        <HeadhunterReason Reason="Grid" Player="NRM.Vi" Cost="4" Timestamp="22.02.22 20:48:12" />
+        <HeadhunterReason Reason="Suicide" Player="NRM.Vi" Cost="4" Timestamp="22.02.22 20:03:58" />
+        <HeadhunterReason Reason="Suicide" Player="NRM.Vi" Cost="4" Timestamp="22.02.22 20:00:29" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="ArchDK" Faction="NRM" Balance="9959" DeathCost="45" DeathCount="11" KillCost="0" KillCount="0" LastUpdate="22.02.22 23:24:56">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="NRM.ArchDK" Cost="4" Timestamp="22.02.22 23:24:56" />
+        <HeadhunterReason Reason="Grid" Player="NRM.ArchDK" Cost="4" Timestamp="22.02.22 21:32:36" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.02.22 20:48:35" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.02.22 01:18:53" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.02.22 00:16:55" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="21.02.22 23:47:58" />
+        <HeadhunterReason Reason="Grid" Player="NRM.ArchDK" Cost="4" Timestamp="21.02.22 23:39:32" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="21.02.22 23:37:23" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="21.02.22 23:32:49" />
+        <HeadhunterReason Reason="Grid" Player="NRM.ArchDK" Cost="4" Timestamp="21.02.22 22:32:13" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Sara" Faction="bla" Balance="9822" DeathCost="202" DeathCount="30" KillCost="60" KillCount="1" LastUpdate="22.02.22 23:24:56">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="bla.Sara" Cost="4" Timestamp="22.02.22 21:57:08" />
+        <HeadhunterReason Reason="Grid" Player="INCON.Contractors" Cost="4" Timestamp="22.02.22 21:41:04" />
+        <HeadhunterReason Reason="Suicide" Player="bla.Sara" Cost="4" Timestamp="22.02.22 21:30:56" />
+        <HeadhunterReason Reason="Suicide" Player="bla.Sara" Cost="4" Timestamp="22.02.22 21:30:23" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.02.22 21:16:24" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.02.22 21:07:18" />
+        <HeadhunterReason Reason="Grid" Player="INCON.Contractors" Cost="4" Timestamp="22.02.22 21:05:49" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.02.22 21:05:07" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.02.22 20:59:55" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="22.02.22 20:45:20" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Drill" Player="FSH.Culepica" Cost="60" Timestamp="22.02.22 04:47:48" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="xplaygtk" Faction="Dig" Balance="9983" DeathCost="17" DeathCount="3" KillCost="0" KillCount="0" LastUpdate="21.02.22 23:39:32">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="21.02.22 22:48:47" />
+        <HeadhunterReason Reason="Suicide" Player="Dig.xplaygtk" Cost="4" Timestamp="21.02.22 22:17:18" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="21.02.22 22:13:42" />
+        <HeadhunterReason Reason="Fall" Cost="5" Timestamp="21.02.22 22:10:20" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="LongHardNSalty" Faction="EWB" Balance="9975" DeathCost="25" DeathCount="2" KillCost="0" KillCount="0" LastUpdate="22.02.22 23:51:58">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="EWB.LongHardNSalty" Cost="4" Timestamp="22.02.22 21:02:44" />
+        <HeadhunterReason Reason="Grid" Player="EWB.LongHardNSalty" Cost="4" Timestamp="22.02.22 15:22:45" />
+        <HeadhunterReason Reason="Suicide" Player="EWB.LongHardNSalty" Cost="4" Timestamp="22.02.22 11:06:59" />
+        <HeadhunterReason Reason="Suicide" Player="EWB.LongHardNSalty" Cost="4" Timestamp="22.02.22 11:02:47" />
+        <HeadhunterReason Reason="Suicide" Player="EWB.LongHardNSalty" Cost="4" Timestamp="22.02.22 00:40:48" />
+        <HeadhunterReason Reason="Grid" Player="EWB.LongHardNSalty" Cost="5" Timestamp="22.02.22 00:34:03" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Cocodogg420" Faction="EWB" Balance="10000" DeathCost="5" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="22.02.22 00:53:25">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="EWB.DroneSensor" Cost="5" Timestamp="22.02.22 00:53:25" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Pongosiant" Faction="UMB" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="22.02.22 05:00:22">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+  </Players>
+  <Duels />
+  <ExcludedFactions />
+</HeadhunterConfig>

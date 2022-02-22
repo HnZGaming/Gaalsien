@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MyConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SmallGridCommon Chance="0.2" MinAmount="3" MaxAmount="9" />
+  <LargeGridCommon Chance="0.15" MinAmount="6" MaxAmount="40" />
+  <SmallGridRare Chance="0.1" MinAmount="2" MaxAmount="6" />
+  <LargeGridRare Chance="0.07" MinAmount="3" MaxAmount="20" />
+  <SmallGridExotic Chance="0.05" MinAmount="1" MaxAmount="3" />
+  <LargeGridExotic Chance="0.04" MinAmount="2" MaxAmount="10" />
+  <ExcludeGrids>
+    <string>respawn</string>
+  </ExcludeGrids>
+  <Tech8xRefinerySpeed>300</Tech8xRefinerySpeed>
+</MyConfig>

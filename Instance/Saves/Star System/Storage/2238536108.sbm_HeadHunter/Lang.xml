@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Lang xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DefaultTranslation>
+    <Translation Key="BaseCommand" Value="/headhunt - Shows an Overview over Factions and Players." />
+    <Translation Key="PlayerDetailCommand" Value="/headhunt player &lt;name&gt; - Shows bounty, death and kill details of the given player." />
+    <Translation Key="RankingCommand" Value="/headhunt ranking &lt;kills/death/bounty/ratio/worth&gt; - Shows the complete ranking of the given type" />
+    <Translation Key="PlaceBountyCommand" Value="/headhunt place &lt;player/faction&gt; &lt;name/tag&gt; &lt;amount&gt; - Places a personal bounty on the given faction or player." />
+    <Translation Key="DuelCommand" Value="/headhunt duel &lt;name&gt; &lt;amount&gt; - Challenges the given Player to a Duel. Both players must have the givem amount of Credits." />
+    <Translation Key="DuelAccept" Value="{0} has challenged you to a duel with {1} Credits wager. To answer type /headunt duel accept/decline within 30 Seconds." />
+    <Translation Key="DuelStarted" Value="{0} has challenged {1} to a duel with {2} Credits at stake." />
+    <Translation Key="DuelEnded" Value="{0} has won the duel with {1} and takes the pot of {2} Credits." />
+    <Translation Key="DuelBusy" Value="{0} is already replying to a challenge." />
+    <Translation Key="DuelDeclined" Value="{0} declined your challenge." />
+    <Translation Key="DuelNoChallenge" Value="You don't have any pending duel requests." />
+    <Translation Key="DuelNotEnoughCredits" Value="You can't afford this duel." />
+    <Translation Key="DuelConfirmChallenge" Value="You challenged {0}. Waiting for reply..." />
+    <Translation Key="DuelDeclineChallenge" Value="You declined {0}'s challenge." />
+    <Translation Key="DuelNoSelfChallenge" Value="Are you really that lonely? Sorry, can't do that." />
+    <Translation Key="FactionExcluded" Value="This Faction is excluded from the Headhunt." />
+    <Translation Key="PlayerExcluded" Value="This Player is excluded from the Headhunt." />
+    <Translation Key="NeutralShort" Value="NEUTRAL" />
+    <Translation Key="DeathFeeMessage" Value=" {0} pays {1} Deathfee." />
+    <Translation Key="FactionGain" Value=" {0} robs {1} of {2} Credits." />
+    <Translation Key="FactionGainBonus" Value=" {0} robs {1} of {2} +{3} Credits" />
+    <Translation Key="BountyCollected" Value=" The personal bounty of {0} was paid to {1}." />
+    <Translation Key="ToExpensive" Value="You can not afford this bounty." />
+    <Translation Key="UnknownPlayer" Value="This name is not yet known." />
+    <Translation Key="NoOnlinePlayer" Value="No player with this name is online." />
+    <Translation Key="PlayerBountyAdded" Value="{0} has placed a bounty of {1} on {2}. The total bounty is now {3} Credits." />
+    <Translation Key="UnknownFaction" Value="This faction is not know or does not have any members." />
+    <Translation Key="FactionBountyAdded" Value="{0} has placed a bounty of {1} on every member of {2}." />
+    <Translation Key="CloseButton" Value="Close" />
+    <Translation Key="BountyMinNotReached" Value="The smalles bounty is {0} Credits." />
+    <Translation Key="PlayerLine" Value="- {0}  [ KD {3:0.00} - {1} / {2} ]" />
+    <Translation Key="NoFaction" Value="No Faction" />
+    <Translation Key="HeadhuntOverview" Value="Headhunt Overview" />
+    <Translation Key="YourFaction" Value="[ Your Faction ]" />
+    <Translation Key="UpdateStatus" Value="From: {0}  Next Refresh {1}|" />
+    <Translation Key="FactionCount" Value="{0} Factions, " />
+    <Translation Key="AverageBalance" Value="Average Wealth: {0}|" />
+    <Translation Key="PlayerCount" Value="{0} Players, " />
+    <Translation Key="Balance" Value="Wealth: {0}" />
+    <Translation Key="Bounty" Value="Bounty: {0}" />
+    <Translation Key="DeathFee" Value="Deathfee: {0}" />
+    <Translation Key="PlayerDialogTitle" Value="Headhunt Player: {0}" />
+    <Translation Key="DeathList" Value="|== Last Deaths == |" />
+    <Translation Key="KillList" Value="|== Last Kills == |" />
+    <Translation Key="BountySum" Value="Personal Bounty: {0}|" />
+    <Translation Key="BountyListEntry" Value="{0} {1} =&gt; {2}|" />
+    <Translation Key="KillListEntry" Value="{0} {2} by {1} =&gt; {3}|" />
+    <Translation Key="DeathListPlayerEntry" Value="{0}  {1} by {2} =&gt; {3}|" />
+    <Translation Key="DeathListEntry" Value="{0}  {1} =&gt; {2}|" />
+    <Translation Key="Faction" Value="Faction: {0}|" />
+    <Translation Key="Death" Value="Deaths: {0} =&gt; {1} Credits lost|" />
+    <Translation Key="Kills" Value="Kills: {0} =&gt; {1} Credits earned|" />
+    <Translation Key="FactionBounty100" Value="Factionbounty at 100%: {0}|" />
+    <Translation Key="FactionBountyMulti" Value="Factionbounty at {1:0}%: {0}|" />
+    <Translation Key="PlayerBounty100" Value="Playerbounty at 100%: {0}|" />
+    <Translation Key="PlayerBountyMulti" Value="Playerbounty at {1:0}%: {0}|" />
+    <Translation Key="LastUpdate" Value="Last Update: {0}||" />
+    <Translation Key="Ratio" Value="KD Ratio: {0:0.00}|" />
+    <Translation Key="TotalPossibleBounty" Value="|=&gt; Total Bounty on Kill: {0}|" />
+    <Translation Key="TotalPossibleBountyHeader" Value="Total Bounty on Kill" />
+    <Translation Key="BonusBounty" Value="  +{0} Extra Bounty" />
+    <Translation Key="KillRanking" Value="Kill Ranking" />
+    <Translation Key="DeathRanking" Value="Death Ranking" />
+    <Translation Key="RatioRanking" Value="KD Ratio Ranking" />
+    <Translation Key="WorthRanking" Value="Total Bounty" />
+    <Translation Key="BountyRanking" Value="Personal Bounty" />
+    <Translation Key="BountyList" Value="|== Personal Bounties ==|" />
+    <Translation Key="BountyFeeSubstracted" Value="{0} Credits Servicefee substracted." />
+    <Translation Key="NotEnabled" Value="This feature is disabled on this server." />
+  </DefaultTranslation>
+  <SimpleDeath>
+    <Translation Key="Explosion" Value="Explosion" />
+    <Translation Key="Rocket" Value="Rocket" />
+    <Translation Key="Bullet" Value="Bullet" />
+    <Translation Key="Drill" Value="Drill" />
+    <Translation Key="Suicide" Value="Suicide" />
+    <Translation Key="Fall" Value="Collision" />
+    <Translation Key="Grind" Value="Grind" />
+    <Translation Key="Weld" Value="Weld" />
+    <Translation Key="Asphyxia" Value="No Oxygen" />
+    <Translation Key="Temperature" Value="No Energy" />
+    <Translation Key="LowPressure" Value="No Oxygen" />
+    <Translation Key="Bolt" Value="Wildlife" />
+    <Translation Key="Floating" Value="Falling Stuff" />
+    <Translation Key="Grid" Value="Collision" />
+    <Translation Key="Destruction" Value="Accident" />
+  </SimpleDeath>
+  <VictimDeath>
+    <TranslationList Key="Explosion">
+      <Variations>
+        <string>{0} exploded.</string>
+        <string>{0} was blow into pieces.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Rocket">
+      <Variations>
+        <string>{0} was blown up by a rocket.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Bullet">
+      <Variations>
+        <string>{0} was shot.</string>
+        <string>{0} was hit by bullets.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Drill">
+      <Variations>
+        <string>{0} was crushed by a drill.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Suicide">
+      <Variations>
+        <string>{0} commited suicide.</string>
+        <string>{0} took his life.</string>
+        <string>{0} ended his life.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Fall">
+      <Variations>
+        <string>{0} was too fast.</string>
+        <string>{0} collided.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Grind">
+      <Variations>
+        <string>{0} was cut to pieces.</string>
+        <string>{0} ran into a grinder.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Weld">
+      <Variations>
+        <string>{0} was burnt to death.</string>
+        <string>{0} ran into a welder.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Asphyxia">
+      <Variations>
+        <string>{0} ran out of air.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Temperature">
+      <Variations>
+        <string>{0} ran out of power.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="LowPressure">
+      <Variations>
+        <string>{0} ran out of air.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Bolt">
+      <Variations>
+        <string>{0} was eaten alive.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Floating">
+      <Variations>
+        <string>{0} was hit by falling rocks.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Grid">
+      <Variations>
+        <string>{0} collided with a grid.</string>
+        <string>{0} did not see this Grid coming.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Destruction">
+      <Variations>
+        <string>{0} died in a terrible accident.</string>
+        <string>{0} was snapped out of existence.</string>
+      </Variations>
+    </TranslationList>
+  </VictimDeath>
+  <KillerDeath>
+    <TranslationList Key="Explosion">
+      <Variations>
+        <string>{0} was blow up by {1}.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Rocket">
+      <Variations>
+        <string>{0} was blown up by {1} with a rocket.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Bullet">
+      <Variations>
+        <string>{0} was shot by {1}.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Drill">
+      <Variations>
+        <string>{0} was crushed by {1}'s drill.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Fall">
+      <Variations>
+        <string>{0} ran into {1} too fast.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Grind">
+      <Variations>
+        <string>{0} was cut to pieces by {1}.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Weld">
+      <Variations>
+        <string>{0} was burnt to death by {1}.</string>
+      </Variations>
+    </TranslationList>
+    <TranslationList Key="Grid">
+      <Variations>
+        <string>{0} collided with {1}'s grid.</string>
+      </Variations>
+    </TranslationList>
+  </KillerDeath>
+</Lang>

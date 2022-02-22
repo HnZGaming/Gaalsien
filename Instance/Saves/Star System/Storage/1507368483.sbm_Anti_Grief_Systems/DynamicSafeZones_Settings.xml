@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <settingsVersion>1.09 *Do Not Change This*</settingsVersion>
+  <enableSafeZones>true</enableSafeZones>
+  <checkEnemyGrids>true</checkEnemyGrids>
+  <distanceCheckEnemyGrids>800</distanceCheckEnemyGrids>
+  <tellFactionsZonesEligibility>true</tellFactionsZonesEligibility>
+  <zoneEligibilityCooldown>60</zoneEligibilityCooldown>
+  <checkGridsWithPower>true</checkGridsWithPower>
+  <delaySafeZoneAdd>60</delaySafeZoneAdd>
+  <delaySafeZoneRemove>60</delaySafeZoneRemove>
+  <omitGridsLessThan>30</omitGridsLessThan>
+  <convertLargeShipstoStations>false</convertLargeShipstoStations>
+  <disableTimers>false</disableTimers>
+  <disablePrograms>false</disablePrograms>
+  <disableShipTools>false</disableShipTools>
+  <disableProjections>false</disableProjections>
+  <disableTurretIdle>false</disableTurretIdle>
+  <disableSpotLights>false</disableSpotLights>
+  <disableProduction>false</disableProduction>
+  <disableProductionOnRestart>false</disableProductionOnRestart>
+  <enableFactionAlerts>false</enableFactionAlerts>
+  <factionFurtherThan>2000</factionFurtherThan>
+  <enemyCloserThan>5000</enemyCloserThan>
+  <enableChatCutPaste>false</enableChatCutPaste>
+  <cooldownCutPaste>300</cooldownCutPaste>
+  <enableChatConvert>true</enableChatConvert>
+  <enableChatConvertV2>true</enableChatConvertV2>
+  <useCurrency>false</useCurrency>
+  <currencyAmountRemoved>1</currencyAmountRemoved>
+  <currencyDefinition>MyObjectBuilder_Ingot/Platinum</currencyDefinition>
+  <enableGridRename>true</enableGridRename>
+  <convertSmallGridstoStations>false</convertSmallGridstoStations>
+</Settings>
