@@ -3,7 +3,7 @@
 Lived & Loved by Space Engineers from all over the SEA region:
 
 <strong>
-<table align="center">
+<table>
     <tr>
         <td align="center">Singapore</td>
         <td align="center">Malaysia</td>
