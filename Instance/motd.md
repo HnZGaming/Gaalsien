@@ -25,14 +25,14 @@ Our server mostly features building and PvE, with bare minimum set of mods.
 
 Don't miss out! Join our [Discord](https://discord.gg/up8hPVXQUJ) now :)
 
-## Moderators
-Type “@ryo” in game or Discord whenever you need immediate help. __No DM!__
-
 ## Important Notice
 
 * You cannot build underground.
 * There are block limits.
-* Read on to figure out more!
+* Open this page again by typing `!motd` in game chat.
+
+## Moderators
+Type “@ryo” in game or Discord whenever you need immediate help. __No DM!__
 
 ## Notable Mods
 
