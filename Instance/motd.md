@@ -3,7 +3,7 @@
 Lived & Loved by Space Engineers from all over the SEA region:
 
 <strong>
-<table align="center">
+<table>
     <tr>
         <td align="center">Singapore</td>
         <td align="center">Malaysia</td>
@@ -25,6 +25,12 @@ Our server mostly features building and PvE, with bare minimum set of mods.
 
 Don't miss out! Join our [Discord](https://discord.gg/up8hPVXQUJ) now :)
 
+## Important Notice
+
+* You cannot build underground.
+* There are block limits.
+* Open this page again by typing `!motd` in game chat.
+
 ## Moderators
 Type “@ryo” in game or Discord whenever you need immediate help. __No DM!__
 
@@ -36,12 +42,6 @@ Type “@ryo” in game or Discord whenever you need immediate help. __No DM!__
 |[Build and Repair Systems](https://steamcommunity.com/workshop/filedetails/?id=2111073562)|A block that builds/repairs a grid automatically.|
 |[Instant Projector](https://steamcommunity.com/workshop/filedetails/?id=2096677783)|Projectors get a “Build” button to insta-build a grid.|
 |[Tiered Tech Blocks](https://steamcommunity.com/workshop/filedetails/?id=1682499145)|Blocks that perform better in exchange for high-tier components.|
-
-## Notable Limitations
-
-* You cannot build underground.
-* You cannot build too many pistons/rotors etc.
-* You cannot run heavy scripts.
 
 ## PvE/NPC Behaviors
 
