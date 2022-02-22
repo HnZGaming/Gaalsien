@@ -7,6 +7,10 @@ Originally created to present a [nice MOTD page](https://github.com/HnZGaming/Ga
 - If you're just started on setting up your first Torch server, feel free to clone/download and edit this project so that you can jump-start on it.
 - If you're an experienced Torch server admin, please feel free to suggest on any issues or improvements.
 
+## Important Notice
+
+This server may be running some "experimental version" of mods that the original mod authors will flag with DMCA if you use them as-is. Check the mod list first and replace them with the original mods before you go public.
+
 ## Disclaimer
 
 - Some files may be gitignored due to security reasons.
