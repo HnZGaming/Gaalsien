@@ -49,3 +49,4 @@ Instance/SEDiscordBridge.cfg
 Instance/TorchAlertPlugin.cfg
 Instance/TorchInfluxDbPlugin.cfg
 Instance/TorchMonitorPlugin.cfg
+Instance/Saves/**/Storage/**/HeadhunterConfig.xml
