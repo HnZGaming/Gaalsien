@@ -50,3 +50,4 @@ Instance/TorchAlertPlugin.cfg
 Instance/TorchInfluxDbPlugin.cfg
 Instance/TorchMonitorPlugin.cfg
 Instance/Saves/**/Storage/**/HeadhunterConfig.xml
+Instance/Saves/**/Storage/**/TieredTechBlocksConfig.xml
