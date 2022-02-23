@@ -21,7 +21,7 @@ Lived & Loved by Space Engineers from all over the SEA region:
 </table>
 </strong>
 
-Our server mostly features building and PvE, with bare minimum set of mods.
+We're here to enjoy building and surviving with bare minimum mods.
 
 Don't miss out! Join our [Discord](https://discord.gg/up8hPVXQUJ) now :)
 
@@ -51,7 +51,7 @@ Don't miss out! Join our [Discord](https://discord.gg/up8hPVXQUJ) now :)
 We have [MES](https://steamcommunity.com/workshop/filedetails/?id=1521905890) ships flying around.
 Following is their general behavior:
 
-* NPC ships spawn around “online” players.
+* Ships spawn around “online” players.
 * Some of them actively prey on players.
 * They get stronger as your grids get larger.
 
@@ -64,7 +64,7 @@ We don't fight too often but following is the rules:
 * All parties must meet and agree before open-fire.
 * Failing to do so will be subject to permanent ban.
 
-**NOTE**: There's a designated PvP area where the rules above don't apply.
+**NOTE**: There's a free-style PvP area where the rules above do NOT apply.
 
 ## Building Limits
 
