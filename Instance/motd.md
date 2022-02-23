@@ -31,8 +31,11 @@ Don't miss out! Join our [Discord](https://discord.gg/up8hPVXQUJ) now :)
 * There are block limits.
 * Open this page again by typing `!motd` in game chat.
 
-## Moderators
-Type “@ryo” in game or Discord whenever you need immediate help. __No DM!__
+## Moderation
+
+* Type “@ryo” whenever you need immediate help.
+* For feature requests, please write in `#moderation` channal.
+* __No DM!__
 
 ## Notable Mods
 
@@ -86,7 +89,7 @@ You can only build certain blocks to certain numbers, so that we all get to play
 * Type `!blocklimit mylimit` to see your status.
 
 ## Auto Moderator
-We have a bot that monitors the server health and disables player grids that are consuming too much server resource.
+We have a bot that monitors the server health and disables player grids that are consuming excess server resource.
 You’ll receive a warning with an in-game pop-up screen before the bot is about to kick in.
 
 Type `!lag profile` to see your status.
