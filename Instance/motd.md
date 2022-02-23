@@ -68,7 +68,7 @@ We don't fight too often but following is the rules:
 You can only build certain blocks to certain numbers, so that we all get to play lag-free.
 
 |Category|Blocks|Per player|Per grid
-|---|---|---|---|
+|---|---|---:|---:|
 |All Blocks|All Blocks|100,000|50,000|
 |Subparts|Pistons + Rotors + Hinges|-|2|
 |Assemblers|All Assemblers|10|-|
@@ -97,7 +97,7 @@ Type `!lag profile` to see your status.
 Subject to automatic removal every once in a while:
 
 |Condition|Interval|
-|---|---|
+|---|---:|
 |Grids that belong to players who have been offline|15 days|
 |No custom name (eg. “Small Grid 9583”)|20 minutes|
 |Less than 20 blocks and not powered|20 minutes|
@@ -114,21 +114,27 @@ Resets whenever the stores break (game bug).
 Tiered tech blocks perform better in exchange for "Tech" components:
 
 |Component name|Performance gain|Block name example|
-|---|---|---|
-|Common Tech|2x|Enhanced Refinery|
-|Rare Tech|4x|Proficient Refinery|
-|Exotic Tech|8x|Elite Refinery|
+|---:|:---:|---:|
+|Common Tech|2x|Enhanced Jump Drive|
+|Rare Tech|4x|Proficient Jump Drive|
+|Exotic Tech|8x|Elite Jump Drive|
 
 For exact numbers, see the [official spreadsheet](https://docs.google.com/spreadsheets/d/14hLLvhF2oVzO1EIZHHXmrlTfVTLQ1cb4-OL7TH3pd_U/edit#gid=0).
 
 "Tech" components can be obtained as following:
 
 |Method|Difficulty|
-|---|---|
+|---|:---:|
 |Raid NPC ships|x|
 |Buy at NPC trade stations|△|
 |Trade with other players|o|
 |Vote for the server (type `!v`)|◎|
+
+**NOTE**: We've edited Exotic Tech's properties as following:
+
+* Exotic Techs can only be obtained by refining *"Exo Tech Source"* components.
+* Exo Tech Source components can be obtained as any other Tech components.
+* The refinery block only exists in the designated PvP area.
 
 ## Chat Commands
 
