@@ -29,7 +29,12 @@ Don't miss out! Join our [Discord](https://discord.gg/up8hPVXQUJ) now :)
 
 * You cannot build underground.
 * There are block limits.
-* Open this page again by typing `!motd` in game chat.
+
+## Server Health
+
+We make great effort to keep the server playable. Link below is the health monitor:
+
+[![](https://i.imgur.com/MSRC5zX.png)](https://guest-grafana.torchmonitor.net/d/9UUUl7pGk/short-term-monitor?from=now-3h&orgId=6&refresh=1m&to=now)
 
 ## Moderation
 
