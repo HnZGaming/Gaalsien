@@ -29,6 +29,7 @@ Don't miss out! Join our [Discord](https://discord.gg/up8hPVXQUJ) now :)
 
 * You cannot build underground.
 * There are block limits.
+* Large ships are subject to relative max speed limit.
 
 ## Server Health
 
@@ -46,10 +47,11 @@ We make great effort to keep the server playable. Link below is the health monit
 
 |Name|Description|
 |---|---|
-|[Faction Safe Zones](https://steamcommunity.com/sharedfiles/filedetails/?id=1507368483)|Protects your base from NPC/players while you're offline.|
+|[Faction Safe Zones](https://steamcommunity.com/sharedfiles/filedetails/?id=1507368483)|Protects your base from NPC/players when you're offline.|
 |[Build and Repair Systems](https://steamcommunity.com/workshop/filedetails/?id=2111073562)|A block that builds/repairs a grid automatically.|
 |[Instant Projector](https://steamcommunity.com/workshop/filedetails/?id=2096677783)|Projectors get a “Build” button to insta-build a grid.|
 |[Tiered Tech Blocks](https://steamcommunity.com/workshop/filedetails/?id=1682499145)|Blocks that perform better in exchange for high-tier components.|
+|[Relative Top Speed](https://steamcommunity.com/sharedfiles/filedetails/?id=1359618037)|Allows lightweight grids to go fast, otherwise slow.|
 
 ## PvE/NPC Behaviors
 
@@ -98,6 +100,20 @@ We have a bot that monitors the server health and disables player grids that are
 You’ll receive a warning with an in-game pop-up screen before the bot is about to kick in.
 
 Type `!lag profile` to see your status.
+
+## Relative Top Speed
+
+Lightweight grids can go fast, otherwise slow.
+
+||Light|Medium|Heavy|
+|---|---:|---:|---:|
+|Small|250m/s|170m/s|90m/s|
+|Large|200m/s|130m/s|60m/s|
+
+||Light|Medium|Heavy|
+|---|---:|---:|---:|
+|Small|10,000kg|300,000kg|400,000kg|
+|Large|200,000kg|5,000,000kg|8,000,000kg|
 
 ## Cleanup Conditions
 
