@@ -79,7 +79,7 @@ You can only build certain blocks to certain numbers, so that we all get to play
 
 |Category|Blocks|Per player|Per grid
 |---|---|---:|---:|
-|All Blocks|All Blocks|100,000|50,000|
+|All Blocks|All Blocks|20,000|15,000|
 |Subparts|Pistons + Rotors + Hinges|-|2|
 |Assemblers|All Assemblers|10|-|
 |Refineries|All Refineries|10|-|
