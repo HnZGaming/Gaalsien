@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <AreaRadius>10000</AreaRadius>
+  <Tech8xRefinerySpeed>300</Tech8xRefinerySpeed>
+  <Tier8xSourceLootProperty MinAmount="5" MaxAmount="30" Chance="0.2" />
 </Config>

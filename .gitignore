@@ -6,7 +6,6 @@
 *.zip
 *.log
 *.vx2
-*.sbc
 *.sbs
 *.sbsB5
 *.json
@@ -51,3 +50,4 @@ Instance/TorchInfluxDbPlugin.cfg
 Instance/TorchMonitorPlugin.cfg
 Instance/Saves/**/Storage/**/HeadhunterConfig.xml
 Instance/Saves/**/Storage/**/TieredTechBlocksConfig.xml
+Instance/Saves/**/Sandbox.sbc
