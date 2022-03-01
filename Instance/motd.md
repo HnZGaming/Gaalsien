@@ -107,8 +107,8 @@ Lightweight grids can go fast, otherwise slow.
 
 ||Light|Medium|Heavy|
 |---|---:|---:|---:|
-|Small|250m/s|170m/s|90m/s|
-|Large|200m/s|130m/s|60m/s|
+|Small|250m/s|175m/s|100m/s|
+|Large|200m/s|150m/s|100m/s|
 
 ||Light|Medium|Heavy|
 |---|---:|---:|---:|
