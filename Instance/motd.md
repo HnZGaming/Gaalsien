@@ -96,10 +96,19 @@ You can only build certain blocks to certain numbers, so that we all get to play
 * Type `!blocklimit mylimit` to see your status.
 
 ## Auto Moderator
-We have a bot that monitors the server health and disables player grids that are consuming excess server resource.
-You’ll receive a warning with an in-game pop-up screen before the bot is about to kick in.
+We have a bot that monitors and disables player grids that are consuming excess server resource.
+The subject grid will turn off for about 10 minutes.
+You’ll receive a warning before the bot is about to kick in.
+You're able to review and optimize your grids by yourself.
 
-Type `!lag profile` to see your status.
+Following is some of general/typical measures to optimize your grids:
+
+* Less conveyor ports. Tubes (2x ports) are favorable to junctions (6x ports).
+* Less gas-related blocks. Vents, generators, tanks, hydrogen thrusters.
+* Less production blocks on a moving grid.
+* Less programmable blocks. For Isy's Inventory Manager, set the max ms to `0.05`.
+
+Type `!lag profile` to see your status. For technical details [see the GitHub page](https://github.com/HnZGaming/TorchAutoModerator).
 
 ## Relative Top Speed
 
