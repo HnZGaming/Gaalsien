@@ -12,12 +12,10 @@
 *.jpg
 *.acf
 *.csv
-*.txt
 _CommonRedist
 appcache
 config
 Content
-Data
 DedicatedServer64
 depotcache
 Logs
@@ -41,8 +39,7 @@ Instance/content
 Instance/GridBackups
 Instance/Saves/**/Backup
 
-
-
+Instance/**/*.txt
 Instance/FoogsRewards.cfg
 Instance/SEDiscordBridge.cfg
 Instance/TorchAlertPlugin.cfg
