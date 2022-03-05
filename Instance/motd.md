@@ -48,9 +48,9 @@ We make great effort to keep the server playable. Link below is the health monit
 |Name|Description|
 |---|---|
 |[Faction Safe Zones](https://steamcommunity.com/sharedfiles/filedetails/?id=1507368483)|Protects your base from NPC/players when you're offline.|
-|[Build and Repair Systems](https://steamcommunity.com/workshop/filedetails/?id=2111073562)|A block that builds/repairs a grid automatically.|
-|[Instant Projector](https://steamcommunity.com/workshop/filedetails/?id=2096677783)|Projectors get a “Build” button to insta-build a grid.|
-|[Tiered Tech Blocks](https://steamcommunity.com/workshop/filedetails/?id=1682499145)|Blocks that perform better in exchange for high-tier components.|
+|[Build and Repair Systems](https://steamcommunity.com/workshop/filedetails/?id=2111073562)|Allows your grid to build & repair itself automatically.|
+|[Instant Projector](https://steamcommunity.com/workshop/filedetails/?id=2096677783)|Allows you to insta-build a complete grid from components.|
+|[Tiered Tech Blocks](https://steamcommunity.com/workshop/filedetails/?id=1682499145)|Makes your blocks perform better in exchange for rare components.|
 |[Relative Top Speed](https://steamcommunity.com/sharedfiles/filedetails/?id=1359618037)|Allows lightweight grids to go fast, otherwise slow.|
 
 ## PvE/NPC Behaviors
@@ -58,7 +58,7 @@ We make great effort to keep the server playable. Link below is the health monit
 We have [MES](https://steamcommunity.com/workshop/filedetails/?id=1521905890) ships flying around.
 Following is their general behavior:
 
-* Ships spawn around “online” players.
+* They spawn around “online” players.
 * Some of them actively prey on players.
 * They get stronger as your grids get larger.
 
@@ -75,7 +75,7 @@ We don't fight too often but following is the rules:
 
 ## Building Limits
 
-You can only build certain blocks to certain numbers, so that we all get to play lag-free.
+You can only build certain blocks to certain numbers, so that everyone gets to play lag-free.
 
 |Category|Blocks|Per player|Per grid
 |---|---|---:|---:|
@@ -92,23 +92,22 @@ You can only build certain blocks to certain numbers, so that we all get to play
 |Reactors|All Reactors|-|10|
 |Batteries|All Batteries|-|36|
 
-* Programmable blocks will overheat if the computation takes 0.35ms per frame.
+* Programmable blocks will "overheat" if the computation takes 0.35ms per frame.
 * Type `!blocklimit mylimit` to see your status.
 
 ## Auto Moderator
-We have a bot that monitors and disables player grids that are consuming excess server resource.
-The subject grid will turn off for about 10 minutes.
+We have a bot that disables player grids that are consuming excess server resource.
 You’ll receive a warning before the bot is about to kick in.
-You're able to review and optimize your grids by yourself.
+You can profile yourself with `!lag profile` before the punishment.
 
 Following is some of general/typical measures to optimize your grids:
 
 * Less conveyor ports. Tubes (2x ports) are favorable to junctions (6x ports).
 * Less gas-related blocks. Vents, generators, tanks, hydrogen thrusters.
 * Less production blocks on a moving grid.
-* Less programmable blocks. For Isy's Inventory Manager, set the max ms to `0.05`.
+* Less programmable blocks. For [Isy's Inventory Manager script](https://steamcommunity.com/sharedfiles/filedetails/?id=1216126863), set the max ms to `0.05`.
 
-Type `!lag profile` to see your status. For technical details [see the GitHub page](https://github.com/HnZGaming/TorchAutoModerator).
+For technical details [see the GitHub page](https://github.com/HnZGaming/TorchAutoModerator).
 
 ## Relative Top Speed
 
