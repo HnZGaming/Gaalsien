@@ -169,6 +169,26 @@ For exact numbers, see the [official spreadsheet](https://docs.google.com/spread
 * Exo Tech Source components can be obtained as any other Tech components.
 * The refinery block only exists in the designated PvP area.
 
+## Instant Grinder
+
+Type `!grind this` on a cockpit to instantly shred the entire grid into components.
+
+Remarks:
+
+* Do NOT run this command on a large grid.
+* Do NOT run this command on a "connected" grid.
+* Loss of assets will NOT be restored by admin.
+
+Components will be pushed to your character inventory. 
+The character inventory will "expand" beyond the vanilla capacity in order to accomodate everything,
+but there's a finite extent of the character inventory that leads to "nonretractable" state: about **60-70 slots**.
+It is strongly recommended that you empty out the grid's inventories beforehand but ultimately there's no 100% safety with this command.
+
+Command will attempt to process every other grid connected to the subject grid.
+Make sure that your grid is neither connected to other grids via connector blocks nor merge blocks.
+
+Loss of assets will NOT be restored by admin.
+
 ## Chat Commands
 
 |Command|Description|
