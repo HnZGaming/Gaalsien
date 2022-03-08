@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="utf-16"?>
 <ConfigPlanetaryCargoShips xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SpawnTypeBlacklist>
-    <string>AddSpawnGroupIdHere</string>
-    <string>AddAnotherSpawnGroupIdHere</string>
+    <string>Reaver-SpawnGroup-CrimsonTormentor</string>
+    <string>Reaver-SpawnGroup-Aggressor</string>
+    <string>Reaver-SpawnGroup-Butcher</string>
+    <string>Reaver-SpawnGroup-Carver</string>
+    <string>Reaver-SpawnGroup-Charger</string>
+    <string>Reaver-SpawnGroup-Cockroach</string>
+    <string>Reaver-SpawnGroup-Devourer</string>
+    <string>Reaver-SpawnGroup-Interloper</string>
+    <string>Reaver-SpawnGroup-Mutilator</string>
+    <string>Reaver-SpawnGroup-Piercer</string>
+    <string>Reaver-SpawnGroup-Crimson</string>
+    <string>Reaver-SpawnGroup-Havelock</string>
+    <string>Reaver-SpawnGroup-Scourge</string>
+    <string>Reaver-SpawnGroup-Tormentor</string>
+    <string>Reaver-SpawnGroup-Berserker</string>
+    <string>Reaver-SpawnGroup-Impaler</string>
+    <string>Reaver-SpawnGroup-Invader-Space</string>
+    <string>Reaver-SpawnGroup-Slayer</string>
+    <string>Reaver-SpawnGroup-Thrasher</string>
   </SpawnTypeBlacklist>
   <SpawnTypePlanetBlacklist>
     <string>AddPlanetIdHere</string>
