@@ -12,8 +12,8 @@
     <MaxFloatingObjects>56</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>15</MaxBackupSaves>
-    <MaxGridSize>50000</MaxGridSize>
-    <MaxBlocksPerPlayer>100000</MaxBlocksPerPlayer>
+    <MaxGridSize>15000</MaxGridSize>
+    <MaxBlocksPerPlayer>20000</MaxBlocksPerPlayer>
     <TotalPCU>6750000</TotalPCU>
     <PiratePCU>500000</PiratePCU>
     <MaxFactionsCount>0</MaxFactionsCount>
@@ -190,11 +190,6 @@
       <PublishedFileId>1359618037</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Reavers: Terror of the Verse">
-      <Name>525460808.sbm</Name>
-      <PublishedFileId>525460808</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Nanobot Build and Repair System (Fixed SafeZone, Shields, Reputations, Power Consumption, Build Resources)">
       <Name>2111073562.sbm</Name>
       <PublishedFileId>2111073562</PublishedFileId>
@@ -270,7 +265,7 @@
       <PublishedFileId>2759485949</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.2(10)-Stable">
+    <ModItem FriendlyName="WeaponCore - 2.2(10.1)-Stable">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -305,7 +300,12 @@
       <PublishedFileId>1682499145</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Peavers">
+      <Name>2776377087.sbm</Name>
+      <PublishedFileId>2776377087</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-03-09T00:04:42.4828822+08:00</LastSaveTime>
+  <LastSaveTime>2022-03-13T11:32:42.0766346+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
