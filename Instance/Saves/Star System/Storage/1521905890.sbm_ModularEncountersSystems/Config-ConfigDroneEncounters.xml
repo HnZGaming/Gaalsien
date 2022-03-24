@@ -17,17 +17,17 @@
   <UseCleanupSettings>true</UseCleanupSettings>
   <OnlyCleanNpcsFromMes>true</OnlyCleanNpcsFromMes>
   <CleanupUseDistance>true</CleanupUseDistance>
-  <CleanupUseTimer>false</CleanupUseTimer>
+  <CleanupUseTimer>true</CleanupUseTimer>
   <CleanupUseBlockLimit>false</CleanupUseBlockLimit>
-  <CleanupDistanceStartsTimer>false</CleanupDistanceStartsTimer>
-  <CleanupResetTimerWithinDistance>false</CleanupResetTimerWithinDistance>
-  <CleanupDistanceTrigger>30000</CleanupDistanceTrigger>
-  <CleanupTimerTrigger>1800</CleanupTimerTrigger>
+  <CleanupDistanceStartsTimer>true</CleanupDistanceStartsTimer>
+  <CleanupResetTimerWithinDistance>true</CleanupResetTimerWithinDistance>
+  <CleanupDistanceTrigger>15000</CleanupDistanceTrigger>
+  <CleanupTimerTrigger>900</CleanupTimerTrigger>
   <CleanupBlockLimitTrigger>0</CleanupBlockLimitTrigger>
   <CleanupIncludeUnowned>true</CleanupIncludeUnowned>
   <CleanupUnpoweredOverride>true</CleanupUnpoweredOverride>
-  <CleanupUnpoweredDistanceTrigger>20000</CleanupUnpoweredDistanceTrigger>
-  <CleanupUnpoweredTimerTrigger>900</CleanupUnpoweredTimerTrigger>
+  <CleanupUnpoweredDistanceTrigger>5000</CleanupUnpoweredDistanceTrigger>
+  <CleanupUnpoweredTimerTrigger>300</CleanupUnpoweredTimerTrigger>
   <UseBlockDisable>false</UseBlockDisable>
   <DisableBlocksByType>
     <string>ObjectBuilderTypeHere</string>
