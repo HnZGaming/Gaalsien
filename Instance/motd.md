@@ -27,9 +27,9 @@ Don't miss out! Join our [Discord](https://discord.gg/up8hPVXQUJ) now :)
 
 ## Wipe Info
 
-|Last Wipe|Last Last Wipe|Next Wipe|
-|---|---|---|
-|2022.3.24|2021.11.10|No ETA|
+|Last Wipe|Last Last Wipe|Last Last Last Wipe|Next Wipe|
+|--:|--:|--:|--:|
+|2022.3.24|2021.11.10|2021.7.30|No ETA|
 
 ## Important Notice
 
