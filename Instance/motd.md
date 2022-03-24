@@ -25,6 +25,12 @@ We're here to enjoy building and surviving, a little bit of pew pew too.
 
 Don't miss out! Join our [Discord](https://discord.gg/up8hPVXQUJ) now :)
 
+## Wipe Info
+
+|Last Wipe|Last Last Wipe|Next Wipe|
+|---|---|---|
+|2022.3.24|2021.11.10|No ETA|
+
 ## Important Notice
 
 * You cannot build underground.
