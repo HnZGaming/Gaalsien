@@ -25,7 +25,7 @@
     <WeaponsEnabled>true</WeaponsEnabled>
     <ShowPlayerNamesOnHud>true</ShowPlayerNamesOnHud>
     <ThrusterDamage>true</ThrusterDamage>
-    <CargoShipsEnabled>false</CargoShipsEnabled>
+    <CargoShipsEnabled>true</CargoShipsEnabled>
     <EnableSpectator>false</EnableSpectator>
     <WorldSizeKm>0</WorldSizeKm>
     <RespawnShipDelete>true</RespawnShipDelete>
@@ -49,7 +49,7 @@
     <EnableOxygen>true</EnableOxygen>
     <EnableOxygenPressurization>true</EnableOxygenPressurization>
     <Enable3rdPersonView>true</Enable3rdPersonView>
-    <EnableEncounters>false</EnableEncounters>
+    <EnableEncounters>true</EnableEncounters>
     <EnableConvertToStation>true</EnableConvertToStation>
     <StationVoxelSupport>false</StationVoxelSupport>
     <EnableSunRotation>true</EnableSunRotation>
@@ -113,6 +113,7 @@
     <StationsDistanceOuterRadiusEnd>10000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
+    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>true</EnableSelectivePhysicsUpdates>
@@ -260,12 +261,7 @@
       <PublishedFileId>2560410003</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Pork Zone">
-      <Name>2759485949.sbm</Name>
-      <PublishedFileId>2759485949</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.2(10.1)-Stable">
+    <ModItem FriendlyName="WeaponCore - 2.2(12)-Stable">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -285,27 +281,22 @@
       <PublishedFileId>2077166496</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Tiered Tech Source">
-      <Name>2766963054.sbm</Name>
-      <PublishedFileId>2766963054</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="PvP Beacon">
-      <Name>2766963496.sbm</Name>
-      <PublishedFileId>2766963496</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Tiered Tech Blocks">
-      <Name>1682499145.sbm</Name>
-      <PublishedFileId>1682499145</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Peavers">
       <Name>2776377087.sbm</Name>
       <PublishedFileId>2776377087</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Local Gps 1.0">
+      <Name>2781829620.sbm</Name>
+      <PublishedFileId>2781829620</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem>
+      <Name>2759474323.sbm</Name>
+      <PublishedFileId>2759474323</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-03-13T11:32:42.0766346+08:00</LastSaveTime>
+  <LastSaveTime>2022-03-24T21:21:44.4864664+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
