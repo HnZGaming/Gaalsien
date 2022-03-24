@@ -160,7 +160,7 @@ For exact numbers, see the [official spreadsheet](https://docs.google.com/spread
 |Raid NPC ships|x|
 |Buy at NPC trade stations|△|
 |Trade with other players|o|
-|Vote for the server (type `!v`)|◎|
+|Vote for the server (type `!v` then `!reward`)|◎|
 
 **NOTE**: We've edited Exotic Tech's properties as following:
 
@@ -200,7 +200,7 @@ Loss of assets will NOT be restored by admin.
 |`!fixship`|Apply magic to a glitchy grid.|
 |`!grind this`|Insta-grind a grid.|
 |`!blocklimit mylimit`|List up your block limiter state. |
-|`!v`|Vote for this server :)|
+|`!v` then `!reward`|Vote for this server :)|
 
 ## Misc
 Any inquiries, feature requests, bug reports etc. should go to `#moderation` on [Discord](https://discord.gg/up8hPVXQUJ).
