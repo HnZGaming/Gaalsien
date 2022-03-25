@@ -147,7 +147,7 @@ Resets every Friday (same seed).
 ### NPC Trading Stations
 Resets whenever the stores break (game bug).
 
-## Tiered Tech Blocks
+## Tiered Tech Blocks (Modded)
 
 Tiered tech blocks perform better in exchange for high-tier components.
 
@@ -161,15 +161,21 @@ Following is the performance gain of each tier:
 
 For exact numbers, see the [official spreadsheet](https://docs.google.com/spreadsheets/d/14hLLvhF2oVzO1EIZHHXmrlTfVTLQ1cb4-OL7TH3pd_U/edit#gid=0).
 
-**NOTE**: We've edited this mod as following:
+### HnZ Version of Tiered Tech Mod
+
+We've edited the original mod as following:
 
 * Tech components will NOT show up in NPC trading stations or NPC loot.
 * Instead, you can obtain "Tech Source" components from NPC loot.
-* Once you obtained a "source" component, you need to find a "Tier Forge" block.
-* "Tier Forge" blocks will spawn with NPC ships/stations which you need to raid first.
+* Once you obtained a "source" component, you need to find a "forge" block.
+* "Forge" blocks will spawn with NPC ships/stations which you must raid first.
 * You can then "forge" your "source" components into tech components.
+* "Forge" blocks will destroy themselves after forging N components, otherwise invincible.
+* "Forge" blocks will broadcast their location.
 
-Following is a list of ways you can obtain "source" components:
+### Source Components
+
+Following is a list of ways & difficulty of how you can obtain "source" components:
 
 |Method|Difficulty|
 |---|:---:|
@@ -185,7 +191,9 @@ Following is the drop rate of "source" components from NPC loot:
 |Rare|7%|3|20|
 |Exotic|2%|2|10|
 
-Following is a list of NPC factions that spawn with "Tier Forge" blocks:
+### Forge Blocks
+
+Following is a list of NPC factions that spawn with "forge" blocks:
 
 |Tier|Faction Tag(s)|Chance|
 |---|---|--:|
@@ -193,9 +201,35 @@ Following is a list of NPC factions that spawn with "Tier Forge" blocks:
 |Rare|PEAVERS|50%|
 |Exotic|PORKS|100%|
 
-**NOTE**: PvP is permitted around Tier Forge blocks.
-Any sign of forging will make you a target for other players.
-Peacefully trade components if you don't want to risk it.
+Following is the configuration of each "forge" block:
+
+|Tier|Use Per Block|Seconds Per Component|Broadcast (KM)|
+|---|--:|--:|--:|
+|Common|90|1.6|3|
+|Rare|60|3.3|3|
+|Exotic|30|5.0|infinite|
+
+### Forge Blocks & PvP
+
+PvP is permitted around forge blocks if a clear intent is demonstrated by players:
+
+* A: Players MUST communicate and mutually agree before engagement
+* B: Players can engage without a notion
+
+|Type(A/B)|Action|
+|:-:|---|
+|A|Approaching the NPC ship/station|
+|A|Leaving the raid site|
+|A|Involuntarily engaged with the NPC ship (eg. turret AI around the settlement)|
+|B|Voluntarily engaged with the NPC ship/station|
+|B|Using a forge block|
+|B|Carrying and/or securing a forge block|
+
+* In case you can't figure out your situation, please resort to A.
+* In case a "mistake" takes place, the admin will figure it out using backup saves.
+* Making "mistakes" multiple times is subject to a penalty.
+
+This PvP mechanism/rules are experimental and subject to change.
 
 ## Instant Grinder
 
