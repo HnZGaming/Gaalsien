@@ -21,9 +21,15 @@ Lived & Loved by Space Engineers from all over the SEA region:
 </table>
 </strong>
 
-We're here to enjoy building and surviving with bare minimum mods.
+We're here to enjoy building and surviving, a little bit of pew pew too.
 
 Don't miss out! Join our [Discord](https://discord.gg/up8hPVXQUJ) now :)
+
+## Wipe Info
+
+|Last Wipe|Last Last Wipe|Last Last Last Wipe|Next Wipe|
+|--:|--:|--:|--:|
+|2022.3.24|2021.11.10|2021.7.30|No ETA|
 
 ## Important Notice
 
@@ -71,7 +77,7 @@ We don't fight too often but following is the rules:
 * All parties must meet and agree before open-fire.
 * Failing to do so will be subject to permanent ban.
 
-**NOTE**: There's a free-style PvP area where the rules above do NOT apply.
+**NOTE**: Rules above do NOT apply around "Tier Forge" blocks; read on for details.
 
 ## Building Limits
 
@@ -153,20 +159,22 @@ Tiered tech blocks perform better in exchange for "Tech" components:
 
 For exact numbers, see the [official spreadsheet](https://docs.google.com/spreadsheets/d/14hLLvhF2oVzO1EIZHHXmrlTfVTLQ1cb4-OL7TH3pd_U/edit#gid=0).
 
-"Tech" components can be obtained as following:
+**NOTE**: We've edited this mod as following:
+
+* Tech components can only be obtained via forging "tech source" components with "Tier Forge" blocks.
+* "Tier Forge" blocks will spawn with NPC ships/stations that you need to raid first.
+
+"Tech source" components can be obtained as following:
 
 |Method|Difficulty|
 |---|:---:|
-|Raid NPC ships|x|
-|Buy at NPC trade stations|△|
+|Raid NPC ships|△|
 |Trade with other players|o|
 |Vote for the server (type `!v` then `!reward`)|◎|
 
-**NOTE**: We've edited Exotic Tech's properties as following:
-
-* Exotic Techs can only be obtained by refining *"Exo Tech Source"* components.
-* Exo Tech Source components can be obtained as any other Tech components.
-* The refinery block only exists in the designated PvP area.
+**NOTE**: PvP is permitted around Tier Forge blocks.
+Any sign of forging will make you a target for other players.
+Peacefully trade components if you don't want to risk it.
 
 ## Instant Grinder
 
