@@ -25,7 +25,7 @@
     <WeaponsEnabled>true</WeaponsEnabled>
     <ShowPlayerNamesOnHud>true</ShowPlayerNamesOnHud>
     <ThrusterDamage>true</ThrusterDamage>
-    <CargoShipsEnabled>false</CargoShipsEnabled>
+    <CargoShipsEnabled>true</CargoShipsEnabled>
     <EnableSpectator>false</EnableSpectator>
     <WorldSizeKm>0</WorldSizeKm>
     <RespawnShipDelete>true</RespawnShipDelete>
@@ -49,7 +49,7 @@
     <EnableOxygen>true</EnableOxygen>
     <EnableOxygenPressurization>true</EnableOxygenPressurization>
     <Enable3rdPersonView>true</Enable3rdPersonView>
-    <EnableEncounters>false</EnableEncounters>
+    <EnableEncounters>true</EnableEncounters>
     <EnableConvertToStation>true</EnableConvertToStation>
     <StationVoxelSupport>false</StationVoxelSupport>
     <EnableSunRotation>true</EnableSunRotation>
@@ -113,6 +113,7 @@
     <StationsDistanceOuterRadiusEnd>10000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
+    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>true</EnableSelectivePhysicsUpdates>
@@ -290,12 +291,22 @@
       <PublishedFileId>2781829620</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HnZ Tiered Tech Blocks">
+    <ModItem>
       <Name>2759474323.sbm</Name>
       <PublishedFileId>2759474323</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Pork Zone">
+      <Name>2759485949.sbm</Name>
+      <PublishedFileId>2759485949</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="MES Custom Boss Spawner">
+      <Name>2783946867.sbm</Name>
+      <PublishedFileId>2783946867</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-03-25T09:41:19.9649096+08:00</LastSaveTime>
+  <LastSaveTime>2022-03-25T15:19:41.2589818+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

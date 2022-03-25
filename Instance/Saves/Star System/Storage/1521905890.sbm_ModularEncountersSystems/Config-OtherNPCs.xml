@@ -14,8 +14,9 @@
   <TimeoutRadius>10000</TimeoutRadius>
   <TimeoutSpawnLimit>4</TimeoutSpawnLimit>
   <TimeoutDuration>900</TimeoutDuration>
-  <UseCleanupSettings>true</UseCleanupSettings>
-  <CleanupUseDistance>true</CleanupUseDistance>
+  <UseCleanupSettings>false</UseCleanupSettings>
+  <OnlyCleanNpcsFromMes>false</OnlyCleanNpcsFromMes>
+  <CleanupUseDistance>false</CleanupUseDistance>
   <CleanupUseTimer>false</CleanupUseTimer>
   <CleanupUseBlockLimit>false</CleanupUseBlockLimit>
   <CleanupDistanceStartsTimer>false</CleanupDistanceStartsTimer>
@@ -36,7 +37,7 @@
     <string>DefinitionIdHere</string>
     <string>AnotherDefinitionIdHere</string>
   </DisableBlocksByDefinitionId>
-  <ModVersion>2.1.20</ModVersion>
+  <ModVersion>2.1.28</ModVersion>
   <DespawnDistanceFromPlayer>1000</DespawnDistanceFromPlayer>
   <EnableDroneEncounters>true</EnableDroneEncounters>
   <PlayerSpawnCooldown>0</PlayerSpawnCooldown>
