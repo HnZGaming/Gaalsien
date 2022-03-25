@@ -149,7 +149,9 @@ Resets whenever the stores break (game bug).
 
 ## Tiered Tech Blocks
 
-Tiered tech blocks perform better in exchange for "Tech" components:
+Tiered tech blocks perform better in exchange for high-tier components.
+
+Following is the performance gain of each tier:
 
 |Component name|Performance gain|Block name example|
 |---:|:---:|---:|
@@ -161,16 +163,35 @@ For exact numbers, see the [official spreadsheet](https://docs.google.com/spread
 
 **NOTE**: We've edited this mod as following:
 
-* Tech components can only be obtained via forging "tech source" components with "Tier Forge" blocks.
-* "Tier Forge" blocks will spawn with NPC ships/stations that you need to raid first.
+* Tech components will NOT show up in NPC trading stations or NPC loot.
+* Instead, you can obtain "Tech Source" components from NPC loot.
+* Once you obtained a "source" component, you need to find a "Tier Forge" block.
+* "Tier Forge" blocks will spawn with NPC ships/stations which you need to raid first.
+* You can then "forge" your "source" components into tech components.
 
-"Tech source" components can be obtained as following:
+Following is a list of ways you can obtain "source" components:
 
 |Method|Difficulty|
 |---|:---:|
 |Raid NPC ships|△|
 |Trade with other players|o|
 |Vote for the server (type `!v` then `!reward`)|◎|
+
+Following is the drop rate of "source" components from NPC loot:
+
+|Tier|Chance|Min Amount|Max Amount|
+|---|--:|--:|--:|
+|Common|15%|6|40|
+|Rare|7%|3|20|
+|Exotic|2%|2|10|
+
+Following is a list of NPC factions that spawn with "Tier Forge" blocks:
+
+|Tier|Faction Tag(s)|Chance|
+|---|---|--:|
+|Common|INCON, IMBER, PARALLAX|10%|
+|Rare|PEAVERS|50%|
+|Exotic|PORKS|100%|
 
 **NOTE**: PvP is permitted around Tier Forge blocks.
 Any sign of forging will make you a target for other players.
