@@ -27,7 +27,7 @@
   </SpawnTypePlanetBlacklist>
   <UseTypeDisownTimer>true</UseTypeDisownTimer>
   <TypeDisownTimer>1800</TypeDisownTimer>
-  <UseTimeout>true</UseTimeout>
+  <UseTimeout>false</UseTimeout>
   <TimeoutRadius>10000</TimeoutRadius>
   <TimeoutSpawnLimit>2</TimeoutSpawnLimit>
   <TimeoutDuration>900</TimeoutDuration>
