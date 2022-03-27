@@ -306,6 +306,11 @@
       <PublishedFileId>2783946867</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="HnZ Conveyor Categories">
+      <Name>2784989068.sbm</Name>
+      <PublishedFileId>2784989068</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2022-03-25T15:19:41.2589818+08:00</LastSaveTime>
