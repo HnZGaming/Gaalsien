@@ -310,7 +310,13 @@
       <PublishedFileId>2784989068</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Flash GPS">
+      <Name>2788240620.sbm</Name>
+      <PublishedFileId>2788240620</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-03-29T16:08:54.953507+08:00</LastSaveTime>
+  <LastSaveTime>2022-04-03T02:23:08.8337635+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

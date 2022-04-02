@@ -138,7 +138,7 @@ Subject to automatic removal every once in a while:
 |---|---:|
 |Grids that belong to players who have been offline|15 days|
 |No custom name (eg. “Small Grid 9583”)|20 minutes|
-|Less than 20 blocks and not powered|20 minutes|
+|Less than 20 blocks, not powered, no beacons|20 minutes|
 |NPC ships taken over by player without the name changed|20 minutes|
 
 ### Voxel/Terrain/Ores
