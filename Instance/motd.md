@@ -31,25 +31,25 @@ Don't miss out! Join our [Discord](https://discord.gg/up8hPVXQUJ) now :)
 |--:|--:|--:|--:|
 |2022.3.24|2021.11.10|2021.7.30|No ETA|
 
-## Important Notice
+# Important Notice
 
 * You cannot build underground.
 * There are block limits.
 * Large ships are subject to relative max speed limit.
 
-## Server Health
+# Server Health
 
 We make great effort to keep the server playable. Link below is the health monitor:
 
 [![](https://i.imgur.com/MSRC5zX.png)](https://guest-grafana.torchmonitor.net/d/9UUUl7pGk/short-term-monitor?from=now-3h&orgId=6&refresh=1m&to=now)
 
-## Moderation
+# Moderation
 
 * Type “@ryo” whenever you need immediate help.
 * For feature requests, please write in `#moderation` channal.
 * __No DM!__
 
-## Notable Mods
+# Notable Mods
 
 |Name|Description|
 |---|---|
@@ -59,7 +59,7 @@ We make great effort to keep the server playable. Link below is the health monit
 |[Tiered Tech Blocks](https://steamcommunity.com/workshop/filedetails/?id=1682499145)|Makes your blocks perform better in exchange for rare components.|
 |[Relative Top Speed](https://steamcommunity.com/sharedfiles/filedetails/?id=1359618037)|Allows lightweight grids to go fast, otherwise slow.|
 
-## PvE/NPC Behaviors
+# PvE/NPC Behaviors
 
 We have [MES](https://steamcommunity.com/workshop/filedetails/?id=1521905890) ships flying around.
 Following is their general behavior:
@@ -70,7 +70,7 @@ Following is their general behavior:
 
 Make sure to set up some auto turrets from early on!
 
-## PvP Rules
+# PvP Rules
 
 We don't fight too often but following is the rules:
 
@@ -79,7 +79,7 @@ We don't fight too often but following is the rules:
 
 **NOTE**: Rules above do NOT apply around "Tier Forge" blocks; read on for details.
 
-## Building Limits
+# Building Limits
 
 You can only build certain blocks to certain numbers, so that everyone gets to play lag-free.
 
@@ -101,7 +101,7 @@ You can only build certain blocks to certain numbers, so that everyone gets to p
 * Programmable blocks will "overheat" if the computation takes 0.35ms per frame.
 * Type `!blocklimit mylimit` to see your status.
 
-## Auto Moderator
+# Auto Moderator
 We have a bot that disables player grids that are consuming excess server resource.
 You’ll receive a warning before the bot is about to kick in.
 You can profile yourself with `!lag profile` before the punishment.
@@ -115,7 +115,7 @@ Following is some of general/typical measures to optimize your grids:
 
 For technical details [see the GitHub page](https://github.com/HnZGaming/TorchAutoModerator).
 
-## Relative Top Speed
+# Relative Top Speed
 
 Lightweight grids can go fast, otherwise slow.
 
@@ -129,7 +129,7 @@ Lightweight grids can go fast, otherwise slow.
 |Small|10,000kg|300,000kg|400,000kg|
 |Large|200,000kg|5,000,000kg|8,000,000kg|
 
-## Cleanup Conditions
+# Cleanup Conditions
 
 ### Grids
 Subject to automatic removal every once in a while:
@@ -147,7 +147,7 @@ Resets every Friday (same seed).
 ### NPC Trading Stations
 Resets whenever the stores break (game bug).
 
-## Tiered Tech Blocks (Modded)
+# Tiered Tech Blocks (Modded)
 
 Tiered tech blocks perform better in exchange for high-tier components.
 
@@ -231,7 +231,7 @@ PvP is permitted around forge blocks if a clear intent is demonstrated by player
 
 This PvP mechanism/rules are experimental and subject to change.
 
-## Instant Grinder
+# Instant Grinder
 
 Type `!grind this` on a cockpit to instantly shred the entire grid into components.
 
@@ -251,7 +251,7 @@ Make sure that your grid is neither connected to other grids via connector block
 
 Loss of assets will NOT be restored by admin.
 
-## Chat Commands
+# Chat Commands
 
 |Command|Description|
 |---|---|
@@ -265,5 +265,25 @@ Loss of assets will NOT be restored by admin.
 |`!blocklimit mylimit`|List up your block limiter state. |
 |`!v` then `!reward`|Vote for this server :)|
 
-## Misc
+# Troubleshooting
+
+### "Server is not responding"
+
+1. [Join Discord](https://discord.gg/jAG5E7uz) and see if the server is actually running (ping @Admin if not running!)
+2. [Delete shader cache](https://steamcommunity.com/app/244850/discussions/6/144513248281506789/)
+3. [Make sure Steam is set to allow downloads during gameplay](https://i.imgur.com/ew5m6jP.png)
+4. [Change Steam Download Region](https://i.imgur.com/mCSUqgv.png)
+5. [Clear download cache](https://help.steampowered.com/en/faqs/view/6AD7-820D-8BE5-E51F)
+6. [Verify Integrity of Game Files](https://i.imgur.com/rwydlBp.png)
+7. [Log out of Steam using "Change Account"](https://i.imgur.com/EotNoOi.png) then completely quit Steam before logging back in
+
+### Grids disappered
+
+See [Cleanup Conditions](#cleanup-conditions)
+
+### Cannot place new blocks
+
+See [Building Limits](#building-limits)
+
+# Misc
 Any inquiries, feature requests, bug reports etc. should go to `#moderation` on [Discord](https://discord.gg/up8hPVXQUJ).
