@@ -316,7 +316,12 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem>
+      <Name>2790359971.sbm</Name>
+      <PublishedFileId>2790359971</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-04-05T21:50:42.1313643+08:00</LastSaveTime>
+  <LastSaveTime>2022-04-09T21:46:02.2628102+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
