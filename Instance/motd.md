@@ -191,6 +191,14 @@ Following is the drop rate of "source" components from NPC loot:
 |Rare|7%|3|20|
 |Exotic|2%|2|10|
 
+Following is the drop rate of "source" components from vote/reward command:
+
+|Tier|Chance|Amount|
+|---|--:|--:|
+|Common|100%|10|
+|Rare|25%|10|
+|Exotic|10%|10|
+
 ### Forge Blocks
 
 Following is a list of NPC factions that spawn with "forge" blocks:
