@@ -316,12 +316,12 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Space Pirates Enhanced">
       <Name>2790359971.sbm</Name>
       <PublishedFileId>2790359971</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-04-09T21:46:02.2628102+08:00</LastSaveTime>
+  <LastSaveTime>2022-04-11T23:03:41.271716+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
