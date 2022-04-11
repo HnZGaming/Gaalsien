@@ -319,9 +319,12 @@
     <ModItem FriendlyName="HnZ Space Pirates Enhanced">
       <Name>2790359971.sbm</Name>
       <PublishedFileId>2790359971</PublishedFileId>
+    <ModItem FriendlyName="NexusSyncMod">
+      <Name>2272613450.sbm</Name>
+      <PublishedFileId>2272613450</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-04-11T23:03:41.271716+08:00</LastSaveTime>
+  <LastSaveTime>2022-04-11T23:35:04.7397629+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
