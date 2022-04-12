@@ -97,6 +97,7 @@ You can only build certain blocks to certain numbers, so that everyone gets to p
 |Gas Tanks|All Gas Tanks|-|16|
 |Reactors|All Reactors|-|10|
 |Batteries|All Batteries|-|36|
+|Gravity|All Gravity-Generating Blocks|-|1|
 
 * Programmable blocks will "overheat" if the computation takes 0.35ms per frame.
 * Type `!blocklimit mylimit` to see your status.
