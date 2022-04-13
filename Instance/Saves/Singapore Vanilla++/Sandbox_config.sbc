@@ -7,7 +7,7 @@
     <AssemblerSpeedMultiplier>3</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>3</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>3</RefinerySpeedMultiplier>
-    <OnlineMode>OFFLINE</OnlineMode>
+    <OnlineMode>PUBLIC</OnlineMode>
     <MaxPlayers>50</MaxPlayers>
     <MaxFloatingObjects>56</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
@@ -142,6 +142,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <SessionName>Empty World</SessionName>
-  <LastSaveTime>2022-04-11T23:23:37.0905452+08:00</LastSaveTime>
+  <SessionName>Singapore Vanilla++</SessionName>
+  <LastSaveTime>2022-04-13T20:35:21.2238368+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
