@@ -86,7 +86,7 @@ You can only build certain blocks to certain numbers, so that everyone gets to p
 |Category|Blocks|Per player|Per grid
 |---|---|---:|---:|
 |All Blocks|All Blocks|20,000|15,000|
-|Subparts|Pistons + Rotors + Hinges|-|2|
+|Subparts|Pistons + Rotors + Hinges|-|2 (\*)|
 |Assemblers|All Assemblers|10|-|
 |Refineries|All Refineries|10|-|
 |Production|Assemblers + Refineries + Generators|-|16|
@@ -101,6 +101,10 @@ You can only build certain blocks to certain numbers, so that everyone gets to p
 
 * Programmable blocks will "overheat" if the computation takes 0.35ms per frame.
 * Type `!blocklimit mylimit` to see your status.
+
+(\*): Subparts have additional conditions due to the game's physics performance issue:
+- for grids with 500+ blocks, up to 1x subpart block can be placed.
+- for grids with 1000+ blocks, no subpart blocks can be placed.
 
 # Auto Moderator
 We have a bot that disables player grids that are consuming excess server resource.
@@ -171,8 +175,12 @@ We've edited the original mod as following:
 * Once you obtained a "source" component, you need to find a "forge" block.
 * "Forge" blocks will spawn with NPC ships/stations which you must raid first.
 * You can then "forge" your "source" components into tech components.
-* "Forge" blocks will destroy themselves after forging N components, otherwise invincible.
+* "Forge" blocks will destroy themselves after forging N components, otherwise invincible (\*).
 * "Forge" blocks will broadcast their location.
+
+(\*): Forge blocks cannot be destroyed by damage in order to prevent destruction during combat, but will lose the invincibility as soon as "compromised" in order to prevent player exploitations. Condition for "compromises":
+- Boss grid (or the forge block itself) is "towed" by player grids via connectors, merge blocks, landing gears, etc.
+- Boss grid's ownership has changed due to grinding & welding.
 
 ### Source Components
 
@@ -220,23 +228,24 @@ Following is the configuration of each "forge" block:
 
 ### Forge Blocks & PvP
 
-PvP is permitted around forge blocks if a clear intent is demonstrated by players:
+PvP is permitted around forge blocks if the intent of participation is clearly demonstrated by both/all parties:
 
-* A: Players MUST communicate and mutually agree before engagement
-* B: Players can engage without a notion
+* A: Clear intent. Players can engage in PvP without a prior notion
+* B: Unclear intent. Players MUST communicate and mutually agree before engaging in PvP
 
 |Type(A/B)|Action|
 |:-:|---|
-|A|Approaching the NPC ship/station|
-|A|Leaving the raid site|
-|A|Involuntarily engaged with the NPC ship (eg. turret AI around the settlement)|
-|B|Voluntarily engaged with the NPC ship/station|
-|B|Using a forge block|
-|B|Carrying and/or securing a forge block|
+|A|Engaged with a grid that's holding a forge block (\*)|
+|A|Consuming a forge block|
+|A|Carrying and/or securing a forge block|
+|B|Approaching a grid that's holding a forge block|
+|B|Leaving the site without having engaged in the affair|
 
-* In case you can't figure out your situation, please resort to A.
+* In case you can't figure out your situation, please resort to B.
 * In case a "mistake" takes place, the admin will figure it out using backup saves.
 * Making "mistakes" multiple times is subject to a penalty.
+
+(\*): In case the boss/npc spawned next to a player's base/settlement & the player's turret AI starts engaging with the grid, resort to B.
 
 This PvP mechanism/rules are experimental and subject to change.
 
