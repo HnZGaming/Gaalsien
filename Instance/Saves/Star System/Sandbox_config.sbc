@@ -319,6 +319,8 @@
     <ModItem FriendlyName="HnZ Space Pirates Enhanced">
       <Name>2790359971.sbm</Name>
       <PublishedFileId>2790359971</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="NexusSyncMod">
       <Name>2272613450.sbm</Name>
       <PublishedFileId>2272613450</PublishedFileId>
