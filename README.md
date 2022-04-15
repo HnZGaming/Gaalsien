@@ -8,19 +8,6 @@ Owner/maintainer of this repo is one of Torch devs who generally enjoys pissing 
 
 Most "gotcha's" in Torch server configuration is taken care of & you should be able to serve for up to 15 people on a fair machine as-is, that said follow the steps below to further optimize the configuration per your need. 
 
-## Further Optimization
-
-Following is the list of mods that you may consider removing from the game:
-
-- MES and NPC mods -- active source of mini-freeze.
-- Offline SafeZone -- generates SafeZones that accumulate in number and cause constant sim drop.
-
-Following is the list of game/mod/plugin configurations that you can further optimize:
-
-- Voxel cleanup condition and procedure.
-- Block Limiter configuration.
-- AutoModerator configuration.
-
 ## Notable Plugins
 
 - Essentials auto commands (restart, cleanup, vote, etc)
@@ -38,6 +25,19 @@ Following is the list of game/mod/plugin configurations that you can further opt
 - Feel free to fork/clone/download and edit this project so that you can jump-start on your server's configuration.
 - Let me know if things aren't working out of the box.
 - Suggest any improvements to receive virtual kisses and hugs.
+
+## Further Optimization
+
+Following is the list of mods that you may consider removing from the game:
+
+- MES and NPC mods -- active source of mini-freeze.
+- Offline SafeZone -- generates SafeZones that accumulate in number and cause constant sim drop.
+
+Following is the list of game/mod/plugin configurations that you can further optimize:
+
+- Voxel cleanup condition and procedure.
+- Block Limiter configuration.
+- AutoModerator configuration.
 
 ## Disclaimer
 
