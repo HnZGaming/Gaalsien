@@ -82,6 +82,7 @@ We don't fight too often but following is the rules:
 # Building Limits
 
 You can only build certain blocks to certain numbers, so that everyone gets to play lag-free.
+Note that block limit is automatically enforced by the server; the game will prevent you from placing a new block if the limit is reached.
 
 |Category|Blocks|Per player|Per grid
 |---|---|---:|---:|
