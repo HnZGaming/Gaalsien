@@ -8,19 +8,6 @@ Owner/maintainer of this repo is one of Torch devs who generally enjoys pissing 
 
 Most "gotcha's" in Torch server configuration is taken care of & you should be able to serve for up to 15 people on a fair machine as-is, that said follow the steps below to further optimize the configuration per your need. 
 
-## Further Optimization
-
-Following is the list of mods that you may consider removing from the game:
-
-- MES and NPC mods -- active source of mini-freeze.
-- Offline SafeZone -- generates SafeZones that accumulate in number and cause constant sim drop.
-
-Following is the list of game/mod/plugin configurations that you can further optimize:
-
-- Voxel cleanup condition and procedure.
-- Block Limiter configuration.
-- AutoModerator configuration.
-
 ## Notable Plugins
 
 - Essentials auto commands (restart, cleanup, vote, etc)
@@ -35,11 +22,25 @@ Following is the list of game/mod/plugin configurations that you can further opt
 ## Important Notice
 
 - This server may be running some "experimental redistribution" of mods that will crash the server if not replaced with the original mod.
+- Some files may be gitignored due to security reasons.
+- You might need to download each plugin zip listed in `Torch.cfg` from torchapi.com/plugins
+- Otherwise let me know if things aren't working out of the box.
 - Feel free to fork/clone/download and edit this project so that you can jump-start on your server's configuration.
-- Let me know if things aren't working out of the box.
 - Suggest any improvements to receive virtual kisses and hugs.
+
+## Further Optimization
+
+Following is the list of mods that you may consider removing from the game:
+
+- MES and NPC mods -- active source of mini-freeze.
+- Offline SafeZone -- generates SafeZones that accumulate in number and cause constant sim drop.
+
+Following is the list of game/mod/plugin configurations that you can further optimize:
+
+- Voxel cleanup condition and procedure.
+- Block Limiter configuration.
+- AutoModerator configuration.
 
 ## Disclaimer
 
-- Some files may be gitignored due to security reasons.
 - I won't be held responsible for any issues you may encounter running a copy of this project.
