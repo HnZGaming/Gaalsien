@@ -67,7 +67,8 @@ We're running 3 differnet servers which share the same world data:
 2. "Earth/Moon" server
 3. "Everything else" server
 
-* "Earth/Moon" server is a sector that extends 1000km from the origin of the world, and "Everything else" server is everything else.
+* "Earth/Moon" server is a sector that extends 1000km from the Earth, and "Everything else" server is everything else.
+* The border cuts right in between the Earth and Mars planetrs.
 * You can move between sectors by crossing the border via a hydrogen man, grids or jump drives.
 * Chat feed is shared, along with pretty much anything else.
 
