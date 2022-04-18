@@ -70,6 +70,7 @@ We're running 3 differnet servers which share the same world data:
 * "Earth/Moon" server is a sector that extends 1000km from the Earth, and "Everything else" server is everything else.
 * The border cuts right in between the Earth and Mars planetrs.
 * You can move between sectors by crossing the border via a hydrogen man, grids or jump drives.
+* You can also select spawn points in other sectors via the respawn menu. Note that spawning in another sector will involve switching the server = some loading time.
 * Chat feed is shared, along with pretty much anything else.
 
 "Lobby" server will host you during the maintenance of other servers.
