@@ -59,6 +59,28 @@ We make great effort to keep the server playable. Link below is the health monit
 |[Tiered Tech Blocks](https://steamcommunity.com/workshop/filedetails/?id=1682499145)|Makes your blocks perform better in exchange for rare components.|
 |[Relative Top Speed](https://steamcommunity.com/sharedfiles/filedetails/?id=1359618037)|Allows lightweight grids to go fast, otherwise slow.|
 
+# Nexus Sectoring
+
+We're running 3 differnet servers which share the same world data:
+
+1. "Lobby" server
+2. "Earth/Moon" server
+3. "Everything else" server
+
+* "Earth/Moon" server is a sector that extends 1000km from the origin of the world, and "Everything else" server is everything else.
+* You can move between sectors by crossing the border via a hydrogen man, grids or jump drives.
+* Chat feed is shared, along with pretty much anything else.
+
+"Lobby" server will host you during the maintenance of other servers.
+New players will also land in the Lobby server first.
+You can select which sector you want to spawn in from one of "spawn pads" in the lobby.
+
+Whenever you cross the border, you'll have to load the receiving end's server.
+This can take up your time depending on what you do regularly in the space.
+To shorten the sector-loading time, install the [Client Plugin Loader](https://steamcommunity.com/sharedfiles/filedetails/?id=2407984968),
+and activate the "seamless loading" feature.
+This feature will skip a chunk of loading tasks so that you can semi-instantly move between sectors.
+
 # PvE/NPC Behaviors
 
 We have [MES](https://steamcommunity.com/workshop/filedetails/?id=1521905890) ships flying around.
