@@ -49,6 +49,15 @@ We make great effort to keep the server playable. Link below is the health monit
 * For feature requests, please write in `#moderation` channal.
 * __No DM!__
 
+# Community Rules
+
+We will punish actions that deliberately ruin the experience for the general public:
+
+* Manipulating assets of random players
+* Spawn-killing new players
+* PvP outside the PvP rules (below)
+* or anything else that's reported.
+
 # Notable Mods
 
 |Name|Description|
