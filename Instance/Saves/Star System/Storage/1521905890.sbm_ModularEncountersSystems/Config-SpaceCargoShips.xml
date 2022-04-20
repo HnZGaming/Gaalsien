@@ -16,8 +16,6 @@
   <TimeoutDuration>0</TimeoutDuration>
   <UseCleanupSettings>true</UseCleanupSettings>
   <OnlyCleanNpcsFromMes>true</OnlyCleanNpcsFromMes>
-  <UseCleanupSettings>true</UseCleanupSettings>
-  <OnlyCleanNpcsFromMes>true</OnlyCleanNpcsFromMes>
   <CleanupUseDistance>true</CleanupUseDistance>
   <CleanupUseTimer>true</CleanupUseTimer>
   <CleanupUseBlockLimit>false</CleanupUseBlockLimit>
@@ -42,7 +40,7 @@
   <ModVersion>2.1.20</ModVersion>
   <EnableSpawns>true</EnableSpawns>
   <FirstSpawnTime>300</FirstSpawnTime>
-  <MinSpawnTime>780</MinSpawnTime>
+  <MinSpawnTime>300</MinSpawnTime>
   <MaxSpawnTime>1020</MaxSpawnTime>
   <MaxShipsPerArea>3</MaxShipsPerArea>
   <AreaSize>10000</AreaSize>
