@@ -86,11 +86,10 @@ We're running 3 differnet servers which share the same world data:
 New players will also land in the Lobby server first.
 You can select which sector you want to spawn in from one of "spawn pads" in the lobby.
 
-Whenever you cross the border, you'll have to load the receiving end's server.
-This can take up your time depending on what you do regularly in the space.
-To shorten the sector-loading time, install the [Client Plugin Loader](https://steamcommunity.com/sharedfiles/filedetails/?id=2407984968),
-and activate the "seamless loading" feature.
-This feature will skip a chunk of loading tasks so that you can semi-instantly move between sectors.
+## Nexus Seamless Client
+
+Loading/unloading a sector takes time. Install the [Client Plugin Loader](https://steamcommunity.com/sharedfiles/filedetails/?id=2407984968)
+and activate "NexusSeamlessClient". You can skip a chunk of the loading time and semi-instantly move between sectors. NOTE WeaponCore is known to mulfunction after jumping. Press F5 to get it back working.
 
 # PvE/NPC Behaviors
 
