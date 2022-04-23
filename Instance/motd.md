@@ -318,23 +318,7 @@ Loss of assets will NOT be restored by admin.
 
 # Troubleshooting
 
-### "Server is not responding"
-
-1. [Join Discord](https://discord.gg/jAG5E7uz) and see if the server is actually running (ping @Admin if not running!)
-2. [Delete shader cache](https://steamcommunity.com/app/244850/discussions/6/144513248281506789/)
-3. [Make sure Steam is set to allow downloads during gameplay](https://i.imgur.com/ew5m6jP.png)
-4. [Change Steam Download Region](https://i.imgur.com/mCSUqgv.png)
-5. [Clear download cache](https://help.steampowered.com/en/faqs/view/6AD7-820D-8BE5-E51F)
-6. [Verify Integrity of Game Files](https://i.imgur.com/rwydlBp.png)
-7. [Log out of Steam using "Change Account"](https://i.imgur.com/EotNoOi.png) then completely quit Steam before logging back in
-
-### Grids disappered
-
-See [Cleanup Conditions](#cleanup-conditions)
-
-### Cannot place new blocks
-
-See [Building Limits](#building-limits)
+https://github.com/HnZGaming/Gaalsien/wiki/Troubleshooting
 
 # Misc
 Any inquiries, feature requests, bug reports etc. should go to `#moderation` on [Discord](https://discord.gg/up8hPVXQUJ).
