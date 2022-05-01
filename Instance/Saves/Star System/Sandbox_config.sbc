@@ -133,6 +133,7 @@
     <EnableGamepadAimAssist>false</EnableGamepadAimAssist>
     <BackpackDespawnTimer>5</BackpackDespawnTimer>
     <EnableFactionPlayerNames>false</EnableFactionPlayerNames>
+    <EnableTeamScoreCounters>true</EnableTeamScoreCounters>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Rich HUD Master">
@@ -270,11 +271,6 @@
       <PublishedFileId>1931509062</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
-      <Name>500818376.sbm</Name>
-      <PublishedFileId>500818376</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Easy Block Renaming">
       <Name>2077166496.sbm</Name>
       <PublishedFileId>2077166496</PublishedFileId>
@@ -326,12 +322,7 @@
       <PublishedFileId>2272613450</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Zebedee - planet core guardian">
-      <Name>2367804078.sbm</Name>
-      <PublishedFileId>2367804078</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-04-24T00:59:04.4983479+08:00</LastSaveTime>
+  <LastSaveTime>2022-05-01T16:54:29.9016115+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
