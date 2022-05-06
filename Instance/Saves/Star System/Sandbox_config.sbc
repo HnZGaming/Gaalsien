@@ -271,6 +271,11 @@
       <PublishedFileId>1931509062</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
+      <Name>500818376.sbm</Name>
+      <PublishedFileId>500818376</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Easy Block Renaming">
       <Name>2077166496.sbm</Name>
       <PublishedFileId>2077166496</PublishedFileId>
@@ -315,11 +320,6 @@
     <ModItem FriendlyName="HnZ Space Pirates Enhanced">
       <Name>2790359971.sbm</Name>
       <PublishedFileId>2790359971</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="NexusSyncMod">
-      <Name>2272613450.sbm</Name>
-      <PublishedFileId>2272613450</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
