@@ -8,7 +8,7 @@
     <AssemblerEfficiencyMultiplier>5</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>5</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>20</MaxPlayers>
+    <MaxPlayers>12</MaxPlayers>
     <MaxFloatingObjects>56</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>15</MaxBackupSaves>
@@ -133,6 +133,7 @@
     <EnableGamepadAimAssist>false</EnableGamepadAimAssist>
     <BackpackDespawnTimer>5</BackpackDespawnTimer>
     <EnableFactionPlayerNames>false</EnableFactionPlayerNames>
+    <EnableTeamScoreCounters>true</EnableTeamScoreCounters>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Rich HUD Master">
@@ -323,5 +324,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-04-11T23:03:41.271716+08:00</LastSaveTime>
+  <LastSaveTime>2022-05-06T15:14:55.7749794+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

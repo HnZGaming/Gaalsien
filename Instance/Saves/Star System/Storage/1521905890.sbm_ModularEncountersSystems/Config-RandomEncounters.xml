@@ -12,7 +12,7 @@
   <TypeDisownTimer>0</TypeDisownTimer>
   <UseTimeout>true</UseTimeout>
   <TimeoutRadius>25000</TimeoutRadius>
-  <TimeoutSpawnLimit>2</TimeoutSpawnLimit>
+  <TimeoutSpawnLimit>9999</TimeoutSpawnLimit>
   <TimeoutDuration>900</TimeoutDuration>
   <UseCleanupSettings>true</UseCleanupSettings>
   <OnlyCleanNpcsFromMes>true</OnlyCleanNpcsFromMes>
