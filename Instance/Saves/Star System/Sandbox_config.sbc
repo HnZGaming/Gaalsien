@@ -261,7 +261,7 @@
       <PublishedFileId>2560410003</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.2(14)-Stable">
+    <ModItem FriendlyName="WeaponCore - 2.2(16)-Stable">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -324,5 +324,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-05-08T21:58:00.3473512+08:00</LastSaveTime>
+  <LastSaveTime>2022-05-17T20:01:05.9601061+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
