@@ -342,9 +342,9 @@
       <PublishedFileId>2722299710</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Abandoned Settlements">
-      <Name>2310821218.sbm</Name>
-      <PublishedFileId>2310821218</PublishedFileId>
+    <ModItem FriendlyName="MA Pole Parts">
+      <Name>2302105467.sbm</Name>
+      <PublishedFileId>2302105467</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Lost Colony Encounters (MES)">
@@ -353,6 +353,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-05-24T09:42:38.9223364+08:00</LastSaveTime>
+  <SessionName>Alkurah Star System [WaterMod]</SessionName>
+  <LastSaveTime>2022-05-24T10:07:39.4200952+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
