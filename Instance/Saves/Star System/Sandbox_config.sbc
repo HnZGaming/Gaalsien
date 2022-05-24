@@ -261,7 +261,7 @@
       <PublishedFileId>2560410003</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.2(16)-Stable">
+    <ModItem FriendlyName="WeaponCore - 2.2(17)-Stable">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -322,7 +322,17 @@
       <PublishedFileId>2790359971</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Abandoned Settlements">
+      <Name>2310821218.sbm</Name>
+      <PublishedFileId>2310821218</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Lost Colony Encounters (MES)">
+      <Name>2617194602.sbm</Name>
+      <PublishedFileId>2617194602</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-05-17T20:01:05.9601061+08:00</LastSaveTime>
+  <LastSaveTime>2022-05-24T09:42:38.9223364+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
