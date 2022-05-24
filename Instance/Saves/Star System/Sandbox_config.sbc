@@ -347,6 +347,11 @@
       <PublishedFileId>2302105467</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Abandoned Settlements">
+      <Name>2310821218.sbm</Name>
+      <PublishedFileId>2310821218</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Lost Colony Encounters (MES)">
       <Name>2617194602.sbm</Name>
       <PublishedFileId>2617194602</PublishedFileId>
