@@ -49,3 +49,5 @@ Instance/Saves/**/Storage/**/HeadhunterConfig.xml
 Instance/Saves/**/Storage/**/TieredTechBlocksConfig.xml
 Instance/Saves/**/Sandbox.sbc
 Instance/PerformanceImprovements/Cache
+lib
+app.config
