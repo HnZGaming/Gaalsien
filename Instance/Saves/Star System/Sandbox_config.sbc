@@ -181,7 +181,7 @@
       <PublishedFileId>2611224052</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Surface Occupation">
+    <ModItem FriendlyName="Parallax Concepts (Formerly Surface Occupation)">
       <Name>1135484957.sbm</Name>
       <PublishedFileId>1135484957</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -251,7 +251,7 @@
       <PublishedFileId>1843256487</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Air Traffic">
+    <ModItem FriendlyName="Imber Corporation (Formerly Air Traffic)">
       <Name>973526550.sbm</Name>
       <PublishedFileId>973526550</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -286,7 +286,7 @@
       <PublishedFileId>2781829620</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HnZ Tiered Tech Blocks">
+    <ModItem>
       <Name>2759474323.sbm</Name>
       <PublishedFileId>2759474323</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -325,6 +325,11 @@
     <ModItem FriendlyName="Elite Dangerous Style Jump Effect">
       <Name>2752881305.sbm</Name>
       <PublishedFileId>2752881305</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Zardos Connector Passageway &amp; More">
+      <Name>2783691448.sbm</Name>
+      <PublishedFileId>2783691448</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
