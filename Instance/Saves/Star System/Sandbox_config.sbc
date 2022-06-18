@@ -251,7 +251,7 @@
       <PublishedFileId>2560410003</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.2(17)-Stable">
+    <ModItem FriendlyName="WeaponCore - 2.2(19)-Stable">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -281,7 +281,7 @@
       <PublishedFileId>2781829620</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Tiered Tech Blocks">
       <Name>2759474323.sbm</Name>
       <PublishedFileId>2759474323</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -307,7 +307,7 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Space Pirates Enhanced">
       <Name>2790359971.sbm</Name>
       <PublishedFileId>2790359971</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -374,5 +374,5 @@
     </ModItem>
   </Mods>
   <SessionName>Alkurah Star System [WaterMod]</SessionName>
-  <LastSaveTime>2022-05-24T10:07:39.4200952+08:00</LastSaveTime>
+  <LastSaveTime>2022-06-18T11:27:27.8208393+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
