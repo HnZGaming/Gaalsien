@@ -8,6 +8,72 @@
     <string>AddPlanetIdHere</string>
     <string>AddAnotherPlanetIdHere</string>
   </SpawnTypePlanetBlacklist>
+  <PlanetSpawnFilters>
+    <PlanetSpawnFilter>
+      <PlanetName>Mars</PlanetName>
+      <PlanetId>7376538848170297803</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Triton</PlanetName>
+      <PlanetId>6525117208432977790</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Moon</PlanetName>
+      <PlanetId>8162427135541297003</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>EarthLike</PlanetName>
+      <PlanetId>3868533696819502467</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Alien</PlanetName>
+      <PlanetId>7227078719122709097</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Titan</PlanetName>
+      <PlanetId>6409848419840584595</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Europa</PlanetName>
+      <PlanetId>6999989728267602142</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Pertam</PlanetName>
+      <PlanetId>6902088205773520807</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+  </PlanetSpawnFilters>
   <UseTypeDisownTimer>false</UseTypeDisownTimer>
   <TypeDisownTimer>0</TypeDisownTimer>
   <UseTimeout>false</UseTimeout>
@@ -42,7 +108,7 @@
   <PlayerSpawnCooldown>300</PlayerSpawnCooldown>
   <SpawnTimerTrigger>60</SpawnTimerTrigger>
   <PlayerDistanceSpawnTrigger>6000</PlayerDistanceSpawnTrigger>
-  <MaxShipsPerArea>10</MaxShipsPerArea>
+  <MaxShipsPerArea>5</MaxShipsPerArea>
   <AreaSize>15000</AreaSize>
   <PlayerMaximumDistanceFromSurface>6000</PlayerMaximumDistanceFromSurface>
   <MinimumSpawnDistanceFromPlayers>3000</MinimumSpawnDistanceFromPlayers>

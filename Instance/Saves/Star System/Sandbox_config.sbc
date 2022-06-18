@@ -181,7 +181,7 @@
       <PublishedFileId>2611224052</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Surface Occupation">
+    <ModItem FriendlyName="Parallax Concepts (Formerly Surface Occupation)">
       <Name>1135484957.sbm</Name>
       <PublishedFileId>1135484957</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -251,7 +251,7 @@
       <PublishedFileId>1843256487</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Air Traffic">
+    <ModItem FriendlyName="Imber Corporation (Formerly Air Traffic)">
       <Name>973526550.sbm</Name>
       <PublishedFileId>973526550</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -261,7 +261,7 @@
       <PublishedFileId>2560410003</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.2(17)-Stable">
+    <ModItem FriendlyName="WeaponCore - 2.2(19)-Stable">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -334,5 +334,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-05-24T09:42:38.9223364+08:00</LastSaveTime>
+  <LastSaveTime>2022-06-18T11:27:15.4781493+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
