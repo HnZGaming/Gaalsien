@@ -73,6 +73,14 @@
         <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Europa</PlanetName>
+      <PlanetId>6999989728267602142</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
   </PlanetSpawnFilters>
   <UseTypeDisownTimer>true</UseTypeDisownTimer>
   <TypeDisownTimer>1800</TypeDisownTimer>
@@ -111,8 +119,8 @@
   <MaxShipsPerArea>1</MaxShipsPerArea>
   <AreaSize>10000</AreaSize>
   <MaxSpawnAttempts>10</MaxSpawnAttempts>
-  <MinPathDistanceFromPlayer>2000</MinPathDistanceFromPlayer>
-  <MaxPathDistanceFromPlayer>4000</MaxPathDistanceFromPlayer>
+  <MinPathDistanceFromPlayer>3000</MinPathDistanceFromPlayer>
+  <MaxPathDistanceFromPlayer>6000</MaxPathDistanceFromPlayer>
   <MinLunarSpawnHeight>3500</MinLunarSpawnHeight>
   <MaxLunarSpawnHeight>4500</MaxLunarSpawnHeight>
   <MinSpawnDistFromEntities>1000</MinSpawnDistFromEntities>
