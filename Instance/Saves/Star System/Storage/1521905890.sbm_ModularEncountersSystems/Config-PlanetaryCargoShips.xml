@@ -82,6 +82,54 @@
         <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Luma</PlanetName>
+      <PlanetId>4424228299603364757</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Kimi</PlanetName>
+      <PlanetId>6094380632072525635</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Tohil</PlanetName>
+      <PlanetId>2744075104685593400</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Satreus</PlanetName>
+      <PlanetId>2636809017746169088</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Trelan</PlanetName>
+      <PlanetId>1039375202625137813</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Teal-WaterMod</PlanetName>
+      <PlanetId>1636119937678889178</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
   </PlanetSpawnFilters>
   <UseTypeDisownTimer>true</UseTypeDisownTimer>
   <TypeDisownTimer>1800</TypeDisownTimer>
@@ -122,7 +170,7 @@
   <MaxSpawnAttempts>25</MaxSpawnAttempts>
   <PlayerSurfaceAltitude>6000</PlayerSurfaceAltitude>
   <MinPathDistanceFromPlayer>3000</MinPathDistanceFromPlayer>
-  <MaxPathDistanceFromPlayer>5000</MaxPathDistanceFromPlayer>
+  <MaxPathDistanceFromPlayer>6000</MaxPathDistanceFromPlayer>
   <MinSpawnDistFromEntities>1200</MinSpawnDistFromEntities>
   <MinAirDensity>0.7</MinAirDensity>
   <MinSpawningAltitude>1700</MinSpawningAltitude>

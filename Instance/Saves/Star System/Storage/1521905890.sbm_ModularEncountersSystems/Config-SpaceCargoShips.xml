@@ -113,6 +113,54 @@
         <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Luma</PlanetName>
+      <PlanetId>4424228299603364757</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Kimi</PlanetName>
+      <PlanetId>6094380632072525635</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Tohil</PlanetName>
+      <PlanetId>2744075104685593400</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Satreus</PlanetName>
+      <PlanetId>2636809017746169088</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Trelan</PlanetName>
+      <PlanetId>1039375202625137813</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Teal-WaterMod</PlanetName>
+      <PlanetId>1636119937678889178</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
   </PlanetSpawnFilters>
   <UseTypeDisownTimer>true</UseTypeDisownTimer>
   <TypeDisownTimer>1800</TypeDisownTimer>
@@ -151,8 +199,8 @@
   <MaxShipsPerArea>1</MaxShipsPerArea>
   <AreaSize>10000</AreaSize>
   <MaxSpawnAttempts>10</MaxSpawnAttempts>
-  <MinPathDistanceFromPlayer>2000</MinPathDistanceFromPlayer>
-  <MaxPathDistanceFromPlayer>4000</MaxPathDistanceFromPlayer>
+  <MinPathDistanceFromPlayer>3000</MinPathDistanceFromPlayer>
+  <MaxPathDistanceFromPlayer>6000</MaxPathDistanceFromPlayer>
   <MinLunarSpawnHeight>3500</MinLunarSpawnHeight>
   <MaxLunarSpawnHeight>4500</MaxLunarSpawnHeight>
   <MinSpawnDistFromEntities>1000</MinSpawnDistFromEntities>
