@@ -18,7 +18,7 @@
     <PiratePCU>500000</PiratePCU>
     <MaxFactionsCount>0</MaxFactionsCount>
     <BlockLimitsEnabled>PER_PLAYER</BlockLimitsEnabled>
-    <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
+    <EnableRemoteBlockRemoval>false</EnableRemoteBlockRemoval>
     <EnvironmentHostility>SAFE</EnvironmentHostility>
     <AutoHealing>false</AutoHealing>
     <EnableCopyPaste>false</EnableCopyPaste>
