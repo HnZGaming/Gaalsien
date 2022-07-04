@@ -8,7 +8,7 @@
     <AssemblerEfficiencyMultiplier>5</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>5</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>12</MaxPlayers>
+    <MaxPlayers>20</MaxPlayers>
     <MaxFloatingObjects>56</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>15</MaxBackupSaves>
@@ -261,7 +261,7 @@
       <PublishedFileId>2560410003</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.2(19)-Stable">
+    <ModItem FriendlyName="WeaponCore - 2.2(20)-Final">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -322,7 +322,7 @@
       <PublishedFileId>2790359971</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Abandoned Settlements">
+    <ModItem FriendlyName="Abandoned Settlements [v2]">
       <Name>2310821218.sbm</Name>
       <PublishedFileId>2310821218</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -332,7 +332,18 @@
       <PublishedFileId>2617194602</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Binoculars">
+      <Name>2777644246.sbm</Name>
+      <PublishedFileId>2777644246</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Scope Framework">
+      <Name>2754014019.sbm</Name>
+      <PublishedFileId>2754014019</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-06-18T11:27:15.4781493+08:00</LastSaveTime>
+  <LastSaveTime>2022-07-05T07:22:22.0464101+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
