@@ -3,7 +3,6 @@
   <PlayerAlertEnabled>false</PlayerAlertEnabled>
   <SecondsBetweenPlayerAlert>10</SecondsBetweenPlayerAlert>
   <ShipSaleCommands>false</ShipSaleCommands>
-  <NobodyPatch>false</NobodyPatch>
   <ShowFactionTagsOnDamageGrid>false</ShowFactionTagsOnDamageGrid>
   <LogFactionStuff>true</LogFactionStuff>
   <EconomyChangesInLog>true</EconomyChangesInLog>
