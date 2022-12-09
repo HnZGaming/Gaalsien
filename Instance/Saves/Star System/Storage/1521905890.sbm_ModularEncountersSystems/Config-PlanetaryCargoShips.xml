@@ -90,6 +90,22 @@
         <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Europa</PlanetName>
+      <PlanetId>6999989728267602142</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Europa</PlanetName>
+      <PlanetId>6999989728267602142</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
   </PlanetSpawnFilters>
   <UseTypeDisownTimer>true</UseTypeDisownTimer>
   <TypeDisownTimer>1800</TypeDisownTimer>
@@ -129,9 +145,9 @@
   <AreaSize>10000</AreaSize>
   <MaxSpawnAttempts>25</MaxSpawnAttempts>
   <PlayerSurfaceAltitude>6000</PlayerSurfaceAltitude>
-  <MinPathDistanceFromPlayer>3000</MinPathDistanceFromPlayer>
-  <MaxPathDistanceFromPlayer>6000</MaxPathDistanceFromPlayer>
-  <MinSpawnDistFromEntities>1200</MinSpawnDistFromEntities>
+  <MinPathDistanceFromPlayer>5000</MinPathDistanceFromPlayer>
+  <MaxPathDistanceFromPlayer>9000</MaxPathDistanceFromPlayer>
+  <MinSpawnDistFromEntities>5000</MinSpawnDistFromEntities>
   <MinAirDensity>0.7</MinAirDensity>
   <MinSpawningAltitude>1700</MinSpawningAltitude>
   <MaxSpawningAltitude>2500</MaxSpawningAltitude>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ConfigFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EconName>CrunchEcon</EconName>
   <PlayerAlertEnabled>false</PlayerAlertEnabled>
   <SecondsBetweenPlayerAlert>10</SecondsBetweenPlayerAlert>
   <ShipSaleCommands>false</ShipSaleCommands>

@@ -181,11 +181,6 @@
       <PublishedFileId>2611224052</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Parallax Concepts (Formerly Surface Occupation)">
-      <Name>1135484957.sbm</Name>
-      <PublishedFileId>1135484957</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Relative Top Speed">
       <Name>1359618037.sbm</Name>
       <PublishedFileId>1359618037</PublishedFileId>
@@ -251,17 +246,12 @@
       <PublishedFileId>1843256487</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Imber Corporation (Formerly Air Traffic)">
-      <Name>973526550.sbm</Name>
-      <PublishedFileId>973526550</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="HnZ Respawn">
       <Name>2560410003.sbm</Name>
       <PublishedFileId>2560410003</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.2(20)-Final">
+    <ModItem FriendlyName="WeaponCore - 2.3(1)">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -271,14 +261,19 @@
       <PublishedFileId>1931509062</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Defense Shields - v2.0(38)">
+      <Name>1365616918.sbm</Name>
+      <PublishedFileId>1365616918</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="NPC Defense Shields Provider">
+      <Name>2043339470.sbm</Name>
+      <PublishedFileId>2043339470</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
       <Name>500818376.sbm</Name>
       <PublishedFileId>500818376</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Easy Block Renaming">
-      <Name>2077166496.sbm</Name>
-      <PublishedFileId>2077166496</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Peavers">
@@ -327,7 +322,7 @@
       <PublishedFileId>2310821218</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Lost Colony Encounters (MES)">
+    <ModItem FriendlyName="MES Lost Colony Encounters + Frostbite">
       <Name>2617194602.sbm</Name>
       <PublishedFileId>2617194602</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -343,7 +338,43 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem FriendlyName="Easy Block Renaming">
+      <Name>2077166496.sbm</Name>
+      <PublishedFileId>2077166496</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Pravda Heavy Industries">
+      <Name>2852753555.sbm</Name>
+      <PublishedFileId>2852753555</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[QoL] Radio Spectrometry">
+      <Name>2687324923.sbm</Name>
+      <PublishedFileId>2687324923</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="HnZ Parallax Concepts">
+      <Name>2877092557.sbm</Name>
+      <PublishedFileId>2877092557</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="HnZ Imber Corporation">
+      <Name>2877092453.sbm</Name>
+      <PublishedFileId>2877092453</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="HnZ Independent Contractors">
+      <Name>2877092514.sbm</Name>
+      <PublishedFileId>2877092514</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-07-05T07:22:22.0464101+08:00</LastSaveTime>
+  <LastSaveTime>2022-12-09T21:28:45.6860174+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
