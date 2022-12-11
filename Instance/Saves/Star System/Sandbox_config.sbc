@@ -374,7 +374,27 @@
       <PublishedFileId>2877092514</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Alkurah Modpack">
+      <Name>2749055337.sbm</Name>
+      <PublishedFileId>2749055337</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="The Sun is not yellow">
+      <Name>2722299710.sbm</Name>
+      <PublishedFileId>2722299710</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Water Mod">
+      <Name>2200451495.sbm</Name>
+      <PublishedFileId>2200451495</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Wasteland Encounters V2 Continued">
+      <Name>2539299261.sbm</Name>
+      <PublishedFileId>2539299261</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2022-12-09T21:28:45.6860174+08:00</LastSaveTime>
+  <LastSaveTime>2022-12-11T17:28:30.7760062+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
