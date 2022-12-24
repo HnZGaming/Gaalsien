@@ -8,6 +8,7 @@
     <string>AddPlanetIdHere</string>
     <string>AddAnotherPlanetIdHere</string>
   </SpawnTypePlanetBlacklist>
+  <PlanetSpawnFilters />
   <UseTypeDisownTimer>false</UseTypeDisownTimer>
   <TypeDisownTimer>0</TypeDisownTimer>
   <UseTimeout>false</UseTimeout>
@@ -39,9 +40,4 @@
   </DisableBlocksByDefinitionId>
   <ModVersion>2.1.28</ModVersion>
   <DespawnDistanceFromPlayer>1000</DespawnDistanceFromPlayer>
-  <EnableDroneEncounters>true</EnableDroneEncounters>
-  <PlayerSpawnCooldown>0</PlayerSpawnCooldown>
-  <SpawnTimerTrigger>30</SpawnTimerTrigger>
-  <MaxSpawnAttempts>5</MaxSpawnAttempts>
-  <MinDistanceFromOtherEntities>800</MinDistanceFromOtherEntities>
 </ConfigOtherNPCs>

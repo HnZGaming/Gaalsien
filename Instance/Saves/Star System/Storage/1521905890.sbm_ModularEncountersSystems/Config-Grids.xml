@@ -28,7 +28,8 @@
   <WeaponReplacerMassLimits>false</WeaponReplacerMassLimits>
   <WeaponReplacerUseTotalGridMassMultiplier>false</WeaponReplacerUseTotalGridMassMultiplier>
   <WeaponReplacerTotalGridMassMultiplier>1.2</WeaponReplacerTotalGridMassMultiplier>
-  <ShieldProviderChance>100</ShieldProviderChance>
+  <RandomizedWeaponsUseFullRange>true</RandomizedWeaponsUseFullRange>
+  <ShieldProviderChance>0</ShieldProviderChance>
   <UseGlobalBlockReplacer>true</UseGlobalBlockReplacer>
   <GlobalBlockReplacerReference />
   <GlobalBlockReplacerProfiles>
@@ -41,5 +42,7 @@
   <GlobalReplenishmentProfiles>
     <string>MES-Replenishment-BaseRules</string>
   </GlobalReplenishmentProfiles>
+  <AerodynamicsModAdvLiftOverride>false</AerodynamicsModAdvLiftOverride>
+  <StopCompromisedAiMovement>true</StopCompromisedAiMovement>
   <ModVersion>2.1.20</ModVersion>
 </ConfigGrids>

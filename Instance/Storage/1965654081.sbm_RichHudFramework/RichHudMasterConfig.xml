@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-16"?>
-<RichHudSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ConfigVersionID="2">
+<RichHudSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ConfigVersionID="3">
   <InputSettings>
     <KeyBinds>
-      <Bind name="ToggleTerminal">
+      <Bind name="ToggleTerminalOld">
         <Controls>
           <string>F1</string>
+        </Controls>
+      </Bind>
+      <Bind name="ToggleTerminal">
+        <Controls>
+          <string>F2</string>
         </Controls>
       </Bind>
     </KeyBinds>
