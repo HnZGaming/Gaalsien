@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_WorldConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Settings xsi:type="MyObjectBuilder_SessionSettings">
-    <GameMode>Survival</GameMode>
+    <GameMode>Creative</GameMode>
     <InventorySizeMultiplier>10</InventorySizeMultiplier>
     <BlocksInventorySizeMultiplier>5</BlocksInventorySizeMultiplier>
     <AssemblerSpeedMultiplier>5</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>5</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>5</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>20</MaxPlayers>
+    <MaxPlayers>4</MaxPlayers>
     <MaxFloatingObjects>56</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>15</MaxBackupSaves>
@@ -18,10 +18,10 @@
     <PiratePCU>500000</PiratePCU>
     <MaxFactionsCount>0</MaxFactionsCount>
     <BlockLimitsEnabled>PER_PLAYER</BlockLimitsEnabled>
-    <EnableRemoteBlockRemoval>false</EnableRemoteBlockRemoval>
+    <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
     <EnvironmentHostility>SAFE</EnvironmentHostility>
     <AutoHealing>false</AutoHealing>
-    <EnableCopyPaste>false</EnableCopyPaste>
+    <EnableCopyPaste>true</EnableCopyPaste>
     <WeaponsEnabled>true</WeaponsEnabled>
     <ShowPlayerNamesOnHud>true</ShowPlayerNamesOnHud>
     <ThrusterDamage>true</ThrusterDamage>
@@ -35,7 +35,7 @@
     <RealisticSound>false</RealisticSound>
     <HackSpeedMultiplier>0.33</HackSpeedMultiplier>
     <PermanentDeath>false</PermanentDeath>
-    <AutoSaveInMinutes>15</AutoSaveInMinutes>
+    <AutoSaveInMinutes>999999</AutoSaveInMinutes>
     <EnableSaving>false</EnableSaving>
     <InfiniteAmmo>false</InfiniteAmmo>
     <EnableContainerDrops>true</EnableContainerDrops>
@@ -276,9 +276,6 @@
       <PublishedFileId>500818376</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Peavers">
-      <Name>2776377087.sbm</Name>
-      <PublishedFileId>2776377087</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Local Gps 1.0">
@@ -291,16 +288,6 @@
       <PublishedFileId>2759474323</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Pork Zone">
-      <Name>2759485949.sbm</Name>
-      <PublishedFileId>2759485949</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="MES Custom Boss Spawner">
-      <Name>2783946867.sbm</Name>
-      <PublishedFileId>2783946867</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="HnZ Conveyor Categories">
       <Name>2784989068.sbm</Name>
       <PublishedFileId>2784989068</PublishedFileId>
@@ -311,21 +298,6 @@
       <PublishedFileId>2788240620</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="HnZ Space Pirates Enhanced">
-      <Name>2790359971.sbm</Name>
-      <PublishedFileId>2790359971</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Abandoned Settlements [v2]">
-      <Name>2310821218.sbm</Name>
-      <PublishedFileId>2310821218</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="MES Lost Colony Encounters + Frostbite">
-      <Name>2617194602.sbm</Name>
-      <PublishedFileId>2617194602</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Binoculars">
       <Name>2777644246.sbm</Name>
@@ -343,11 +315,6 @@
       <PublishedFileId>2077166496</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Pravda Heavy Industries">
-      <Name>2852753555.sbm</Name>
-      <PublishedFileId>2852753555</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="[QoL] Radio Spectrometry">
       <Name>2687324923.sbm</Name>
       <PublishedFileId>2687324923</PublishedFileId>
@@ -359,29 +326,9 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="HnZ Parallax Concepts">
-      <Name>2877092557.sbm</Name>
-      <PublishedFileId>2877092557</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="HnZ Imber Corporation">
-      <Name>2877092453.sbm</Name>
-      <PublishedFileId>2877092453</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="HnZ Independent Contractors">
-      <Name>2877092514.sbm</Name>
-      <PublishedFileId>2877092514</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="The Sun is not yellow">
       <Name>2722299710.sbm</Name>
       <PublishedFileId>2722299710</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Wasteland Encounters V2 Continued">
-      <Name>2539299261.sbm</Name>
-      <PublishedFileId>2539299261</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Water (Debugging)">
@@ -395,6 +342,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <SessionName>Star System</SessionName>
-  <LastSaveTime>2023-01-04T23:31:08.5483163+08:00</LastSaveTime>
+  <SessionName>Creative</SessionName>
+  <LastSaveTime>2022-06-04T14:03:28.7711797+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
