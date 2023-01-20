@@ -181,11 +181,6 @@
       <PublishedFileId>2611224052</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Relative Top Speed">
-      <Name>1359618037.sbm</Name>
-      <PublishedFileId>1359618037</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Nanobot Build and Repair System (Fixed SafeZone, Shields, Reputations, Power Consumption, Build Resources)">
       <Name>2111073562.sbm</Name>
       <PublishedFileId>2111073562</PublishedFileId>
@@ -392,6 +387,11 @@
     <ModItem FriendlyName="Alkurah">
       <Name>2906098695.sbm</Name>
       <PublishedFileId>2906098695</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="HNZ RTS">
+      <Name>2920687365.sbm</Name>
+      <PublishedFileId>2920687365</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
