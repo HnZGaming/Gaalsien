@@ -181,11 +181,6 @@
       <PublishedFileId>2611224052</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Relative Top Speed">
-      <Name>1359618037.sbm</Name>
-      <PublishedFileId>1359618037</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Nanobot Build and Repair System (Fixed SafeZone, Shields, Reputations, Power Consumption, Build Resources)">
       <Name>2111073562.sbm</Name>
       <PublishedFileId>2111073562</PublishedFileId>
@@ -394,7 +389,12 @@
       <PublishedFileId>2906098695</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="HNZ RTS">
+      <Name>2920687365.sbm</Name>
+      <PublishedFileId>2920687365</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2023-01-04T23:31:08.5483163+08:00</LastSaveTime>
+  <LastSaveTime>2023-02-02T10:21:01.6638944+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
