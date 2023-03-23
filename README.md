@@ -22,6 +22,7 @@ Most "gotcha's" in Torch server configuration is taken care of & you should be a
 ## Important Notice
 
 - This server may be running some "experimental redistribution" of mods that will crash the server if not replaced with the original mod.
+- There might (will) be plugins that you won't be able to find in the Torch plugin repo as they have been obsolete (or I haven't published them yet). Please let me know if you run into (practical) issues due to missing plugins.
 - Some files may be gitignored due to security reasons.
 - You might need to download each plugin zip listed in `Torch.cfg` from torchapi.com/plugins
 - Otherwise let me know if things aren't working out of the box.
