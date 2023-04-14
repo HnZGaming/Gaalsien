@@ -134,6 +134,11 @@
     <BackpackDespawnTimer>5</BackpackDespawnTimer>
     <EnableFactionPlayerNames>false</EnableFactionPlayerNames>
     <EnableTeamScoreCounters>true</EnableTeamScoreCounters>
+    <EnableSpaceSuitRespawn>true</EnableSpaceSuitRespawn>
+    <MatchRestartWhenEmptyTime>0</MatchRestartWhenEmptyTime>
+    <EnableFactionVoiceChat>false</EnableFactionVoiceChat>
+    <EnableOrca>true</EnableOrca>
+    <MaxProductionQueueLength>50</MaxProductionQueueLength>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Rich HUD Master">
@@ -396,5 +401,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2023-02-02T10:21:01.6638944+08:00</LastSaveTime>
+  <LastSaveTime>2023-04-14T09:20:40.4207327+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
