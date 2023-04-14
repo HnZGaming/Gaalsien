@@ -11,6 +11,7 @@
   <PcuCountShowProjPCU>true</PcuCountShowProjPCU>
   <EcoChatMessages>false</EcoChatMessages>
   <ScrapMetalPatch>true</ScrapMetalPatch>
+  <ScrapMetalPatchNeverSpawn>false</ScrapMetalPatchNeverSpawn>
   <projectorOwnershipPatch>false</projectorOwnershipPatch>
   <FixTradeStation>false</FixTradeStation>
   <PlayerMakeShip>true</PlayerMakeShip>

@@ -6,7 +6,6 @@ $crashCount = 0
 $servername = "Torch-Server"
 $lokiJob = "torch_gaalsien"
 $expectedRestartMinutes = 6 * 60
-$host.UI.RawUI.WindowTitle = "SE Auto-Restart: $servername"
 
 Write-LokiLogMessage -Level INFO -Message "SE Auto-Restart Script Started" -Labels @{job=$lokiJob; component="AutoRestart-PowerShell-Script"}
 while ($true)
