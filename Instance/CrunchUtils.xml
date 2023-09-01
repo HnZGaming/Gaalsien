@@ -28,7 +28,10 @@
   <IdentityUpdate>true</IdentityUpdate>
   <Claim>false</Claim>
   <ClaimOnlyForLeaders>true</ClaimOnlyForLeaders>
+  <ClaimOnlyFactionGrids>false</ClaimOnlyFactionGrids>
   <ClaimPercent>70</ClaimPercent>
+  <FactionsNeutralOnCreation>false</FactionsNeutralOnCreation>
+  <ExcludedFactionTags>SPRT,EXAMPLE1,EXAMPLE2</ExcludedFactionTags>
   <CooldownInSeconds>30</CooldownInSeconds>
   <RespawnCooldownInSeconds>1200</RespawnCooldownInSeconds>
 </ConfigFile>
