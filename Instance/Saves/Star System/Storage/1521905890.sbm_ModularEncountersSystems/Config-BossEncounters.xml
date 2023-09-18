@@ -10,22 +10,6 @@
   </SpawnTypePlanetBlacklist>
   <PlanetSpawnFilters>
     <PlanetSpawnFilter>
-      <PlanetName>Triton</PlanetName>
-      <PlanetId>6525117208432977790</PlanetId>
-      <PlanetSpawnGroupBlacklist>
-        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
-        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
-      </PlanetSpawnGroupBlacklist>
-    </PlanetSpawnFilter>
-    <PlanetSpawnFilter>
-      <PlanetName>Moon</PlanetName>
-      <PlanetId>8162427135541297003</PlanetId>
-      <PlanetSpawnGroupBlacklist>
-        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
-        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
-      </PlanetSpawnGroupBlacklist>
-    </PlanetSpawnFilter>
-    <PlanetSpawnFilter>
       <PlanetName>Titan</PlanetName>
       <PlanetId>6409848419840584595</PlanetId>
       <PlanetSpawnGroupBlacklist>
@@ -42,14 +26,6 @@
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
     <PlanetSpawnFilter>
-      <PlanetName>Mars</PlanetName>
-      <PlanetId>7376538848170297803</PlanetId>
-      <PlanetSpawnGroupBlacklist>
-        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
-        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
-      </PlanetSpawnGroupBlacklist>
-    </PlanetSpawnFilter>
-    <PlanetSpawnFilter>
       <PlanetName>EarthLike</PlanetName>
       <PlanetId>3868533696819502467</PlanetId>
       <PlanetSpawnGroupBlacklist>
@@ -58,48 +34,24 @@
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
     <PlanetSpawnFilter>
-      <PlanetName>Tohil</PlanetName>
-      <PlanetId>4332390805211866113</PlanetId>
+      <PlanetName>Moon</PlanetName>
+      <PlanetId>8162427135541297003</PlanetId>
       <PlanetSpawnGroupBlacklist>
         <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
         <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
     <PlanetSpawnFilter>
-      <PlanetName>Teal-WaterMod</PlanetName>
-      <PlanetId>4498518143957369757</PlanetId>
+      <PlanetName>Triton</PlanetName>
+      <PlanetId>6525117208432977790</PlanetId>
       <PlanetSpawnGroupBlacklist>
         <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
         <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
     <PlanetSpawnFilter>
-      <PlanetName>Pertam</PlanetName>
-      <PlanetId>6902088205773520807</PlanetId>
-      <PlanetSpawnGroupBlacklist>
-        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
-        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
-      </PlanetSpawnGroupBlacklist>
-    </PlanetSpawnFilter>
-    <PlanetSpawnFilter>
-      <PlanetName>Europa</PlanetName>
-      <PlanetId>6999989728267602142</PlanetId>
-      <PlanetSpawnGroupBlacklist>
-        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
-        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
-      </PlanetSpawnGroupBlacklist>
-    </PlanetSpawnFilter>
-    <PlanetSpawnFilter>
-      <PlanetName>Trelan</PlanetName>
-      <PlanetId>4168403601365085922</PlanetId>
-      <PlanetSpawnGroupBlacklist>
-        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
-        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
-      </PlanetSpawnGroupBlacklist>
-    </PlanetSpawnFilter>
-    <PlanetSpawnFilter>
-      <PlanetName>Satreus</PlanetName>
-      <PlanetId>8182188255046415880</PlanetId>
+      <PlanetName>Mars</PlanetName>
+      <PlanetId>7376538848170297803</PlanetId>
       <PlanetSpawnGroupBlacklist>
         <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
         <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
@@ -114,8 +66,24 @@
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
     <PlanetSpawnFilter>
+      <PlanetName>Pertam</PlanetName>
+      <PlanetId>6902088205773520807</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
       <PlanetName>Trelan</PlanetName>
-      <PlanetId>-4168403601365085922</PlanetId>
+      <PlanetId>-8039639203980996072</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Tohil</PlanetName>
+      <PlanetId>1042289355981150874</PlanetId>
       <PlanetSpawnGroupBlacklist>
         <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
         <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
@@ -123,7 +91,15 @@
     </PlanetSpawnFilter>
     <PlanetSpawnFilter>
       <PlanetName>Satreus</PlanetName>
-      <PlanetId>-8182188255046415880</PlanetId>
+      <PlanetId>6023184147298248135</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Teal-WaterMod</PlanetName>
+      <PlanetId>-195785692450484237</PlanetId>
       <PlanetSpawnGroupBlacklist>
         <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
         <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
@@ -139,17 +115,17 @@
   <UseCleanupSettings>true</UseCleanupSettings>
   <OnlyCleanNpcsFromMes>true</OnlyCleanNpcsFromMes>
   <CleanupUseDistance>true</CleanupUseDistance>
-  <CleanupUseTimer>true</CleanupUseTimer>
+  <CleanupUseTimer>false</CleanupUseTimer>
   <CleanupUseBlockLimit>false</CleanupUseBlockLimit>
-  <CleanupDistanceStartsTimer>true</CleanupDistanceStartsTimer>
-  <CleanupResetTimerWithinDistance>true</CleanupResetTimerWithinDistance>
-  <CleanupDistanceTrigger>15000</CleanupDistanceTrigger>
-  <CleanupTimerTrigger>900</CleanupTimerTrigger>
+  <CleanupDistanceStartsTimer>false</CleanupDistanceStartsTimer>
+  <CleanupResetTimerWithinDistance>false</CleanupResetTimerWithinDistance>
+  <CleanupDistanceTrigger>50000</CleanupDistanceTrigger>
+  <CleanupTimerTrigger>1800</CleanupTimerTrigger>
   <CleanupBlockLimitTrigger>0</CleanupBlockLimitTrigger>
   <CleanupIncludeUnowned>true</CleanupIncludeUnowned>
   <CleanupUnpoweredOverride>true</CleanupUnpoweredOverride>
-  <CleanupUnpoweredDistanceTrigger>5000</CleanupUnpoweredDistanceTrigger>
-  <CleanupUnpoweredTimerTrigger>300</CleanupUnpoweredTimerTrigger>
+  <CleanupUnpoweredDistanceTrigger>25000</CleanupUnpoweredDistanceTrigger>
+  <CleanupUnpoweredTimerTrigger>900</CleanupUnpoweredTimerTrigger>
   <UseBlockDisable>false</UseBlockDisable>
   <DisableBlocksByType>
     <string>ObjectBuilderTypeHere</string>

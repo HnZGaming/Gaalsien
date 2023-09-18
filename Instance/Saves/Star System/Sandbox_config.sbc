@@ -25,7 +25,7 @@
     <WeaponsEnabled>true</WeaponsEnabled>
     <ShowPlayerNamesOnHud>true</ShowPlayerNamesOnHud>
     <ThrusterDamage>true</ThrusterDamage>
-    <CargoShipsEnabled>true</CargoShipsEnabled>
+    <CargoShipsEnabled>false</CargoShipsEnabled>
     <EnableSpectator>false</EnableSpectator>
     <WorldSizeKm>0</WorldSizeKm>
     <RespawnShipDelete>true</RespawnShipDelete>
@@ -49,7 +49,7 @@
     <EnableOxygen>true</EnableOxygen>
     <EnableOxygenPressurization>true</EnableOxygenPressurization>
     <Enable3rdPersonView>true</Enable3rdPersonView>
-    <EnableEncounters>true</EnableEncounters>
+    <EnableEncounters>false</EnableEncounters>
     <EnableConvertToStation>true</EnableConvertToStation>
     <StationVoxelSupport>false</StationVoxelSupport>
     <EnableSunRotation>true</EnableSunRotation>
@@ -116,7 +116,6 @@
     <StationsDistanceOuterRadiusEnd>10000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
-    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>true</EnableSelectivePhysicsUpdates>
@@ -292,7 +291,7 @@
       <PublishedFileId>2781829620</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Tiered Tech Blocks">
       <Name>2759474323.sbm</Name>
       <PublishedFileId>2759474323</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -318,7 +317,7 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Space Pirates Enhanced">
       <Name>2790359971.sbm</Name>
       <PublishedFileId>2790359971</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -365,17 +364,17 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Parallax Concepts">
       <Name>2877092557.sbm</Name>
       <PublishedFileId>2877092557</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Imber Corporation">
       <Name>2877092453.sbm</Name>
       <PublishedFileId>2877092453</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Independent Contractors">
       <Name>2877092514.sbm</Name>
       <PublishedFileId>2877092514</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -390,22 +389,22 @@
       <PublishedFileId>2539299261</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="Water (Debugging)">
       <Name>2906004320.sbm</Name>
       <PublishedFileId>2906004320</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="Alkurah">
       <Name>2906098695.sbm</Name>
       <PublishedFileId>2906098695</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HNZ RTS">
       <Name>2920687365.sbm</Name>
       <PublishedFileId>2920687365</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2023-09-01T02:49:36.1437689+08:00</LastSaveTime>
+  <LastSaveTime>2023-09-18T20:10:38.033071+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

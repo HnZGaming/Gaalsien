@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-16"?>
 <ConfigGeneral xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <ModVersion>2.1.20</ModVersion>
+  <ModVersion>2.69.26</ModVersion>
   <SpawnerDebug>false</SpawnerDebug>
   <BehaviorDebug>false</BehaviorDebug>
   <EnableLegacySpaceCargoShipDetection>true</EnableLegacySpaceCargoShipDetection>
@@ -33,12 +33,10 @@
   <NpcGridNameBlacklist>
     <string>BlackList_Grid_Name_Here</string>
     <string>BlackList_Grid_Name_Here</string>
-    <string>(NPC-ATM) WMI Hunchback Dropship</string>
   </NpcGridNameBlacklist>
   <NpcSpawnGroupBlacklist>
     <string>BlackList_SpawnGroup_Here</string>
     <string>BlackList_SpawnGroup_Here</string>
-    <string>AirTraffic-SpawnGroup-WMIHunchbackDropship</string>
   </NpcSpawnGroupBlacklist>
   <UseEconomyBuyingReputationIncrease>true</UseEconomyBuyingReputationIncrease>
   <EconomyBuyingReputationCostAmount>500000</EconomyBuyingReputationCostAmount>
