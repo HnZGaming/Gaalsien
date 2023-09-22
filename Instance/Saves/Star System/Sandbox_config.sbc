@@ -251,11 +251,6 @@
       <PublishedFileId>1843256487</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HnZ Respawn">
-      <Name>2560410003.sbm</Name>
-      <PublishedFileId>2560410003</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
@@ -281,11 +276,6 @@
       <PublishedFileId>500818376</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Peavers">
-      <Name>2776377087.sbm</Name>
-      <PublishedFileId>2776377087</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Local Gps 1.0">
       <Name>2781829620.sbm</Name>
       <PublishedFileId>2781829620</PublishedFileId>
@@ -294,16 +284,6 @@
     <ModItem FriendlyName="HnZ Tiered Tech Blocks">
       <Name>2759474323.sbm</Name>
       <PublishedFileId>2759474323</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Pork Zone">
-      <Name>2759485949.sbm</Name>
-      <PublishedFileId>2759485949</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="MES Custom Boss Spawner">
-      <Name>2783946867.sbm</Name>
-      <PublishedFileId>2783946867</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="HnZ Conveyor Categories">
@@ -316,11 +296,6 @@
       <PublishedFileId>2788240620</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="HnZ Space Pirates Enhanced">
-      <Name>2790359971.sbm</Name>
-      <PublishedFileId>2790359971</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Abandoned Settlements [v2]">
       <Name>2310821218.sbm</Name>
@@ -364,19 +339,19 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="HnZ Parallax Concepts">
-      <Name>2877092557.sbm</Name>
-      <PublishedFileId>2877092557</PublishedFileId>
+    <ModItem FriendlyName="Parallax Concepts (Formerly Surface Occupation)">
+      <Name>1135484957.sbm</Name>
+      <PublishedFileId>1135484957</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HnZ Imber Corporation">
-      <Name>2877092453.sbm</Name>
-      <PublishedFileId>2877092453</PublishedFileId>
+    <ModItem FriendlyName="Imber Corporation (Formerly Air Traffic)">
+      <Name>973526550.sbm</Name>
+      <PublishedFileId>973526550</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HnZ Independent Contractors">
-      <Name>2877092514.sbm</Name>
-      <PublishedFileId>2877092514</PublishedFileId>
+    <ModItem FriendlyName="Independent Contractors (Formerly Reddit Custom Encounters)">
+      <Name>445996030.sbm</Name>
+      <PublishedFileId>445996030</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="The Sun is not yellow">
@@ -399,12 +374,12 @@
       <PublishedFileId>2906098695</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HNZ RTS">
-      <Name>2920687365.sbm</Name>
-      <PublishedFileId>2920687365</PublishedFileId>
+    <ModItem FriendlyName="HnZ Respawn">
+      <Name>2560410003.sbm</Name>
+      <PublishedFileId>2560410003</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2023-09-18T20:10:38.033071+08:00</LastSaveTime>
+  <LastSaveTime>2023-09-22T11:56:43.0274973+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
