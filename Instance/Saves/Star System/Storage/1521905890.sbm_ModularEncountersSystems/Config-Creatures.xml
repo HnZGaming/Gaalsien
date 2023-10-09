@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-16"?>
 <ConfigCreatures xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <ModVersion>2.1.20</ModVersion>
+  <ModVersion>2.69.26</ModVersion>
   <EnableSpawns>true</EnableSpawns>
   <OverrideVanillaCreatureSpawns>false</OverrideVanillaCreatureSpawns>
   <MinCreatureSpawnTime>900</MinCreatureSpawnTime>
@@ -8,8 +8,8 @@
   <MaxPlayerAltitudeForSpawn>150</MaxPlayerAltitudeForSpawn>
   <CoordsAttemptsPerCreature>10</CoordsAttemptsPerCreature>
   <SpawnTypeBlacklist>
-    <string>BotSubtypeIdHere</string>
-    <string>AnotherBotSubtypeId</string>
+    <string>SpawnGroupSubtypeIdHere</string>
+    <string>SpawnGroupSubtypeIdHere</string>
   </SpawnTypeBlacklist>
   <SpawnTypePlanetBlacklist>
     <string>PlanetSubtypeIdHere</string>

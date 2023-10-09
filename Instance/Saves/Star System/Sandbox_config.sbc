@@ -56,11 +56,14 @@
     <EnableRespawnShips>true</EnableRespawnShips>
     <ScenarioEditMode>false</ScenarioEditMode>
     <Scenario>false</Scenario>
+    <UpdateRespawnDictionary>false</UpdateRespawnDictionary>
     <CanJoinRunning>false</CanJoinRunning>
     <PhysicsIterations>8</PhysicsIterations>
     <SunRotationIntervalMinutes>120</SunRotationIntervalMinutes>
     <EnableJetpack>true</EnableJetpack>
     <SpawnWithTools>true</SpawnWithTools>
+    <BlueprintShareTimeout>30</BlueprintShareTimeout>
+    <BlueprintShare>true</BlueprintShare>
     <StartInRespawnScreen>true</StartInRespawnScreen>
     <EnableVoxelDestruction>true</EnableVoxelDestruction>
     <MaxDrones>5</MaxDrones>
@@ -139,6 +142,8 @@
     <EnableFactionVoiceChat>false</EnableFactionVoiceChat>
     <EnableOrca>true</EnableOrca>
     <MaxProductionQueueLength>50</MaxProductionQueueLength>
+    <PrefetchShapeRayLengthLimit>15000</PrefetchShapeRayLengthLimit>
+    <EnemyTargetIndicatorDistance>20</EnemyTargetIndicatorDistance>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Rich HUD Master">
@@ -246,11 +251,6 @@
       <PublishedFileId>1843256487</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HnZ Respawn">
-      <Name>2560410003.sbm</Name>
-      <PublishedFileId>2560410003</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
@@ -261,7 +261,7 @@
       <PublishedFileId>1931509062</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Defense Shields - v2.0(38)">
+    <ModItem FriendlyName="Defense Shields - v2.2(8)">
       <Name>1365616918.sbm</Name>
       <PublishedFileId>1365616918</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -312,11 +312,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="HnZ Space Pirates Enhanced">
-      <Name>2790359971.sbm</Name>
-      <PublishedFileId>2790359971</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Abandoned Settlements [v2]">
       <Name>2310821218.sbm</Name>
       <PublishedFileId>2310821218</PublishedFileId>
@@ -359,19 +354,19 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="HnZ Parallax Concepts">
-      <Name>2877092557.sbm</Name>
-      <PublishedFileId>2877092557</PublishedFileId>
+    <ModItem FriendlyName="Parallax Concepts (Formerly Surface Occupation)">
+      <Name>1135484957.sbm</Name>
+      <PublishedFileId>1135484957</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HnZ Imber Corporation">
-      <Name>2877092453.sbm</Name>
-      <PublishedFileId>2877092453</PublishedFileId>
+    <ModItem FriendlyName="Imber Corporation (Formerly Air Traffic)">
+      <Name>973526550.sbm</Name>
+      <PublishedFileId>973526550</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HnZ Independent Contractors">
-      <Name>2877092514.sbm</Name>
-      <PublishedFileId>2877092514</PublishedFileId>
+    <ModItem FriendlyName="Independent Contractors (Formerly Reddit Custom Encounters)">
+      <Name>445996030.sbm</Name>
+      <PublishedFileId>445996030</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="The Sun is not yellow">
@@ -399,7 +394,12 @@
       <PublishedFileId>2920687365</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="HnZ Respawn">
+      <Name>2560410003.sbm</Name>
+      <PublishedFileId>2560410003</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2023-04-14T09:20:40.4207327+08:00</LastSaveTime>
+  <LastSaveTime>2023-09-27T18:01:18.5937401+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
