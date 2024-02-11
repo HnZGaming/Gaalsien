@@ -144,6 +144,7 @@
     <MaxProductionQueueLength>50</MaxProductionQueueLength>
     <PrefetchShapeRayLengthLimit>15000</PrefetchShapeRayLengthLimit>
     <EnemyTargetIndicatorDistance>20</EnemyTargetIndicatorDistance>
+    <EnableTrashSettingsPlatformOverride>true</EnableTrashSettingsPlatformOverride>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Rich HUD Master">
@@ -191,7 +192,7 @@
       <PublishedFileId>2611224052</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Nanobot Build and Repair System (Fixed SafeZone, Shields, Reputations, Power Consumption, Build Resources)">
+    <ModItem FriendlyName="Nanobot Build and Repair System (Maintained)">
       <Name>2111073562.sbm</Name>
       <PublishedFileId>2111073562</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -252,8 +253,8 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
-      <Name>1918681825.sbm</Name>
-      <PublishedFileId>1918681825</PublishedFileId>
+      <Name>3154371364.sbm</Name>
+      <PublishedFileId>3154371364</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WeaponCore - Replace Vanilla Weapons">
@@ -261,9 +262,9 @@
       <PublishedFileId>1931509062</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Defense Shields - v2.2(8)">
-      <Name>1365616918.sbm</Name>
-      <PublishedFileId>1365616918</PublishedFileId>
+    <ModItem FriendlyName="Defense Shields">
+      <Name>3154379105.sbm</Name>
+      <PublishedFileId>3154379105</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="NPC Defense Shields Provider">
@@ -354,7 +355,7 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="Parallax Concepts (Formerly Surface Occupation)">
+    <ModItem FriendlyName="Parallax Concepts">
       <Name>1135484957.sbm</Name>
       <PublishedFileId>1135484957</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -364,7 +365,7 @@
       <PublishedFileId>973526550</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Independent Contractors (Formerly Reddit Custom Encounters)">
+    <ModItem FriendlyName="Independent Contractors">
       <Name>445996030.sbm</Name>
       <PublishedFileId>445996030</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -401,5 +402,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2023-09-27T18:01:18.5937401+08:00</LastSaveTime>
+  <LastSaveTime>2024-02-11T12:37:07.1402688+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
