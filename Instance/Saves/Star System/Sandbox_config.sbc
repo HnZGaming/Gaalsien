@@ -380,9 +380,9 @@
       <PublishedFileId>2539299261</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Water (Debugging)">
-      <Name>2906004320.sbm</Name>
-      <PublishedFileId>2906004320</PublishedFileId>
+    <ModItem FriendlyName="Water Mod">
+      <Name>2200451495.sbm</Name>
+      <PublishedFileId>2200451495</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Alkurah">
