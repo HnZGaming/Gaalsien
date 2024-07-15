@@ -262,14 +262,9 @@
       <PublishedFileId>1931509062</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Defense Shields">
+    <ModItem FriendlyName="Defense Shields - v2.2(8)">
       <Name>3154379105.sbm</Name>
       <PublishedFileId>3154379105</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="NPC Defense Shields Provider">
-      <Name>2043339470.sbm</Name>
-      <PublishedFileId>2043339470</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
