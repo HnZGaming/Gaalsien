@@ -350,19 +350,9 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="Parallax Concepts">
-      <Name>1135484957.sbm</Name>
-      <PublishedFileId>1135484957</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Imber Corporation (Formerly Air Traffic)">
-      <Name>973526550.sbm</Name>
-      <PublishedFileId>973526550</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Independent Contractors">
-      <Name>445996030.sbm</Name>
-      <PublishedFileId>445996030</PublishedFileId>
+    <ModItem FriendlyName="Assertive Combat Systems">
+      <Name>1902970975.sbm</Name>
+      <PublishedFileId>1902970975</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="The Sun is not yellow">
