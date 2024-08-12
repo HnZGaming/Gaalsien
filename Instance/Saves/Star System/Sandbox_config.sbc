@@ -109,12 +109,14 @@
     <DepositsCountCoefficient>2</DepositsCountCoefficient>
     <DepositSizeDenominator>60</DepositSizeDenominator>
     <WeatherSystem>true</WeatherSystem>
+    <WeatherLightingDamage>false</WeatherLightingDamage>
     <HarvestRatioMultiplier>1</HarvestRatioMultiplier>
     <TradeFactionsCount>5</TradeFactionsCount>
     <StationsDistanceInnerRadius>1000000</StationsDistanceInnerRadius>
     <StationsDistanceOuterRadiusStart>5000000</StationsDistanceOuterRadiusStart>
     <StationsDistanceOuterRadiusEnd>10000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
+    <NPCGridClaimTimeLimit>120</NPCGridClaimTimeLimit>
     <SimplifiedSimulation>false</SimplifiedSimulation>
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
@@ -145,6 +147,12 @@
     <PrefetchShapeRayLengthLimit>15000</PrefetchShapeRayLengthLimit>
     <EnemyTargetIndicatorDistance>20</EnemyTargetIndicatorDistance>
     <EnableTrashSettingsPlatformOverride>true</EnableTrashSettingsPlatformOverride>
+    <MinimumWorldSize>0</MinimumWorldSize>
+    <MaxCargoBags>100</MaxCargoBags>
+    <TrashCleanerCargoBagsMaxLiveTime>30</TrashCleanerCargoBagsMaxLiveTime>
+    <ScrapEnabled>true</ScrapEnabled>
+    <BroadcastControllerMaxOfflineTransmitDistance>200</BroadcastControllerMaxOfflineTransmitDistance>
+    <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Rich HUD Master">
@@ -237,7 +245,7 @@
       <PublishedFileId>806331071</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="BuildInfo (extra block+terminal info, air leak finder)">
+    <ModItem FriendlyName="Build Info">
       <Name>514062285.sbm</Name>
       <PublishedFileId>514062285</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -385,7 +393,31 @@
       <PublishedFileId>2560410003</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Assertive Combat Systems Dependency">
+      <Name>3155707452.sbm</Name>
+      <PublishedFileId>3155707452</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Shower Light">
+      <Name>2841920953.sbm</Name>
+      <PublishedFileId>2841920953</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="In Depth LCDs">
+      <Name>2839553181.sbm</Name>
+      <PublishedFileId>2839553181</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Assertive Loot">
+      <Name>2391318591.sbm</Name>
+      <PublishedFileId>2391318591</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2024-02-11T12:37:07.1402688+08:00</LastSaveTime>
+  <LastSaveTime>2024-08-12T19:30:33.6895035+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
