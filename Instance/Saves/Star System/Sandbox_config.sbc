@@ -421,7 +421,16 @@
       <Name>3170315974.sbm</Name>
       <PublishedFileId>3170315974</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>false</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="HnZ Imber Corporation">
+      <Name>2877092453.sbm</Name>
+      <PublishedFileId>2877092453</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="HnZ Independent Contractors">
+      <Name>2877092514.sbm</Name>
+      <PublishedFileId>2877092514</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
