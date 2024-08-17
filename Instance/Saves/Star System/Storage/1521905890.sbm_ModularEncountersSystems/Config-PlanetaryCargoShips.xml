@@ -106,6 +106,54 @@
         <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Luma</PlanetName>
+      <PlanetId>8164448620785750871</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Europa</PlanetName>
+      <PlanetId>-6999989728267602142</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Trelan</PlanetName>
+      <PlanetId>7089765803457820596</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Tohil</PlanetName>
+      <PlanetId>-639029875096860628</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Satreus</PlanetName>
+      <PlanetId>6777700179421418512</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Teal-WaterMod</PlanetName>
+      <PlanetId>-5872526677862309606</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
   </PlanetSpawnFilters>
   <UseTypeDisownTimer>true</UseTypeDisownTimer>
   <TypeDisownTimer>1800</TypeDisownTimer>
@@ -125,7 +173,7 @@
   <CleanupBlockLimitTrigger>0</CleanupBlockLimitTrigger>
   <CleanupIncludeUnowned>true</CleanupIncludeUnowned>
   <CleanupUnpoweredOverride>true</CleanupUnpoweredOverride>
-  <CleanupUnpoweredDistanceTrigger>5000</CleanupUnpoweredDistanceTrigger>
+  <CleanupUnpoweredDistanceTrigger>10000</CleanupUnpoweredDistanceTrigger>
   <CleanupUnpoweredTimerTrigger>300</CleanupUnpoweredTimerTrigger>
   <UseBlockDisable>false</UseBlockDisable>
   <DisableBlocksByType>
@@ -156,7 +204,7 @@
   <MaxPathDistance>10000</MaxPathDistance>
   <PathStepCheckDistance>100</PathStepCheckDistance>
   <DespawnDistanceFromEndPath>750</DespawnDistanceFromEndPath>
-  <DespawnDistanceFromPlayer>1000</DespawnDistanceFromPlayer>
+  <DespawnDistanceFromPlayer>10000</DespawnDistanceFromPlayer>
   <DespawnAltitude>5000</DespawnAltitude>
   <UseMinimumSpeed>false</UseMinimumSpeed>
   <MinimumSpeed>10</MinimumSpeed>
