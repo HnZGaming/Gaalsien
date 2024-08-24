@@ -432,6 +432,11 @@
       <PublishedFileId>2877092514</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="HnZ Parallax Concepts">
+      <Name>2877092557.sbm</Name>
+      <PublishedFileId>2877092557</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2024-08-12T19:30:33.6895035+08:00</LastSaveTime>
