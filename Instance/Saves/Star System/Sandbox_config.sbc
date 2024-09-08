@@ -437,7 +437,12 @@
       <PublishedFileId>2877092557</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Electric Network Info - Touch App">
+      <Name>2917216762.sbm</Name>
+      <PublishedFileId>2917216762</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2024-08-12T19:30:33.6895035+08:00</LastSaveTime>
+  <LastSaveTime>2024-09-08T14:35:32.1004468+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
