@@ -6,4 +6,5 @@
   <IsLobby>false</IsLobby>
   <GameName>Star System</GameName>
   <ServerPort>0</ServerPort>
+  <RelativePath>Star System</RelativePath>
 </MyObjectBuilder_LastSession>

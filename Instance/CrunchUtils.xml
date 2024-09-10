@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ConfigFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <EconName>CrunchEcon</EconName>
-  <PlayerAlertEnabled>false</PlayerAlertEnabled>
-  <SecondsBetweenPlayerAlert>10</SecondsBetweenPlayerAlert>
   <ShipSaleCommands>false</ShipSaleCommands>
   <ShowFactionTagsOnDamageGrid>false</ShowFactionTagsOnDamageGrid>
   <LogFactionStuff>true</LogFactionStuff>
@@ -12,7 +10,6 @@
   <EcoChatMessages>false</EcoChatMessages>
   <ScrapMetalPatch>true</ScrapMetalPatch>
   <ScrapMetalPatchNeverSpawn>false</ScrapMetalPatchNeverSpawn>
-  <projectorOwnershipPatch>false</projectorOwnershipPatch>
   <FixTradeStation>false</FixTradeStation>
   <PlayerMakeShip>true</PlayerMakeShip>
   <PlayerFixMe>true</PlayerFixMe>
@@ -29,9 +26,12 @@
   <Claim>false</Claim>
   <ClaimOnlyForLeaders>true</ClaimOnlyForLeaders>
   <ClaimOnlyFactionGrids>false</ClaimOnlyFactionGrids>
+  <ClaimFactionGridsOnlyLeaders>false</ClaimFactionGridsOnlyLeaders>
   <ClaimPercent>70</ClaimPercent>
   <FactionsNeutralOnCreation>false</FactionsNeutralOnCreation>
   <ExcludedFactionTags>SPRT,EXAMPLE1,EXAMPLE2</ExcludedFactionTags>
+  <DisableChatEveryoneBlock>false</DisableChatEveryoneBlock>
+  <SendFactionBroadcastsToFactionChat>false</SendFactionBroadcastsToFactionChat>
   <CooldownInSeconds>30</CooldownInSeconds>
   <RespawnCooldownInSeconds>1200</RespawnCooldownInSeconds>
 </ConfigFile>
