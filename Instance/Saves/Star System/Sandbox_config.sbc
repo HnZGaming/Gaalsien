@@ -358,11 +358,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="Assertive Combat Systems">
-      <Name>1902970975.sbm</Name>
-      <PublishedFileId>1902970975</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="The Sun is not yellow">
       <Name>2722299710.sbm</Name>
       <PublishedFileId>2722299710</PublishedFileId>
@@ -392,30 +387,6 @@
       <Name>2560410003.sbm</Name>
       <PublishedFileId>2560410003</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Assertive Combat Systems Dependency">
-      <Name>3155707452.sbm</Name>
-      <PublishedFileId>3155707452</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Shower Light">
-      <Name>2841920953.sbm</Name>
-      <PublishedFileId>2841920953</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="In Depth LCDs">
-      <Name>2839553181.sbm</Name>
-      <PublishedFileId>2839553181</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Assertive Loot">
-      <Name>2391318591.sbm</Name>
-      <PublishedFileId>2391318591</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
     <ModItem FriendlyName="Leak Finder">
       <Name>3170315974.sbm</Name>
