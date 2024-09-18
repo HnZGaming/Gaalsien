@@ -88,7 +88,7 @@
     <RemoveOldIdentitiesH>0</RemoveOldIdentitiesH>
     <TrashRemovalEnabled>false</TrashRemovalEnabled>
     <StopGridsPeriodMin>15</StopGridsPeriodMin>
-    <TrashFlagsValue>7706</TrashFlagsValue>
+    <TrashFlagsValue>7680</TrashFlagsValue>
     <AFKTimeountMin>0</AFKTimeountMin>
     <BlockCountThreshold>20</BlockCountThreshold>
     <PlayerDistanceThreshold>500</PlayerDistanceThreshold>
@@ -260,7 +260,7 @@
       <PublishedFileId>1843256487</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.4">
+    <ModItem FriendlyName="WeaponCore - 2.5">
       <Name>3154371364.sbm</Name>
       <PublishedFileId>3154371364</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -340,11 +340,6 @@
     <ModItem FriendlyName="Easy Block Renaming">
       <Name>2077166496.sbm</Name>
       <PublishedFileId>2077166496</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Pravda Heavy Industries">
-      <Name>2852753555.sbm</Name>
-      <PublishedFileId>2852753555</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="[QoL] Radio Spectrometry">

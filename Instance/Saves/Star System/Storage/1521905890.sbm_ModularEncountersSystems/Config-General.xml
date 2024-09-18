@@ -6,12 +6,12 @@
   <EnableLegacySpaceCargoShipDetection>true</EnableLegacySpaceCargoShipDetection>
   <UseModIdSelectionForSpawning>true</UseModIdSelectionForSpawning>
   <UseWeightedModIdSelection>true</UseWeightedModIdSelection>
-  <LowWeightModIdSpawnGroups>10</LowWeightModIdSpawnGroups>
-  <LowWeightModIdModifier>1</LowWeightModIdModifier>
-  <MediumWeightModIdSpawnGroups>19</MediumWeightModIdSpawnGroups>
-  <MediumWeightModIdModifier>2</MediumWeightModIdModifier>
-  <HighWeightModIdSpawnGroups>20</HighWeightModIdSpawnGroups>
-  <HighWeightModIdModifier>3</HighWeightModIdModifier>
+  <LowWeightModIdSpawnGroups>20</LowWeightModIdSpawnGroups>
+  <LowWeightModIdModifier>10</LowWeightModIdModifier>
+  <MediumWeightModIdSpawnGroups>50</MediumWeightModIdSpawnGroups>
+  <MediumWeightModIdModifier>10</MediumWeightModIdModifier>
+  <HighWeightModIdSpawnGroups>50</HighWeightModIdSpawnGroups>
+  <HighWeightModIdModifier>1</HighWeightModIdModifier>
   <UseMaxNpcGrids>false</UseMaxNpcGrids>
   <UseGlobalEventsTimers>false</UseGlobalEventsTimers>
   <IgnorePlanetWhitelists>false</IgnorePlanetWhitelists>
