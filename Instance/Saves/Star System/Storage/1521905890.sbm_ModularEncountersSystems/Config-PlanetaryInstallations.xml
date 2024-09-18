@@ -131,11 +131,11 @@
   <UseCleanupSettings>true</UseCleanupSettings>
   <OnlyCleanNpcsFromMes>true</OnlyCleanNpcsFromMes>
   <CleanupUseDistance>true</CleanupUseDistance>
-  <CleanupUseTimer>true</CleanupUseTimer>
+  <CleanupUseTimer>false</CleanupUseTimer>
   <CleanupUseBlockLimit>false</CleanupUseBlockLimit>
   <CleanupDistanceStartsTimer>true</CleanupDistanceStartsTimer>
   <CleanupResetTimerWithinDistance>true</CleanupResetTimerWithinDistance>
-  <CleanupDistanceTrigger>15000</CleanupDistanceTrigger>
+  <CleanupDistanceTrigger>10000</CleanupDistanceTrigger>
   <CleanupTimerTrigger>900</CleanupTimerTrigger>
   <CleanupBlockLimitTrigger>0</CleanupBlockLimitTrigger>
   <CleanupIncludeUnowned>true</CleanupIncludeUnowned>

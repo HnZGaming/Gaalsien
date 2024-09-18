@@ -164,16 +164,16 @@
   <UseCleanupSettings>true</UseCleanupSettings>
   <OnlyCleanNpcsFromMes>true</OnlyCleanNpcsFromMes>
   <CleanupUseDistance>true</CleanupUseDistance>
-  <CleanupUseTimer>true</CleanupUseTimer>
+  <CleanupUseTimer>false</CleanupUseTimer>
   <CleanupUseBlockLimit>false</CleanupUseBlockLimit>
   <CleanupDistanceStartsTimer>true</CleanupDistanceStartsTimer>
   <CleanupResetTimerWithinDistance>true</CleanupResetTimerWithinDistance>
-  <CleanupDistanceTrigger>15000</CleanupDistanceTrigger>
+  <CleanupDistanceTrigger>10000</CleanupDistanceTrigger>
   <CleanupTimerTrigger>900</CleanupTimerTrigger>
   <CleanupBlockLimitTrigger>0</CleanupBlockLimitTrigger>
   <CleanupIncludeUnowned>true</CleanupIncludeUnowned>
   <CleanupUnpoweredOverride>true</CleanupUnpoweredOverride>
-  <CleanupUnpoweredDistanceTrigger>10000</CleanupUnpoweredDistanceTrigger>
+  <CleanupUnpoweredDistanceTrigger>11000</CleanupUnpoweredDistanceTrigger>
   <CleanupUnpoweredTimerTrigger>300</CleanupUnpoweredTimerTrigger>
   <UseBlockDisable>false</UseBlockDisable>
   <DisableBlocksByType>

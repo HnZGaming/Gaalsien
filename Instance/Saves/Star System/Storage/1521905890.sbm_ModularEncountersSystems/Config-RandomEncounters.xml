@@ -171,7 +171,7 @@
   <UseCleanupSettings>true</UseCleanupSettings>
   <OnlyCleanNpcsFromMes>true</OnlyCleanNpcsFromMes>
   <CleanupUseDistance>true</CleanupUseDistance>
-  <CleanupUseTimer>true</CleanupUseTimer>
+  <CleanupUseTimer>false</CleanupUseTimer>
   <CleanupUseBlockLimit>false</CleanupUseBlockLimit>
   <CleanupDistanceStartsTimer>true</CleanupDistanceStartsTimer>
   <CleanupResetTimerWithinDistance>false</CleanupResetTimerWithinDistance>
