@@ -354,11 +354,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="Trade Operators Coalition">
-      <Name>2966429095.sbm</Name>
-      <PublishedFileId>2966429095</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="HnZ Grid Garage">
       <Name>3329806962.sbm</Name>
       <PublishedFileId>3329806962</PublishedFileId>
@@ -391,5 +386,5 @@
     </ModItem>
   </Mods>
   <SessionName>Creative</SessionName>
-  <LastSaveTime>2024-09-12T00:38:47.1927259+08:00</LastSaveTime>
+  <LastSaveTime>2024-09-21T17:19:22.9768289+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
