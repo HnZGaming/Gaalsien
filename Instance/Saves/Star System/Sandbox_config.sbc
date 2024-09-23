@@ -424,6 +424,11 @@
       <PublishedFileId>3329806962</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Ai Range 5.5 km">
+      <Name>3022701830.sbm</Name>
+      <PublishedFileId>3022701830</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2024-09-08T14:35:32.1004468+08:00</LastSaveTime>
