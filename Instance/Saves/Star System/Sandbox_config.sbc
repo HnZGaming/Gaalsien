@@ -444,6 +444,11 @@
       <PublishedFileId>2308085590</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="HnZ Stone Incinerator">
+      <Name>3339166767.sbm</Name>
+      <PublishedFileId>3339166767</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2024-09-08T14:35:32.1004468+08:00</LastSaveTime>
