@@ -449,6 +449,16 @@
       <PublishedFileId>3339166767</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="MahInd - Info LCDs (No Pb)">
+      <Name>3267099357.sbm</Name>
+      <PublishedFileId>3267099357</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Previously Owned Economy Ships">
+      <Name>3317449166.sbm</Name>
+      <PublishedFileId>3317449166</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2024-09-08T14:35:32.1004468+08:00</LastSaveTime>
