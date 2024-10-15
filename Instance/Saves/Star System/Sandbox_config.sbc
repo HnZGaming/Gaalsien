@@ -16,6 +16,7 @@
     <MaxBlocksPerPlayer>20000</MaxBlocksPerPlayer>
     <TotalPCU>6750000</TotalPCU>
     <PiratePCU>500000</PiratePCU>
+    <GlobalEncounterPCU>25000</GlobalEncounterPCU>
     <MaxFactionsCount>0</MaxFactionsCount>
     <BlockLimitsEnabled>PER_PLAYER</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>false</EnableRemoteBlockRemoval>
@@ -153,6 +154,24 @@
     <ScrapEnabled>true</ScrapEnabled>
     <BroadcastControllerMaxOfflineTransmitDistance>200</BroadcastControllerMaxOfflineTransmitDistance>
     <TemporaryContainers>true</TemporaryContainers>
+    <GlobalEncounterTimer>15</GlobalEncounterTimer>
+    <GlobalEncounterCap>1</GlobalEncounterCap>
+    <GlobalEncounterEnableRemovalTimer>true</GlobalEncounterEnableRemovalTimer>
+    <GlobalEncounterMinRemovalTimer>90</GlobalEncounterMinRemovalTimer>
+    <GlobalEncounterMaxRemovalTimer>180</GlobalEncounterMaxRemovalTimer>
+    <GlobalEncounterRemovalTimeClock>30</GlobalEncounterRemovalTimeClock>
+    <EncounterDensity>0.35</EncounterDensity>
+    <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
+    <EnablePlanetaryEncounters>true</EnablePlanetaryEncounters>
+    <PlanetaryEncounterTimerMin>15</PlanetaryEncounterTimerMin>
+    <PlanetaryEncounterTimerMax>30</PlanetaryEncounterTimerMax>
+    <PlanetaryEncounterExistingStructuresRange>7000</PlanetaryEncounterExistingStructuresRange>
+    <PlanetaryEncounterAreaLockdownRange>10000</PlanetaryEncounterAreaLockdownRange>
+    <PlanetaryEncounterDesiredSpawnRange>6000</PlanetaryEncounterDesiredSpawnRange>
+    <PlanetaryEncounterPresenceRange>20000</PlanetaryEncounterPresenceRange>
+    <PlanetaryEncounterDespawnTimeout>120</PlanetaryEncounterDespawnTimeout>
+    <LimitBlocksBy>BlockPairName</LimitBlocksBy>
+    <MaxHudChatMessageCount>100</MaxHudChatMessageCount>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Rich HUD Master">
@@ -461,5 +480,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2024-09-08T14:35:32.1004468+08:00</LastSaveTime>
+  <LastSaveTime>2024-10-15T11:02:56.1825653+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
