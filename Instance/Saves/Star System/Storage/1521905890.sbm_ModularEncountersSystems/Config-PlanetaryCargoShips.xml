@@ -155,16 +155,16 @@
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
   </PlanetSpawnFilters>
-  <UseTypeDisownTimer>true</UseTypeDisownTimer>
+  <UseTypeDisownTimer>false</UseTypeDisownTimer>
   <TypeDisownTimer>1800</TypeDisownTimer>
   <UseTimeout>false</UseTimeout>
   <TimeoutRadius>10000</TimeoutRadius>
   <TimeoutSpawnLimit>9999</TimeoutSpawnLimit>
   <TimeoutDuration>900</TimeoutDuration>
   <UseCleanupSettings>true</UseCleanupSettings>
-  <OnlyCleanNpcsFromMes>true</OnlyCleanNpcsFromMes>
+  <OnlyCleanNpcsFromMes>false</OnlyCleanNpcsFromMes>
   <CleanupUseDistance>true</CleanupUseDistance>
-  <CleanupUseTimer>false</CleanupUseTimer>
+  <CleanupUseTimer>true</CleanupUseTimer>
   <CleanupUseBlockLimit>false</CleanupUseBlockLimit>
   <CleanupDistanceStartsTimer>true</CleanupDistanceStartsTimer>
   <CleanupResetTimerWithinDistance>true</CleanupResetTimerWithinDistance>
@@ -173,7 +173,7 @@
   <CleanupBlockLimitTrigger>0</CleanupBlockLimitTrigger>
   <CleanupIncludeUnowned>true</CleanupIncludeUnowned>
   <CleanupUnpoweredOverride>true</CleanupUnpoweredOverride>
-  <CleanupUnpoweredDistanceTrigger>11000</CleanupUnpoweredDistanceTrigger>
+  <CleanupUnpoweredDistanceTrigger>5000</CleanupUnpoweredDistanceTrigger>
   <CleanupUnpoweredTimerTrigger>300</CleanupUnpoweredTimerTrigger>
   <UseBlockDisable>false</UseBlockDisable>
   <DisableBlocksByType>

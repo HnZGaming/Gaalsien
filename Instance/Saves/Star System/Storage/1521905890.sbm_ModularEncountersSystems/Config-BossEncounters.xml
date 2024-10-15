@@ -161,6 +161,62 @@
         <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Luma</PlanetName>
+      <PlanetId>9020587477708727936</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Qun</PlanetName>
+      <PlanetId>-9155055781603203325</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Tohil</PlanetName>
+      <PlanetId>1180061541702625601</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Trelan</PlanetName>
+      <PlanetId>9187441509376815985</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Kimi</PlanetName>
+      <PlanetId>-7731480720117485443</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Teal-WaterMod</PlanetName>
+      <PlanetId>7057300784810508368</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Satreus</PlanetName>
+      <PlanetId>481937097980968511</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
   </PlanetSpawnFilters>
   <UseTypeDisownTimer>false</UseTypeDisownTimer>
   <TypeDisownTimer>0</TypeDisownTimer>

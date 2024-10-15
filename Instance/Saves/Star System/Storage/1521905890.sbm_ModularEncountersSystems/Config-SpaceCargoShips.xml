@@ -161,27 +161,83 @@
         <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Luma</PlanetName>
+      <PlanetId>9020587477708727936</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Qun</PlanetName>
+      <PlanetId>-9155055781603203325</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Tohil</PlanetName>
+      <PlanetId>1180061541702625601</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Trelan</PlanetName>
+      <PlanetId>9187441509376815985</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Kimi</PlanetName>
+      <PlanetId>-7731480720117485443</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Teal-WaterMod</PlanetName>
+      <PlanetId>7057300784810508368</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Satreus</PlanetName>
+      <PlanetId>481937097980968511</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
   </PlanetSpawnFilters>
-  <UseTypeDisownTimer>true</UseTypeDisownTimer>
+  <UseTypeDisownTimer>false</UseTypeDisownTimer>
   <TypeDisownTimer>1800</TypeDisownTimer>
-  <UseTimeout>true</UseTimeout>
+  <UseTimeout>false</UseTimeout>
   <TimeoutRadius>10000</TimeoutRadius>
   <TimeoutSpawnLimit>4</TimeoutSpawnLimit>
   <TimeoutDuration>900</TimeoutDuration>
   <UseCleanupSettings>true</UseCleanupSettings>
-  <OnlyCleanNpcsFromMes>true</OnlyCleanNpcsFromMes>
+  <OnlyCleanNpcsFromMes>false</OnlyCleanNpcsFromMes>
   <CleanupUseDistance>true</CleanupUseDistance>
-  <CleanupUseTimer>false</CleanupUseTimer>
+  <CleanupUseTimer>true</CleanupUseTimer>
   <CleanupUseBlockLimit>false</CleanupUseBlockLimit>
-  <CleanupDistanceStartsTimer>false</CleanupDistanceStartsTimer>
-  <CleanupResetTimerWithinDistance>false</CleanupResetTimerWithinDistance>
+  <CleanupDistanceStartsTimer>true</CleanupDistanceStartsTimer>
+  <CleanupResetTimerWithinDistance>true</CleanupResetTimerWithinDistance>
   <CleanupDistanceTrigger>10000</CleanupDistanceTrigger>
-  <CleanupTimerTrigger>1800</CleanupTimerTrigger>
+  <CleanupTimerTrigger>600</CleanupTimerTrigger>
   <CleanupBlockLimitTrigger>0</CleanupBlockLimitTrigger>
   <CleanupIncludeUnowned>true</CleanupIncludeUnowned>
   <CleanupUnpoweredOverride>true</CleanupUnpoweredOverride>
-  <CleanupUnpoweredDistanceTrigger>20000</CleanupUnpoweredDistanceTrigger>
-  <CleanupUnpoweredTimerTrigger>900</CleanupUnpoweredTimerTrigger>
+  <CleanupUnpoweredDistanceTrigger>5000</CleanupUnpoweredDistanceTrigger>
+  <CleanupUnpoweredTimerTrigger>300</CleanupUnpoweredTimerTrigger>
   <UseBlockDisable>false</UseBlockDisable>
   <DisableBlocksByType>
     <string>ObjectBuilderTypeHere</string>
