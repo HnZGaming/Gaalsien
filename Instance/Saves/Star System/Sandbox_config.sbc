@@ -382,17 +382,12 @@
       <PublishedFileId>2539299261</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Water Mod">
-      <Name>2200451495.sbm</Name>
-      <PublishedFileId>2200451495</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Alkurah">
       <Name>2906098695.sbm</Name>
       <PublishedFileId>2906098695</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HNZ RTS">
+    <ModItem FriendlyName="HNZ Relative Top Speed">
       <Name>2920687365.sbm</Name>
       <PublishedFileId>2920687365</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -432,11 +427,6 @@
       <PublishedFileId>2668820525</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="HnZ Trade Operators Coalition">
-      <Name>3341212194.sbm</Name>
-      <PublishedFileId>3341212194</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="HnZ Grid Garage">
       <Name>3329806962.sbm</Name>
@@ -478,7 +468,18 @@
       <PublishedFileId>3317449166</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Huge Armor Blocks">
+      <Name>2764158540.sbm</Name>
+      <PublishedFileId>2764158540</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Light Booster x10">
+      <Name>2819683565.sbm</Name>
+      <PublishedFileId>2819683565</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2024-10-15T11:02:56.1825653+08:00</LastSaveTime>
+  <LastSaveTime>2024-10-16T09:05:23.3335914+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
