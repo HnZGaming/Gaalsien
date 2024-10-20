@@ -486,6 +486,12 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem FriendlyName="Armored Hangar Doors (+Small Grid)">
+      <Name>2230891848.sbm</Name>
+      <PublishedFileId>2230891848</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2024-10-16T09:05:23.3335914+08:00</LastSaveTime>
