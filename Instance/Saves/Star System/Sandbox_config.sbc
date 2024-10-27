@@ -209,11 +209,6 @@
       <PublishedFileId>1124114101</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="UOH | Airtight Hangar Door v1.2">
-      <Name>950048016.sbm</Name>
-      <PublishedFileId>950048016</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Underground Police">
       <Name>2611224052.sbm</Name>
       <PublishedFileId>2611224052</PublishedFileId>
