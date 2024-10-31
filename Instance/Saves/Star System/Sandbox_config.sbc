@@ -249,6 +249,11 @@
       <PublishedFileId>1507368483</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Colorful Icons">
+      <Name>801185519.sbm</Name>
+      <PublishedFileId>801185519</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Camera Panning - rotate camera view (+reset 1st person character view)">
       <Name>806331071.sbm</Name>
       <PublishedFileId>806331071</PublishedFileId>
@@ -487,7 +492,13 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem FriendlyName="Ship Sale">
+      <Name>3355403868.sbm</Name>
+      <PublishedFileId>3355403868</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2024-10-16T09:05:23.3335914+08:00</LastSaveTime>
+  <LastSaveTime>2024-10-31T20:26:44.0526682+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
