@@ -3,7 +3,9 @@
 
 $startCount = 0
 $crashCount = 0
-$arguments = "Lobby"
+
+[xml]$torchCfg = Get-Content -Path (Join-Path -Path "$PSScriptRoot" -ChildPath "Torch.cfg")
+$arguments = $torchCfg.SelectSingleNode("TorchConfig/InstanceName").InnerText
 while ($true)
 {
     $startCount++

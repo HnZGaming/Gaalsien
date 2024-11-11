@@ -5,7 +5,6 @@
         "_CommonRedist": true,
         "appcache": true,
         "config": true,
-        "Content": true,
         "DedicatedServer64": true,
         "depotcache": true,
         "steamapps": true,
@@ -28,6 +27,7 @@
         "Instance/**/*.sbsB5": true,
         "Instance/**/*.jpg": true,
         "Instance/**/*.vx2": true,
+        "Instance/**/*.scf": true,
     },
     "files.associations": {
         "*.cfg": "xml",
