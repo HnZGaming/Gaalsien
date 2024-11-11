@@ -41,12 +41,7 @@ Under `Content/CustomWorlds`, find the world that you want to start with; let's 
 . ./Scripts/CopyWorld.ps1 "Star System"
 ```
 
-`Star System` is now copied over to the instance folder.
-
-```powershell
-# Change the world name to whatever you want
-. ./Scripts/RenameWorld.ps1 "Foo"
-```
+`Star System` is now copied to the instance folder.
 
 **TODO: Support multiple world saves.**
 
@@ -70,7 +65,7 @@ Open the terminal on VSCode.
 ```powershell
 # Renames the world to "Foo"
 # TODO Support multiple world saves
-. ./Scripts/RenameWorld.ps1 "Foo"
+. ./Scripts/RenameWorld.ps1 Foo
 ```
 
 ```powershell
