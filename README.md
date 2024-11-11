@@ -72,3 +72,8 @@ Open the terminal on VSCode.
 # TODO Support multiple world saves
 . ./Scripts/RenameWorld.ps1 "Foo"
 ```
+
+```powershell
+# Fix absolute path of the installation
+. ./Scripts/FixPath.ps1
+```
