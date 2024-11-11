@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "PowerShell",
+        "request": "launch",
+        "name": "Start Torch with auto restart",
+        "script": "./Server_autorestart.ps1",
+        "args": [],
+        "cwd": "${workspaceFolder}"
+      }
+    ]
+  }
