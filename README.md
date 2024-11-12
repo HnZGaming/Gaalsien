@@ -1,10 +1,10 @@
 # TorchServer
 
-Standard Torch server setup.
+Standard Torch server setup with VSCode to:
+- Better navigate the mess of folders and files
+- Develop and share scripts useful for installation and daily tasks
 
 ## Installing VSCode
-
-This project uses VSCode to better navigate the mess of folders.
 
 ```powershell
 winget install --id Microsoft.VisualStudioCode -e -h --accept-package-agreements
@@ -20,13 +20,13 @@ code .
 
 ## Installing Torch
 
-Open the terminal in VSCode.
+For the following scripts, use the VSCode terminal by `` Ctrl + Shift + ` `` or from the tab menu `Terminal > New Terminal`.
 
 ```powershell
 . './Scripts/DownloadTorch.ps1'
 ```
 
-Press `F5` to launch Torch and start downloading the SE dedi server. This may take some minutes. 
+Press `F5` to launch Torch. Launcher will download the SE dedi server files. This may take some minutes. 
 
 Upon GUI startup, you'll see a warning in the log view:
 > 03:36:14.1209 [WARN]   InstanceManager: No worlds found in the current instance C:\torch-server\Instance.
