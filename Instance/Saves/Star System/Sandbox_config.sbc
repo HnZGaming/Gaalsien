@@ -497,6 +497,11 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem FriendlyName="NexusSyncMod">
+      <Name>2272613450.sbm</Name>
+      <PublishedFileId>2272613450</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2024-11-17T12:55:39.0221117+08:00</LastSaveTime>
