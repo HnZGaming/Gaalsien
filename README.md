@@ -2,9 +2,15 @@
 
 Standard Torch server setup with VSCode to:
 - Better navigate the mess of folders and files
-- Develop and share scripts useful for installation and daily tasks
+- Develop and share scripts for daily admin work
 
 ## Installing VSCode
+
+Open powershell in adminstrator mode & type the following commands:
+
+```powershell
+set-executionpolicy remotesigned
+```
 
 ```powershell
 winget install --id Microsoft.VisualStudioCode -e -h --accept-package-agreements
