@@ -8,7 +8,6 @@
 *.vx2
 *.sbs
 *.sbsB5
-*.json
 *.jpg
 *.acf
 *.csv
@@ -40,6 +39,7 @@ Instance/GridBackups
 Instance/Saves/**/Backup
 
 Instance/**/*.txt
+Instance/**/*.json
 Instance/FoogsRewards.cfg
 Instance/SEDiscordBridge.cfg
 Instance/TorchAlertPlugin.cfg
@@ -52,5 +52,6 @@ Instance/PerformanceImprovements/Cache
 lib
 app.config
 Instance/Saves/Star System/Storage/3329806962.sbm_gridstorage/log.*
+Instance/Saves/ViewedContent.sbl
 *.il
 *.mes
