@@ -52,3 +52,5 @@ Instance/PerformanceImprovements/Cache
 lib
 app.config
 Instance/Saves/Star System/Storage/3329806962.sbm_gridstorage/log.*
+*.il
+*.mes

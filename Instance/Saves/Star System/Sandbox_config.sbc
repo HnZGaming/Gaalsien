@@ -479,12 +479,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="Cooperative NPC Takeover">
-      <Name>2968719733.sbm</Name>
-      <PublishedFileId>2968719733</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
     <ModItem FriendlyName="Advanced Welding - detaching and reattaching blocks!">
       <Name>510790477.sbm</Name>
       <PublishedFileId>510790477</PublishedFileId>
@@ -505,5 +499,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2024-10-31T20:26:44.0526682+08:00</LastSaveTime>
+  <LastSaveTime>2024-11-17T12:55:39.0221117+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
