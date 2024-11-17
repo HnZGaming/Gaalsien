@@ -497,6 +497,24 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem FriendlyName="Tank Tracks Framework &amp; API">
+      <Name>3208995513.sbm</Name>
+      <PublishedFileId>3208995513</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Tank Tracks Builder">
+      <Name>3209005014.sbm</Name>
+      <PublishedFileId>3209005014</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>false</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Tank Track Pack: Morue">
+      <Name>3225398014.sbm</Name>
+      <PublishedFileId>3225398014</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>false</IsDependency>
+    </ModItem>
     <ModItem FriendlyName="NexusSyncMod">
       <Name>2272613450.sbm</Name>
       <PublishedFileId>2272613450</PublishedFileId>
