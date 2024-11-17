@@ -4,14 +4,14 @@
 $startCount = 0
 $crashCount = 0
 
-[xml]$torchCfg = Get-Content -Path (Join-Path -Path "$PSScriptRoot" -ChildPath "Torch.cfg")
+[xml]$torchCfg = Get-Content -Path (Join-Path -Path "$PSScriptRoot" -ChildPath "../Torch.cfg")
 $arguments = $torchCfg.SelectSingleNode("TorchConfig/InstanceName").InnerText
 while ($true)
 {
     $startCount++
     Write-Output "$(Get-Date -Format o): Starting/Monitoring ($($arguments))... Start count: $($startCount)"
 
-    $processpath = $(Resolve-Path "Torch.Server.exe")
+    $processpath = Get-Content -Path (Join-Path -Path "$PSScriptRoot" -ChildPath "../Torch.Server.exe")
 
     if (Get-Process Torch.Server | Where-Object {$_.Path -like $processpath})
     {
@@ -19,7 +19,7 @@ while ($true)
     }
     else
     {
-        $process = Start-Process $(Resolve-Path "Torch.Server.exe") -PassThru
+        $process = Start-Process $processpath -PassThru
     }
 
     $crashFilePath = "$processpath\$($process.Id).$($servername)"

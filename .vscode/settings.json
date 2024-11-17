@@ -32,5 +32,19 @@
     "files.associations": {
         "*.cfg": "xml",
         "*.sbc": "xml",
-    }
+    },
+    "favorites.resources": [
+        {
+            "filePath": "Torch.cfg",
+            "group": "Default"
+        },
+        {
+            "filePath": "Instance\\SpaceEngineers-Dedicated.cfg",
+            "group": "Default"
+        },
+        {
+            "filePath": "Instance\\Saves\\Star System\\Sandbox_config.sbc",
+            "group": "Default"
+        }
+    ]
 }

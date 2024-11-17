@@ -2,6 +2,7 @@
     "recommendations": [
         "ms-vscode.PowerShell",
         "mhutchie.git-graph",
-        "adamraichu.zip-viewer"
+        "adamraichu.zip-viewer",
+        "howardzuo.vscode-favorites",
     ]
 }
