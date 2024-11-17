@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ConfigData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <lineThickness>1.5</lineThickness>
+  <lineDetail>90</lineDetail>
+  <starPos>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>0</Z>
+  </starPos>
+  <starFollowSky>true</starFollowSky>
+  <enableCockpitDust>true</enableCockpitDust>
+  <enableGridFlares>true</enableGridFlares>
+  <enableVisor>true</enableVisor>
+  <radarRange>-1</radarRange>
+</ConfigData>

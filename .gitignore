@@ -53,5 +53,5 @@ lib
 app.config
 Instance/Saves/Star System/Storage/3329806962.sbm_gridstorage/log.*
 Instance/Saves/ViewedContent.sbl
-*.il
+Instance/PerformanceImprovements/Debug
 *.mes

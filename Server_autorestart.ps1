@@ -3,8 +3,8 @@ Import-Module "C:\loki\LogToLoki.psm1" -Force
 
 $startCount = 0
 $crashCount = 0
-$servername = "Torch-Server"
-$lokiJob = "torch_gaalsien"
+$servername = "Torch-Server-Creative"
+$lokiJob = "torch_creative"
 $expectedRestartMinutes = 6 * 60
 
 Write-LokiLogMessage -Level INFO -Message "SE Auto-Restart Script Started" -Labels @{job=$lokiJob; component="AutoRestart-PowerShell-Script"}

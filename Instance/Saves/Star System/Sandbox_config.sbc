@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_WorldConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Settings xsi:type="MyObjectBuilder_SessionSettings">
-    <GameMode>Survival</GameMode>
+    <GameMode>Creative</GameMode>
     <InventorySizeMultiplier>10</InventorySizeMultiplier>
     <BlocksInventorySizeMultiplier>5</BlocksInventorySizeMultiplier>
     <AssemblerSpeedMultiplier>5</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>5</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>5</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>20</MaxPlayers>
+    <MaxPlayers>4</MaxPlayers>
     <MaxFloatingObjects>56</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>15</MaxBackupSaves>
@@ -19,10 +19,10 @@
     <GlobalEncounterPCU>25000</GlobalEncounterPCU>
     <MaxFactionsCount>0</MaxFactionsCount>
     <BlockLimitsEnabled>PER_PLAYER</BlockLimitsEnabled>
-    <EnableRemoteBlockRemoval>false</EnableRemoteBlockRemoval>
+    <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
     <EnvironmentHostility>SAFE</EnvironmentHostility>
     <AutoHealing>false</AutoHealing>
-    <EnableCopyPaste>false</EnableCopyPaste>
+    <EnableCopyPaste>true</EnableCopyPaste>
     <WeaponsEnabled>true</WeaponsEnabled>
     <ShowPlayerNamesOnHud>true</ShowPlayerNamesOnHud>
     <ThrusterDamage>true</ThrusterDamage>
@@ -36,7 +36,7 @@
     <RealisticSound>true</RealisticSound>
     <HackSpeedMultiplier>0.33</HackSpeedMultiplier>
     <PermanentDeath>false</PermanentDeath>
-    <AutoSaveInMinutes>15</AutoSaveInMinutes>
+    <AutoSaveInMinutes>999999</AutoSaveInMinutes>
     <EnableSaving>false</EnableSaving>
     <InfiniteAmmo>false</InfiniteAmmo>
     <EnableContainerDrops>true</EnableContainerDrops>
@@ -179,11 +179,6 @@
       <PublishedFileId>1965654081</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Modular Encounters Systems">
-      <Name>1521905890.sbm</Name>
-      <PublishedFileId>1521905890</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="AQD - Conveyor Expansion">
       <Name>1864380341.sbm</Name>
       <PublishedFileId>1864380341</PublishedFileId>
@@ -239,16 +234,6 @@
       <PublishedFileId>1469072169</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Headhunt - Bounties, Killfeed, Factionwar &amp; more">
-      <Name>2238536108.sbm</Name>
-      <PublishedFileId>2238536108</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="FSZ - Faction Safe Zones ~Updated 12/23/19~">
-      <Name>1507368483.sbm</Name>
-      <PublishedFileId>1507368483</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Colorful Icons">
       <Name>801185519.sbm</Name>
       <PublishedFileId>801185519</PublishedFileId>
@@ -294,11 +279,6 @@
       <PublishedFileId>500818376</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Peavers">
-      <Name>2776377087.sbm</Name>
-      <PublishedFileId>2776377087</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Local Gps 1.0">
       <Name>2781829620.sbm</Name>
       <PublishedFileId>2781829620</PublishedFileId>
@@ -307,16 +287,6 @@
     <ModItem FriendlyName="HnZ Tiered Tech Blocks">
       <Name>2759474323.sbm</Name>
       <PublishedFileId>2759474323</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Pork Zone">
-      <Name>2759485949.sbm</Name>
-      <PublishedFileId>2759485949</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="MES Custom Boss Spawner">
-      <Name>2783946867.sbm</Name>
-      <PublishedFileId>2783946867</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="HnZ Conveyor Categories">
@@ -329,16 +299,6 @@
       <PublishedFileId>2788240620</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Abandoned Settlements [v2]">
-      <Name>2310821218.sbm</Name>
-      <PublishedFileId>2310821218</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="MES Lost Colony Encounters + Frostbite">
-      <Name>2617194602.sbm</Name>
-      <PublishedFileId>2617194602</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Binoculars">
       <Name>2777644246.sbm</Name>
@@ -372,11 +332,6 @@
       <PublishedFileId>2722299710</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Wasteland Encounters V2 Continued">
-      <Name>2539299261.sbm</Name>
-      <PublishedFileId>2539299261</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Alkurah">
       <Name>2906098695.sbm</Name>
       <PublishedFileId>2906098695</PublishedFileId>
@@ -397,21 +352,6 @@
       <PublishedFileId>3170315974</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HnZ Imber Corporation">
-      <Name>2877092453.sbm</Name>
-      <PublishedFileId>2877092453</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="HnZ Independent Contractors">
-      <Name>2877092514.sbm</Name>
-      <PublishedFileId>2877092514</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="HnZ Parallax Concepts">
-      <Name>2877092557.sbm</Name>
-      <PublishedFileId>2877092557</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Electric Network Info - Touch App">
       <Name>2917216762.sbm</Name>
       <PublishedFileId>2917216762</PublishedFileId>
@@ -422,11 +362,6 @@
       <PublishedFileId>2668820525</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="HnZ Trade Operators Coalition">
-      <Name>3341212194.sbm</Name>
-      <PublishedFileId>3341212194</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="HnZ Grid Garage">
       <Name>3329806962.sbm</Name>
@@ -463,11 +398,6 @@
       <PublishedFileId>3267099357</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Previously Owned Economy Ships">
-      <Name>3317449166.sbm</Name>
-      <PublishedFileId>3317449166</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Huge Armor Blocks">
       <Name>2764158540.sbm</Name>
       <PublishedFileId>2764158540</PublishedFileId>
@@ -491,9 +421,27 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="Ship Sale">
-      <Name>3355403868.sbm</Name>
-      <PublishedFileId>3355403868</PublishedFileId>
+    <ModItem FriendlyName="EZGPS - A Better way to Navigate in Space - Server Edition">
+      <Name>2376008977.sbm</Name>
+      <PublishedFileId>2376008977</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Tank Tracks Framework &amp; API">
+      <Name>3208995513.sbm</Name>
+      <PublishedFileId>3208995513</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Tank Tracks Builder">
+      <Name>3209005014.sbm</Name>
+      <PublishedFileId>3209005014</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Tank Track Pack: Morue">
+      <Name>3225398014.sbm</Name>
+      <PublishedFileId>3225398014</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
@@ -504,5 +452,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2024-11-17T12:55:39.0221117+08:00</LastSaveTime>
+  <LastSaveTime>2024-11-17T12:39:43.6999728+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
