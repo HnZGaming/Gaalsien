@@ -431,19 +431,16 @@
       <Name>3208995513.sbm</Name>
       <PublishedFileId>3208995513</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>false</IsDependency>
     </ModItem>
     <ModItem FriendlyName="Tank Tracks Builder">
       <Name>3209005014.sbm</Name>
       <PublishedFileId>3209005014</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>false</IsDependency>
     </ModItem>
     <ModItem FriendlyName="Tank Track Pack: Morue">
       <Name>3225398014.sbm</Name>
       <PublishedFileId>3225398014</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>false</IsDependency>
     </ModItem>
     <ModItem FriendlyName="NexusSyncMod">
       <Name>2272613450.sbm</Name>
@@ -452,5 +449,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2024-11-17T12:39:43.6999728+08:00</LastSaveTime>
+  <LastSaveTime>2024-11-18T18:53:47.584855+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
