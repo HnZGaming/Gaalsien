@@ -45,6 +45,10 @@
         {
             "filePath": "Instance\\Saves\\Star System\\Sandbox_config.sbc",
             "group": "Default"
+        },
+        {
+            "filePath": "Instance\\Saves\\Star System\\Storage",
+            "group": "Default"
         }
     ]
 }
