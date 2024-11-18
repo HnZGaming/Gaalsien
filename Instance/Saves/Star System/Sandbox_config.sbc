@@ -89,7 +89,7 @@
     <RemoveOldIdentitiesH>0</RemoveOldIdentitiesH>
     <TrashRemovalEnabled>false</TrashRemovalEnabled>
     <StopGridsPeriodMin>15</StopGridsPeriodMin>
-    <TrashFlagsValue>7680</TrashFlagsValue>
+    <TrashFlagsValue>7706</TrashFlagsValue>
     <AFKTimeountMin>0</AFKTimeountMin>
     <BlockCountThreshold>20</BlockCountThreshold>
     <PlayerDistanceThreshold>500</PlayerDistanceThreshold>
@@ -330,16 +330,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="Abandoned Settlements [v2]">
-      <Name>2310821218.sbm</Name>
-      <PublishedFileId>2310821218</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="MES Lost Colony Encounters + Frostbite">
-      <Name>2617194602.sbm</Name>
-      <PublishedFileId>2617194602</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Binoculars">
       <Name>2777644246.sbm</Name>
       <PublishedFileId>2777644246</PublishedFileId>
@@ -372,11 +362,6 @@
       <PublishedFileId>2722299710</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Wasteland Encounters V2 Continued">
-      <Name>2539299261.sbm</Name>
-      <PublishedFileId>2539299261</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Alkurah">
       <Name>2906098695.sbm</Name>
       <PublishedFileId>2906098695</PublishedFileId>
@@ -395,21 +380,6 @@
     <ModItem FriendlyName="Leak Finder">
       <Name>3170315974.sbm</Name>
       <PublishedFileId>3170315974</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="HnZ Imber Corporation">
-      <Name>2877092453.sbm</Name>
-      <PublishedFileId>2877092453</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="HnZ Independent Contractors">
-      <Name>2877092514.sbm</Name>
-      <PublishedFileId>2877092514</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="HnZ Parallax Concepts">
-      <Name>2877092557.sbm</Name>
-      <PublishedFileId>2877092557</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Electric Network Info - Touch App">
@@ -463,11 +433,6 @@
       <PublishedFileId>3267099357</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Previously Owned Economy Ships">
-      <Name>3317449166.sbm</Name>
-      <PublishedFileId>3317449166</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Huge Armor Blocks">
       <Name>2764158540.sbm</Name>
       <PublishedFileId>2764158540</PublishedFileId>
@@ -507,17 +472,35 @@
       <Name>3209005014.sbm</Name>
       <PublishedFileId>3209005014</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>false</IsDependency>
     </ModItem>
     <ModItem FriendlyName="Tank Track Pack: Morue">
       <Name>3225398014.sbm</Name>
       <PublishedFileId>3225398014</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>false</IsDependency>
     </ModItem>
     <ModItem FriendlyName="NexusSyncMod">
       <Name>2272613450.sbm</Name>
       <PublishedFileId>2272613450</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Reavers: Terror of the Verse">
+      <Name>525460808.sbm</Name>
+      <PublishedFileId>525460808</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Orks: The Great WAAAGH!">
+      <Name>1793333265.sbm</Name>
+      <PublishedFileId>1793333265</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Pravda Heavy Industries">
+      <Name>2852753555.sbm</Name>
+      <PublishedFileId>2852753555</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Cooperative NPC Takeover">
+      <Name>2968719733.sbm</Name>
+      <PublishedFileId>2968719733</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
