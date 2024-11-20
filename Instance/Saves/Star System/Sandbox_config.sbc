@@ -453,6 +453,11 @@
       <PublishedFileId>2968719733</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="[WCIS] Longer Seamless Industrial Conveyor Pipes">
+      <Name>2863089693.sbm</Name>
+      <PublishedFileId>2863089693</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2024-11-18T18:53:47.584855+08:00</LastSaveTime>
