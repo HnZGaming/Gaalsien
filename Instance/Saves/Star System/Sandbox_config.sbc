@@ -518,6 +518,11 @@
       <PublishedFileId>2272613450</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Cooperative NPC Takeover">
+      <Name>2968719733.sbm</Name>
+      <PublishedFileId>2968719733</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2024-11-17T21:26:29.9366082+08:00</LastSaveTime>
