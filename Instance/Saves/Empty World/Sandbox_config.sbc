@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<MyConfigDedicated xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SessionSettings>
+<MyObjectBuilder_WorldConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Settings xsi:type="MyObjectBuilder_SessionSettings">
     <GameMode>Survival</GameMode>
     <InventorySizeMultiplier>10</InventorySizeMultiplier>
     <BlocksInventorySizeMultiplier>5</BlocksInventorySizeMultiplier>
@@ -119,7 +119,6 @@
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <NPCGridClaimTimeLimit>120</NPCGridClaimTimeLimit>
     <SimplifiedSimulation>false</SimplifiedSimulation>
-    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>true</EnableSelectivePhysicsUpdates>
@@ -173,77 +172,8 @@
     <PlanetaryEncounterDespawnTimeout>120</PlanetaryEncounterDespawnTimeout>
     <LimitBlocksBy>BlockPairName</LimitBlocksBy>
     <MaxHudChatMessageCount>100</MaxHudChatMessageCount>
-  </SessionSettings>
-  <LoadWorld>C:\torch-server\Instance\Saves\Empty World</LoadWorld>
-  <CrossPlatform>false</CrossPlatform>
-  <IP>0.0.0.0</IP>
-  <SteamPort>8766</SteamPort>
-  <ServerPort>27017</ServerPort>
-  <AsteroidAmount>4</AsteroidAmount>
-  <Administrators>
-    <unsignedLong>76561198172300863</unsignedLong>
-    <unsignedLong>76561198117546555</unsignedLong>
-    <unsignedLong>76561198085893796</unsignedLong>
-    <unsignedLong>76561198014704195</unsignedLong>
-    <unsignedLong>76561198080143601</unsignedLong>
-  </Administrators>
-  <Banned>
-    <unsignedLong>76561198126096588</unsignedLong>
-    <unsignedLong>76561198019826526</unsignedLong>
-    <unsignedLong>76561198432458042</unsignedLong>
-    <unsignedLong>76561198121985609</unsignedLong>
-    <unsignedLong>76561198093303111</unsignedLong>
-    <unsignedLong>76561198971330395</unsignedLong>
-    <unsignedLong>76561198082375206</unsignedLong>
-    <unsignedLong>76561198109937364</unsignedLong>
-    <unsignedLong>76561198024786501</unsignedLong>
-    <unsignedLong>76561198259582484</unsignedLong>
-    <unsignedLong>76561198109937364</unsignedLong>
-    <unsignedLong>76561198024786501</unsignedLong>
-    <unsignedLong>76561198259582484</unsignedLong>
-    <unsignedLong>76561198022881285</unsignedLong>
-    <unsignedLong>76561198269558081</unsignedLong>
-    <unsignedLong>76561199019199822</unsignedLong>
-    <unsignedLong>76561197993532407</unsignedLong>
-    <unsignedLong>76561198074581247</unsignedLong>
-  </Banned>
-  <GroupID>0</GroupID>
-  <ServerName>HnZ | Singapore Vanilla++</ServerName>
-  <WorldName>Singapore Vanilla++</WorldName>
-  <VerboseNetworkLogging>false</VerboseNetworkLogging>
-  <PauseGameWhenEmpty>false</PauseGameWhenEmpty>
-  <MessageOfTheDay />
-  <MessageOfTheDayUrl />
-  <AutoRestartEnabled>true</AutoRestartEnabled>
-  <AutoRestatTimeInMin>0</AutoRestatTimeInMin>
-  <AutoRestartSave>true</AutoRestartSave>
-  <AutoUpdateEnabled>false</AutoUpdateEnabled>
-  <AutoUpdateCheckIntervalInMin>10</AutoUpdateCheckIntervalInMin>
-  <AutoUpdateRestartDelayInMin>15</AutoUpdateRestartDelayInMin>
-  <IgnoreLastSession>false</IgnoreLastSession>
-  <PremadeCheckpointPath />
-  <ServerDescription>[2024.10.03] Fresh wipe!
-
-Most populous server in SEA. Come to HNZ for weekly events and a lot of laughs!
-  </ServerDescription>
-  <ServerPasswordSalt>cJqqPaSLyEVuKjIaqOeJVQ==</ServerPasswordSalt>
-  <Reserved />
-  <RemoteApiEnabled>false</RemoteApiEnabled>
-  <RemoteSecurityKey />
-  <RemoteApiPort>8080</RemoteApiPort>
-  <Plugins />
-  <WatcherInterval>30</WatcherInterval>
-  <WatcherSimulationSpeedMinimum>0.05</WatcherSimulationSpeedMinimum>
-  <ManualActionDelay>5</ManualActionDelay>
-  <ManualActionChatMessage>Server will be shut down in {0} min(s).</ManualActionChatMessage>
-  <AutodetectDependencies>true</AutodetectDependencies>
-  <SaveChatToLog>false</SaveChatToLog>
-  <NetworkType>steam</NetworkType>
-  <ConsoleCompatibility>false</ConsoleCompatibility>
-  <NetworkParameters />
-  <ChatAntiSpamEnabled>true</ChatAntiSpamEnabled>
-  <SameMessageTimeout>30</SameMessageTimeout>
-  <SpamMessagesTime>0.5</SpamMessagesTime>
-  <SpamMessagesTimeout>60</SpamMessagesTimeout>
-  <DedicatedId>7128801190128941522</DedicatedId>
-</MyConfigDedicated>
+  </Settings>
+  <Mods />
+  <SessionName>Empty World</SessionName>
+  <LastSaveTime>2024-11-20T22:30:34.3267933+09:00</LastSaveTime>
+</MyObjectBuilder_WorldConfiguration>
