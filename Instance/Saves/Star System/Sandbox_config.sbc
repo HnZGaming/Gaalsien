@@ -543,6 +543,12 @@
       <PublishedFileId>569353121</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="SL Static Drills">
+      <Name>3161985649.sbm</Name>
+      <PublishedFileId>3161985649</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2024-11-17T21:26:29.9366082+08:00</LastSaveTime>
