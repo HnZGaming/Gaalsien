@@ -89,7 +89,7 @@
     <RemoveOldIdentitiesH>0</RemoveOldIdentitiesH>
     <TrashRemovalEnabled>false</TrashRemovalEnabled>
     <StopGridsPeriodMin>15</StopGridsPeriodMin>
-    <TrashFlagsValue>7680</TrashFlagsValue>
+    <TrashFlagsValue>7706</TrashFlagsValue>
     <AFKTimeountMin>0</AFKTimeountMin>
     <BlockCountThreshold>20</BlockCountThreshold>
     <PlayerDistanceThreshold>500</PlayerDistanceThreshold>
@@ -324,9 +324,14 @@
       <PublishedFileId>2722299710</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Alkurah">
-      <Name>2906098695.sbm</Name>
-      <PublishedFileId>2906098695</PublishedFileId>
+    <ModItem FriendlyName="Kimi &amp; Qun">
+      <Name>2459246911.sbm</Name>
+      <PublishedFileId>2459246911</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Satreus">
+      <Name>2266665708.sbm</Name>
+      <PublishedFileId>2266665708</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="HNZ Relative Top Speed">
@@ -484,6 +489,12 @@
       <Name>3161985649.sbm</Name>
       <PublishedFileId>3161985649</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Komorebi">
+      <Name>3309805284.sbm</Name>
+      <PublishedFileId>3309805284</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
