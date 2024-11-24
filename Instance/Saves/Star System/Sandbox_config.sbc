@@ -179,9 +179,6 @@
       <PublishedFileId>1965654081</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="AQD - Conveyor Expansion">
-      <Name>1864380341.sbm</Name>
-      <PublishedFileId>1864380341</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Text HUD API">
@@ -199,11 +196,6 @@
       <PublishedFileId>2304715504</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="[MAD] More Conveyors">
-      <Name>1124114101.sbm</Name>
-      <PublishedFileId>1124114101</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Underground Police">
       <Name>2611224052.sbm</Name>
       <PublishedFileId>2611224052</PublishedFileId>
@@ -214,9 +206,9 @@
       <PublishedFileId>2111073562</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="More Pistons">
-      <Name>1719832915.sbm</Name>
-      <PublishedFileId>1719832915</PublishedFileId>
+    <ModItem FriendlyName="RB - Piston Pack">
+      <Name>2369529905.sbm</Name>
+      <PublishedFileId>2369529905</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Light Block Improvements - easy control panel access">
@@ -403,6 +395,31 @@
       <PublishedFileId>2764158540</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Huge Refinery + Assembler">
+      <Name>2571508822.sbm</Name>
+      <PublishedFileId>2571508822</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Huge Landing Gear">
+      <Name>2542224600.sbm</Name>
+      <PublishedFileId>2542224600</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Huge Hydrogen Tanks">
+      <Name>2500505175.sbm</Name>
+      <PublishedFileId>2500505175</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Huge Gyroscopes">
+      <Name>2468994674.sbm</Name>
+      <PublishedFileId>2468994674</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Huge Batteries">
+      <Name>2461941910.sbm</Name>
+      <PublishedFileId>2461941910</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Light Booster x10">
       <Name>2819683565.sbm</Name>
       <PublishedFileId>2819683565</PublishedFileId>
@@ -453,9 +470,14 @@
       <PublishedFileId>2968719733</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="[WCIS] Longer Seamless Industrial Conveyor Pipes">
-      <Name>2863089693.sbm</Name>
-      <PublishedFileId>2863089693</PublishedFileId>
+    <ModItem FriendlyName="Norca Engineers HUD - Coloured -- 1.201 == With Targeting Indicator">
+      <Name>1682356734.sbm</Name>
+      <PublishedFileId>1682356734</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Admin blocks with protection">
+      <Name>569353121.sbm</Name>
+      <PublishedFileId>569353121</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
