@@ -89,7 +89,7 @@
     <RemoveOldIdentitiesH>0</RemoveOldIdentitiesH>
     <TrashRemovalEnabled>false</TrashRemovalEnabled>
     <StopGridsPeriodMin>15</StopGridsPeriodMin>
-    <TrashFlagsValue>7680</TrashFlagsValue>
+    <TrashFlagsValue>7706</TrashFlagsValue>
     <AFKTimeountMin>0</AFKTimeountMin>
     <BlockCountThreshold>20</BlockCountThreshold>
     <PlayerDistanceThreshold>500</PlayerDistanceThreshold>
