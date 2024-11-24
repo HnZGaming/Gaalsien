@@ -518,6 +518,12 @@
       <PublishedFileId>3161985649</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Komorebi">
+      <Name>3309805284.sbm</Name>
+      <PublishedFileId>3309805284</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>PvP</SessionName>
   <LastSaveTime>2024-11-19T07:48:38.3826621+08:00</LastSaveTime>
