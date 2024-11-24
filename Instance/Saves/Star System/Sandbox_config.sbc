@@ -244,11 +244,6 @@
       <PublishedFileId>2238536108</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="FSZ - Faction Safe Zones ~Updated 12/23/19~">
-      <Name>1507368483.sbm</Name>
-      <PublishedFileId>1507368483</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Colorful Icons">
       <Name>801185519.sbm</Name>
       <PublishedFileId>801185519</PublishedFileId>
@@ -294,11 +289,6 @@
       <PublishedFileId>500818376</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Peavers">
-      <Name>2776377087.sbm</Name>
-      <PublishedFileId>2776377087</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Local Gps 1.0">
       <Name>2781829620.sbm</Name>
       <PublishedFileId>2781829620</PublishedFileId>
@@ -307,11 +297,6 @@
     <ModItem FriendlyName="HnZ Tiered Tech Blocks">
       <Name>2759474323.sbm</Name>
       <PublishedFileId>2759474323</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Pork Zone">
-      <Name>2759485949.sbm</Name>
-      <PublishedFileId>2759485949</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="MES Custom Boss Spawner">
@@ -489,8 +474,8 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Orks: The Great WAAAGH!">
-      <Name>1793333265.sbm</Name>
-      <PublishedFileId>1793333265</PublishedFileId>
+      <Name>3371461789.sbm</Name>
+      <PublishedFileId>3371461789</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Pravda Heavy Industries">
@@ -506,6 +491,11 @@
     <ModItem FriendlyName="[WCIS] Longer Seamless Industrial Conveyor Pipes">
       <Name>2863089693.sbm</Name>
       <PublishedFileId>2863089693</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SL Static Drills">
+      <Name>3161985649.sbm</Name>
+      <PublishedFileId>3161985649</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
