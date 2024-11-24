@@ -547,7 +547,6 @@
       <Name>3161985649.sbm</Name>
       <PublishedFileId>3161985649</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
