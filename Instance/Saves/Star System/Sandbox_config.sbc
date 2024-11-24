@@ -362,7 +362,7 @@
       <PublishedFileId>2539299261</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Kimi and Qun">
+    <ModItem FriendlyName="Kimi &amp; Qun">
       <Name>2459246911.sbm</Name>
       <PublishedFileId>2459246911</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -561,5 +561,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2024-11-17T21:26:29.9366082+08:00</LastSaveTime>
+  <LastSaveTime>2024-11-25T05:25:20.9776165+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
