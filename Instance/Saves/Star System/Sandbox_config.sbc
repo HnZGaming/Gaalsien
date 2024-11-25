@@ -41,8 +41,6 @@
     <InfiniteAmmo>false</InfiniteAmmo>
     <EnableContainerDrops>true</EnableContainerDrops>
     <SpawnShipTimeMultiplier>1</SpawnShipTimeMultiplier>
-    <ProceduralDensity>0.35</ProceduralDensity>
-    <ProceduralSeed>0</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
     <EnableIngameScripts>true</EnableIngameScripts>
     <ViewDistance>15000</ViewDistance>
@@ -531,5 +529,5 @@
     </ModItem>
   </Mods>
   <SessionName>PvP</SessionName>
-  <LastSaveTime>2024-11-19T07:48:38.3826621+08:00</LastSaveTime>
+  <LastSaveTime>2024-11-25T17:14:22.3275355+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
