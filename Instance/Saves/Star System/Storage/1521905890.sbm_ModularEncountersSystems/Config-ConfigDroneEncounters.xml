@@ -313,6 +313,22 @@
         <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Komorebi</PlanetName>
+      <PlanetId>1074497543802897190</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Qun</PlanetName>
+      <PlanetId>-1115633103063548890</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
   </PlanetSpawnFilters>
   <UseTypeDisownTimer>false</UseTypeDisownTimer>
   <TypeDisownTimer>0</TypeDisownTimer>
