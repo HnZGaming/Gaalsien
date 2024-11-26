@@ -558,11 +558,6 @@
       <PublishedFileId>569353121</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="SL Static Drills">
-      <Name>3161985649.sbm</Name>
-      <PublishedFileId>3161985649</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Komorebi">
       <Name>3309805284.sbm</Name>
       <PublishedFileId>3309805284</PublishedFileId>
