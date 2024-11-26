@@ -21,7 +21,7 @@
     <BlockLimitsEnabled>PER_PLAYER</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
     <EnvironmentHostility>SAFE</EnvironmentHostility>
-    <AutoHealing>false</AutoHealing>
+    <AutoHealing>true</AutoHealing>
     <EnableCopyPaste>true</EnableCopyPaste>
     <WeaponsEnabled>true</WeaponsEnabled>
     <ShowPlayerNamesOnHud>true</ShowPlayerNamesOnHud>
