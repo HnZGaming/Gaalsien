@@ -564,6 +564,12 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem FriendlyName="HnZ Conveyor Pack">
+      <Name>3373137874.sbm</Name>
+      <PublishedFileId>3373137874</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2024-11-25T05:25:20.9776165+08:00</LastSaveTime>
