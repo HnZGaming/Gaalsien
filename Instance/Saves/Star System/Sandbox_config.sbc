@@ -543,6 +543,12 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem FriendlyName="HNZ mod adjust">
+      <Name>3373215908.sbm</Name>
+      <PublishedFileId>3373215908</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>PvP</SessionName>
   <LastSaveTime>2024-11-25T17:14:22.3275355+08:00</LastSaveTime>
