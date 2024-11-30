@@ -64,7 +64,7 @@
     <BlueprintShareTimeout>30</BlueprintShareTimeout>
     <BlueprintShare>true</BlueprintShare>
     <StartInRespawnScreen>true</StartInRespawnScreen>
-    <EnableVoxelDestruction>true</EnableVoxelDestruction>
+    <EnableVoxelDestruction>false</EnableVoxelDestruction>
     <MaxDrones>5</MaxDrones>
     <EnableDrones>true</EnableDrones>
     <EnableWolfs>false</EnableWolfs>
@@ -83,7 +83,7 @@
     <SyncDistance>11000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>false</AdaptiveSimulationQuality>
-    <EnableVoxelHand>true</EnableVoxelHand>
+    <EnableVoxelHand>false</EnableVoxelHand>
     <RemoveOldIdentitiesH>0</RemoveOldIdentitiesH>
     <TrashRemovalEnabled>false</TrashRemovalEnabled>
     <StopGridsPeriodMin>15</StopGridsPeriodMin>
