@@ -249,6 +249,14 @@
         <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
       </PlanetSpawnGroupBlacklist>
     </PlanetSpawnFilter>
+    <PlanetSpawnFilter>
+      <PlanetName>Kimi</PlanetName>
+      <PlanetId>-4915166657927059907</PlanetId>
+      <PlanetSpawnGroupBlacklist>
+        <SpawnGroup>AddSpawnGroupIdHere</SpawnGroup>
+        <SpawnGroup>AddAnotherSpawnGroupIdHere</SpawnGroup>
+      </PlanetSpawnGroupBlacklist>
+    </PlanetSpawnFilter>
   </PlanetSpawnFilters>
   <UseTypeDisownTimer>false</UseTypeDisownTimer>
   <TypeDisownTimer>1800</TypeDisownTimer>
