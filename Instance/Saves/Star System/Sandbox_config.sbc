@@ -304,7 +304,7 @@
       <PublishedFileId>2759474323</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HnZ Orks (Safe)">
+    <ModItem FriendlyName="Pork Zone">
       <Name>2759485949.sbm</Name>
       <PublishedFileId>2759485949</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -538,7 +538,7 @@
       <PublishedFileId>2272613450</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Cooperative NPC Takeover">
+    <ModItem FriendlyName="HNZ NPC Takeover">
       <Name>3381188882.sbm</Name>
       <PublishedFileId>3381188882</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -573,5 +573,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2024-11-25T05:25:20.9776165+08:00</LastSaveTime>
+  <LastSaveTime>2024-12-15T13:34:02.4765312+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
