@@ -506,7 +506,7 @@
       <PublishedFileId>2852753555</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Cooperative NPC Takeover">
+    <ModItem FriendlyName="HNZ NPC Takeover">
       <Name>3381188882.sbm</Name>
       <PublishedFileId>3381188882</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -544,7 +544,12 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem FriendlyName="Space Limited KOTH ReBuild - Kubomi">
+      <Name>2935687497.sbm</Name>
+      <PublishedFileId>2935687497</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>PvP</SessionName>
-  <LastSaveTime>2024-11-25T17:14:22.3275355+08:00</LastSaveTime>
+  <LastSaveTime>2024-12-15T13:32:21.9364131+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
