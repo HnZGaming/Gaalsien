@@ -2,7 +2,6 @@
 # https://discord.com/channels/929141809769226271/929143700695703632/1077878154640760842
 
 $startCount = 0
-$crashCount = 0
 
 [xml]$torchCfg = Get-Content -Path (Join-Path -Path "$PSScriptRoot" -ChildPath "../Torch.cfg")
 $arguments = $torchCfg.SelectSingleNode("TorchConfig/InstanceName").InnerText
@@ -15,6 +14,7 @@ while ($true)
     if ($null -eq $process)
     {
         $process = Start-Process $processpath -PassThru
+        $startCount += 1
         Write-Output "$(Get-Date -Format o): Started '$($arguments)'... Start count: $($startCount)"
     }
 

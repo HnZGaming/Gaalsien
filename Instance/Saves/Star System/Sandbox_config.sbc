@@ -297,6 +297,21 @@
       <PublishedFileId>2759474323</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Peavers">
+      <Name>2776377087.sbm</Name>
+      <PublishedFileId>2776377087</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Pork Zone">
+      <Name>2759485949.sbm</Name>
+      <PublishedFileId>2759485949</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Pravda Heavy Industries">
+      <Name>2852753555.sbm</Name>
+      <PublishedFileId>2852753555</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="MES Custom Boss Spawner">
       <Name>2783946867.sbm</Name>
       <PublishedFileId>2783946867</PublishedFileId>
@@ -489,21 +504,6 @@
     <ModItem FriendlyName="NexusSyncMod">
       <Name>2272613450.sbm</Name>
       <PublishedFileId>2272613450</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Peavers">
-      <Name>2776377087.sbm</Name>
-      <PublishedFileId>2776377087</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Pork Zone">
-      <Name>2759485949.sbm</Name>
-      <PublishedFileId>2759485949</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Pravda Heavy Industries">
-      <Name>2852753555.sbm</Name>
-      <PublishedFileId>2852753555</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="HNZ NPC Takeover">
