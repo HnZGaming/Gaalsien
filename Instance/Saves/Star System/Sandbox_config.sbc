@@ -566,10 +566,9 @@
       <IsDependency>true</IsDependency>
     </ModItem>
     <ModItem FriendlyName="HNZ mod adjust">
-      <Name>3373215908.sbm</Name>
-      <PublishedFileId>3373215908</PublishedFileId>
+      <Name>3386462549.sbm</Name>
+      <PublishedFileId>3386462549</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
