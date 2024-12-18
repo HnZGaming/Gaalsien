@@ -503,19 +503,16 @@
       <Name>510790477.sbm</Name>
       <PublishedFileId>510790477</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
     <ModItem FriendlyName="Armored Hangar Doors (+Small Grid)">
       <Name>2230891848.sbm</Name>
       <PublishedFileId>2230891848</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
     <ModItem FriendlyName="Ship Sale">
       <Name>3355403868.sbm</Name>
       <PublishedFileId>3355403868</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
     <ModItem FriendlyName="Tank Tracks Framework &amp; API">
       <Name>3208995513.sbm</Name>
@@ -557,13 +554,11 @@
       <Name>3309805284.sbm</Name>
       <PublishedFileId>3309805284</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
     <ModItem FriendlyName="HnZ Conveyor Pack">
       <Name>3373137874.sbm</Name>
       <PublishedFileId>3373137874</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
     <ModItem FriendlyName="HNZ mod adjust">
       <Name>3386462549.sbm</Name>
