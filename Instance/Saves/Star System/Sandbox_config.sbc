@@ -428,6 +428,11 @@
       <PublishedFileId>2461941910</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Huge O2/H2 Generators">
+      <Name>2546592707.sbm</Name>
+      <PublishedFileId>2546592707</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Light Booster x10">
       <Name>2819683565.sbm</Name>
       <PublishedFileId>2819683565</PublishedFileId>
