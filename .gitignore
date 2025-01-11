@@ -26,7 +26,6 @@ tmp
 userdata
 MahApps.Metro.xml
 NLog.xml
-NLog-user.config
 NLog.config
 Newtonsoft.Json.xml
 SteamKit2.xml
