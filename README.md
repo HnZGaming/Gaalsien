@@ -1,6 +1,6 @@
 # Gaalsien
 
-This is a sample Torch project which is [live](https://space-engineers.com/server/184135/).
+This is a sample Torch project which is [live](https://space-engineers.com/server/184135/). Also is build on top of [VSCode Torch server project](https://github.com/HnZGaming/TorchServer/tree/master).
 
 Originally created to present a [nice MOTD page](https://github.com/HnZGaming/Gaalsien/blob/master/Instance/motd.md) for my server but I figured to capitalize this opportunity and share all the config files too as a good point of reference for fresh admins.
 
