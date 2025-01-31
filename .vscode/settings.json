@@ -49,6 +49,22 @@
         {
             "filePath": "Instance\\Saves\\Star System\\Storage",
             "group": "Default"
+        },
+        {
+            "filePath": "Instance\\Saves\\Star System\\Storage\\2783946867.sbm_HNZ\\CustomBossSpawner.cfg",
+            "group": "Default"
+        }
+    ],
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "nexus",
+            "database": "grid_garage",
+            "username": "postgres",
+            "password": "password"
         }
     ]
 }
