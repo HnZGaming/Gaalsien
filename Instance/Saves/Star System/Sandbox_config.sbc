@@ -565,6 +565,22 @@
       <PublishedFileId>3386462549</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Aryx Weapon Enterprises Vol. 1 [WeaponCore]">
+      <Name>2530716039.sbm</Name>
+      <PublishedFileId>2530716039</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="HnZ Adjustment">
+      <Name>3417541701.sbm</Name>
+      <PublishedFileId>3417541701</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="ModAdjusterV2">
+      <Name>3017795356.sbm</Name>
+      <PublishedFileId>3017795356</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2024-12-15T13:34:02.4765312+08:00</LastSaveTime>
