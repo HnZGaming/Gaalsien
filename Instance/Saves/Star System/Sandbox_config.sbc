@@ -581,6 +581,11 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem FriendlyName="Emissive Letters &amp; Symbols">
+      <Name>3347016415.sbm</Name>
+      <PublishedFileId>3347016415</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2024-12-15T13:34:02.4765312+08:00</LastSaveTime>
