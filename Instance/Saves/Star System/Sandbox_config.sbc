@@ -564,6 +564,11 @@
       <PublishedFileId>2935687497</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Emissive Letters &amp; Symbols">
+      <Name>3347016415.sbm</Name>
+      <PublishedFileId>3347016415</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>PvP</SessionName>
   <LastSaveTime>2024-12-15T13:32:21.9364131+08:00</LastSaveTime>
