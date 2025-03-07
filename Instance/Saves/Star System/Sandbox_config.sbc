@@ -68,7 +68,7 @@
     <StartInRespawnScreen>true</StartInRespawnScreen>
     <EnableVoxelDestruction>true</EnableVoxelDestruction>
     <MaxDrones>5</MaxDrones>
-    <EnableDrones>true</EnableDrones>
+    <EnableDrones>false</EnableDrones>
     <EnableWolfs>false</EnableWolfs>
     <EnableSpiders>false</EnableSpiders>
     <FloraDensityMultiplier>1</FloraDensityMultiplier>
@@ -84,7 +84,7 @@
     <EnableSubgridDamage>false</EnableSubgridDamage>
     <SyncDistance>11000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
-    <AdaptiveSimulationQuality>false</AdaptiveSimulationQuality>
+    <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>true</EnableVoxelHand>
     <RemoveOldIdentitiesH>0</RemoveOldIdentitiesH>
     <TrashRemovalEnabled>false</TrashRemovalEnabled>
@@ -174,11 +174,6 @@
     <MaxHudChatMessageCount>100</MaxHudChatMessageCount>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="HnZ Grid Garage">
-      <Name>3329806962.sbm</Name>
-      <PublishedFileId>3329806962</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="HnZ Tiered Tech Blocks">
       <Name>2759474323.sbm</Name>
       <PublishedFileId>2759474323</PublishedFileId>
@@ -195,7 +190,22 @@
       <PublishedFileId>1521905890</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="HnZ Orks">
+      <Name>3371461789.sbm</Name>
+      <PublishedFileId>3371461789</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Text HUD API">
+      <Name>758597413.sbm</Name>
+      <PublishedFileId>758597413</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="HnZ PvE Season">
+      <Name>3420964588.sbm</Name>
+      <PublishedFileId>3420964588</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
-  <SessionName>Star System</SessionName>
-  <LastSaveTime>2024-12-15T13:34:02.4765312+08:00</LastSaveTime>
+  <SessionName>Main</SessionName>
+  <LastSaveTime>2025-03-07T17:01:11.4042812+09:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

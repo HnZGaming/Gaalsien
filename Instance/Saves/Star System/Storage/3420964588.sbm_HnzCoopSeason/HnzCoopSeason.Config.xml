@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SessionConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PoiMapRadius>1E+07</PoiMapRadius>
+  <PoiCountPerAxis>4</PoiCountPerAxis>
+  <EncounterRadius>10000</EncounterRadius>
+  <RandomInvasionChance>0.0001</RandomInvasionChance>
+  <RandomInvasionInterval>3600</RandomInvasionInterval>
+  <EconomyUpdateInterval>1200</EconomyUpdateInterval>
+  <RespawnDatapadTextFormat>Come here: {0}</RespawnDatapadTextFormat>
+  <PlanetaryPois>
+    <Poi Id="Earth" X="-285.75" Y="781.29" Z="60028.25" />
+  </PlanetaryPois>
+  <Orks>
+    <Ork SpawnGroup="Orks-SpawnGroup-Boss-KillaKrooZa" />
+    <Ork SpawnGroup="Orks-SpawnGroup-Ship-FlybossCarrier" Planetary="true" />
+  </Orks>
+  <Merchants>
+    <Merchant SpawnGroup="Merchants-SpawnGroup-PlanetaryStation" Planetary="true" SnapToVoxel="true" />
+    <Merchant SpawnGroup="Merchants-SpawnGroup-SpaceStation" />
+  </Merchants>
+  <StoreItems>
+    <StoreItem Type="Component" Subtype="Tech2x" PricePerUnit="200000" MinAmountPerUpdate="8" MaxAmountPerUpdate="16" MaxAmount="30" />
+    <StoreItem Type="Component" Subtype="Tech4x" PricePerUnit="400000" MinAmountPerUpdate="4" MaxAmountPerUpdate="8" MaxAmount="30" />
+    <StoreItem Type="Component" Subtype="Tech8x" PricePerUnit="800000" MinAmountPerUpdate="2" MaxAmountPerUpdate="4" MaxAmount="30" />
+  </StoreItems>
+</SessionConfig>
