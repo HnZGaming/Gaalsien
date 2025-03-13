@@ -307,7 +307,7 @@
       <PublishedFileId>2759474323</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Pork Zone">
+    <ModItem FriendlyName="HnZ Orks">
       <Name>3371461789.sbm</Name>
       <PublishedFileId>3371461789</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -317,16 +317,6 @@
       <PublishedFileId>2788240620</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Abandoned Settlements [v2]">
-      <Name>2310821218.sbm</Name>
-      <PublishedFileId>2310821218</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="MES Lost Colony Encounters + Frostbite">
-      <Name>2617194602.sbm</Name>
-      <PublishedFileId>2617194602</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Binoculars">
       <Name>2777644246.sbm</Name>
@@ -358,21 +348,6 @@
     <ModItem FriendlyName="The Sun is not yellow">
       <Name>2722299710.sbm</Name>
       <PublishedFileId>2722299710</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Wasteland Encounters V2 Continued">
-      <Name>2539299261.sbm</Name>
-      <PublishedFileId>2539299261</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Kimi &amp; Qun">
-      <Name>2459246911.sbm</Name>
-      <PublishedFileId>2459246911</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Satreus">
-      <Name>2266665708.sbm</Name>
-      <PublishedFileId>2266665708</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="HNZ Relative Top Speed">
@@ -454,11 +429,6 @@
     <ModItem FriendlyName="MahInd - Info LCDs (No Pb)">
       <Name>3267099357.sbm</Name>
       <PublishedFileId>3267099357</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Previously Owned Economy Ships">
-      <Name>3317449166.sbm</Name>
-      <PublishedFileId>3317449166</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Huge Armor Blocks">
@@ -548,11 +518,6 @@
       <PublishedFileId>1682356734</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Komorebi">
-      <Name>3309805284.sbm</Name>
-      <PublishedFileId>3309805284</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="HnZ Conveyor Pack">
       <Name>3373137874.sbm</Name>
       <PublishedFileId>3373137874</PublishedFileId>
@@ -590,6 +555,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <SessionName>Star System</SessionName>
-  <LastSaveTime>2024-12-15T13:34:02.4765312+08:00</LastSaveTime>
+  <SessionName>Main</SessionName>
+  <LastSaveTime>2025-03-14T01:03:53.6425066+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
