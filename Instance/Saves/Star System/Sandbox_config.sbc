@@ -119,6 +119,7 @@
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <NPCGridClaimTimeLimit>120</NPCGridClaimTimeLimit>
     <SimplifiedSimulation>false</SimplifiedSimulation>
+    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>true</EnableSelectivePhysicsUpdates>
@@ -174,35 +175,19 @@
     <MaxHudChatMessageCount>100</MaxHudChatMessageCount>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="HnZ Tiered Tech Blocks">
-      <Name>2759474323.sbm</Name>
-      <PublishedFileId>2759474323</PublishedFileId>
+    <ModItem FriendlyName="WeaponCore - 2.5">
+      <Name>3154371364.sbm</Name>
+      <PublishedFileId>3154371364</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Flash GPS">
-      <Name>2788240620.sbm</Name>
-      <PublishedFileId>2788240620</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Modular Encounters Systems">
-      <Name>1521905890.sbm</Name>
-      <PublishedFileId>1521905890</PublishedFileId>
+    <ModItem FriendlyName="Aryx Weapon Enterprises Vol. 1 [WeaponCore]">
+      <Name>2530716039.sbm</Name>
+      <PublishedFileId>2530716039</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HnZ Orks">
-      <Name>3371461789.sbm</Name>
-      <PublishedFileId>3371461789</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Text HUD API">
-      <Name>758597413.sbm</Name>
-      <PublishedFileId>758597413</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="HnZ PvE Season">
-      <Name>3420964588.sbm</Name>
-      <PublishedFileId>3420964588</PublishedFileId>
+    <ModItem FriendlyName="Defense Shields - v2.2(8)">
+      <Name>3154379105.sbm</Name>
+      <PublishedFileId>3154379105</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
