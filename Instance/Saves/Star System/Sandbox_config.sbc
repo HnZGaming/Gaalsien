@@ -329,16 +329,6 @@
       <PublishedFileId>2722299710</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Kimi &amp; Qun">
-      <Name>2459246911.sbm</Name>
-      <PublishedFileId>2459246911</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Satreus">
-      <Name>2266665708.sbm</Name>
-      <PublishedFileId>2266665708</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="HNZ Relative Top Speed">
       <Name>2920687365.sbm</Name>
       <PublishedFileId>2920687365</PublishedFileId>
@@ -480,11 +470,6 @@
     <ModItem FriendlyName="Norca Engineers HUD - Coloured -- 1.201 == With Targeting Indicator">
       <Name>1682356734.sbm</Name>
       <PublishedFileId>1682356734</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Komorebi">
-      <Name>3309805284.sbm</Name>
-      <PublishedFileId>3309805284</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="HnZ Conveyor Pack">
