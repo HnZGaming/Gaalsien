@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SessionConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PoiMapCenterX>-2281951</PoiMapCenterX>
+  <PoiMapCenterY>-1972703</PoiMapCenterY>
+  <PoiMapCenterZ>1915038</PoiMapCenterZ>
+  <PoiMapRadius>5000000</PoiMapRadius>
+  <PoiCountPerAxis>4</PoiCountPerAxis>
+  <MaxProgressLevel>5</MaxProgressLevel>
+  <EncounterRadius>10000</EncounterRadius>
+  <EncounterClearance>1000</EncounterClearance>
+  <RandomInvasionChance>0.0001</RandomInvasionChance>
+  <RandomInvasionInterval>3600</RandomInvasionInterval>
+  <EconomyUpdateInterval>1200</EconomyUpdateInterval>
+  <RespawnDatapadTextFormat>Come here: {0}</RespawnDatapadTextFormat>
+  <PlanetaryPois>
+    <Poi X="74847" Y="131185" Z="5710208">Alien</Poi>
+    <Poi X="-290" Y="786" Z="60039">Earth</Poi>
+    <Poi X="910546" Y="11567" Z="1622251">Europa</Poi>
+    <Poi X="1026639" Y="67965" Z="1630386">Mars</Poi>
+    <Poi X="25354" Y="135646" Z="-110868">Moon</Poi>
+    <Poi X="-3937305" Y="-27598" Z="-767083">Pertam</Poi>
+    <Poi X="36929" Y="230197" Z="5787988">Titan</Poi>
+    <Poi X="-313130" Y="-2409336" Z="365378">Triton</Poi>
+  </PlanetaryPois>
+  <Orks>
+    <!-- Space -->
+    <Ork ProgressLevel="5" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Boss-BigMekKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="4" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughShootaboat</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="4" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughDeffShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="4" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-VoidFighta</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="3" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughShootaboat</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="3" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughDeffShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="3" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-VoidFighta</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="2" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="2" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="2" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-VoidFighta</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="1" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="1" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="1" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-VoidFighta</SpawnGroup>
+    </Ork>
+    <!-- Planetary -->
+    <Ork ProgressLevel="5" SpawnType="PlanetaryShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-FlybossCarrier</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="4" SpawnType="PlanetaryShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="4" SpawnType="PlanetaryShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughHeavyFighta</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="3" SpawnType="PlanetaryShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="3" SpawnType="PlanetaryShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="2" SpawnType="PlanetaryShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="2" SpawnType="PlanetaryShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="1" SpawnType="PlanetaryShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="1" SpawnType="PlanetaryShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
+    </Ork>
+  </Orks>
+  <PoiMerchants>
+    <!-- Space -->
+    <PoiMerchant SpawnType="SpaceStation">Economy_SpaceStation_1</PoiMerchant>
+    <PoiMerchant SpawnType="SpaceStation">Economy_SpaceStation_2</PoiMerchant>
+    <PoiMerchant SpawnType="SpaceStation">Economy_SpaceStation_3</PoiMerchant>
+    <PoiMerchant SpawnType="SpaceStation">Economy_SpaceStation_4</PoiMerchant>
+    <PoiMerchant SpawnType="SpaceStation">Economy_SpaceStation_5</PoiMerchant>
+    <!-- Planetary -->
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="22">Economy_Outpost_1</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="50">Economy_Outpost_2</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="20">Economy_Outpost_3</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="30">Economy_Outpost_4</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="25">Economy_Outpost_5</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="30">Economy_Outpost_6</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="00">Economy_Outpost_7</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="35">Economy_Outpost_8</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="35">Economy_Outpost_9</PoiMerchant>
+  </PoiMerchants>
+  <StoreItems>
+    <StoreItem Type="Component" Subtype="Tech2x" PricePerUnit="200000" MinAmountPerUpdate="8" MaxAmountPerUpdate="16" MaxAmount="400" />
+    <StoreItem Type="Component" Subtype="Tech4x" PricePerUnit="400000" MinAmountPerUpdate="4" MaxAmountPerUpdate="8" MaxAmount="200" />
+    <StoreItem Type="Component" Subtype="Tech8x" PricePerUnit="800000" MinAmountPerUpdate="2" MaxAmountPerUpdate="4" MaxAmount="100" />
+  </StoreItems>
+</SessionConfig>

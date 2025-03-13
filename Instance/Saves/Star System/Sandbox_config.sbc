@@ -176,11 +176,13 @@
       <Name>1965654081.sbm</Name>
       <PublishedFileId>1965654081</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
     </ModItem>
     <ModItem FriendlyName="Modular Encounters Systems">
       <Name>1521905890.sbm</Name>
       <PublishedFileId>1521905890</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
     </ModItem>
     <ModItem FriendlyName="AQD - Conveyor Expansion">
       <Name>1864380341.sbm</Name>
@@ -191,6 +193,7 @@
       <Name>758597413.sbm</Name>
       <PublishedFileId>758597413</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
     </ModItem>
     <ModItem FriendlyName="[VSI] Recolorable Thrusters">
       <Name>1354870812.sbm</Name>
@@ -312,11 +315,6 @@
       <PublishedFileId>2852753555</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="MES Custom Boss Spawner">
-      <Name>2783946867.sbm</Name>
-      <PublishedFileId>2783946867</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Flash GPS">
       <Name>2788240620.sbm</Name>
       <PublishedFileId>2788240620</PublishedFileId>
@@ -353,16 +351,6 @@
     <ModItem FriendlyName="The Sun is not yellow">
       <Name>2722299710.sbm</Name>
       <PublishedFileId>2722299710</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Kimi &amp; Qun">
-      <Name>2459246911.sbm</Name>
-      <PublishedFileId>2459246911</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Satreus">
-      <Name>2266665708.sbm</Name>
-      <PublishedFileId>2266665708</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="HNZ Relative Top Speed">
@@ -567,6 +555,11 @@
     <ModItem FriendlyName="Emissive Letters &amp; Symbols">
       <Name>3347016415.sbm</Name>
       <PublishedFileId>3347016415</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="HnZ Co-Op Season">
+      <Name>3420964588.sbm</Name>
+      <PublishedFileId>3420964588</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
