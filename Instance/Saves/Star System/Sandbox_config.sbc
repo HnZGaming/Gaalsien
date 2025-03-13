@@ -178,6 +178,7 @@
       <Name>1965654081.sbm</Name>
       <PublishedFileId>1965654081</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
     </ModItem>
     <ModItem FriendlyName="AQD - Conveyor Expansion">
       <Name>1864380341.sbm</Name>
@@ -188,6 +189,7 @@
       <Name>758597413.sbm</Name>
       <PublishedFileId>758597413</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
     </ModItem>
     <ModItem FriendlyName="[VSI] Recolorable Thrusters">
       <Name>1354870812.sbm</Name>
@@ -447,11 +449,6 @@
     <ModItem FriendlyName="Armored Hangar Doors (+Small Grid)">
       <Name>2230891848.sbm</Name>
       <PublishedFileId>2230891848</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="EZGPS - A Better way to Navigate in Space - Server Edition">
-      <Name>2376008977.sbm</Name>
-      <PublishedFileId>2376008977</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Tank Tracks Framework &amp; API">

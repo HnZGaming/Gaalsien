@@ -53,6 +53,10 @@
         {
             "filePath": "Instance\\Saves\\Star System\\Storage\\2783946867.sbm_HNZ\\CustomBossSpawner.cfg",
             "group": "Default"
+        },
+        {
+            "filePath": "Instance\\Saves\\Star System\\Storage\\3420964588.sbm_HnzCoopSeason\\HnzCoopSeason.Config.xml",
+            "group": "Default"
         }
     ],
     "sqltools.connections": [
