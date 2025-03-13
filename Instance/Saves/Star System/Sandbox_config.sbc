@@ -553,6 +553,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <SessionName>PvP</SessionName>
+  <SessionName>PVP</SessionName>
   <LastSaveTime>2024-12-15T13:32:21.9364131+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
