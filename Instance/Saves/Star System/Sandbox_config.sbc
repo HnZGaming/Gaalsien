@@ -506,16 +506,6 @@
       <PublishedFileId>1682356734</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="SL Static Drills">
-      <Name>3161985649.sbm</Name>
-      <PublishedFileId>3161985649</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Komorebi">
-      <Name>3309805284.sbm</Name>
-      <PublishedFileId>3309805284</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="HnZ Conveyor Pack">
       <Name>3373137874.sbm</Name>
       <PublishedFileId>3373137874</PublishedFileId>
