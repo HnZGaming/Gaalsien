@@ -35,35 +35,6 @@
     <string>BlackList_Grid_Name_Here</string>
   </NpcGridNameBlacklist>
   <NpcSpawnGroupBlacklist>
-    <string>Orks-SpawnGroup-Boss-BigMekKrooza</string>
-    <string>Orks-SpawnGroup-Boss-KillaKrooZa</string>
-    <string>Orks-SpawnGroup-Ship-BlastaBarge</string>
-    <string>Orks-SpawnGroup-Ship-DakkaJet</string>
-    <string>Orks-SpawnGroup-Ship-DeffShip</string>
-    <string>Orks-SpawnGroup-Ship-FightaBomba</string>
-    <string>Orks-SpawnGroup-Ship-FlybossCarrier</string>
-    <string>Orks-SpawnGroup-Ship-HeavyFighta</string>
-    <string>Orks-SpawnGroup-Ship-LiteKrooza</string>
-    <string>Orks-SpawnGroup-Ship-RavagerAttackShip</string>
-    <string>Orks-SpawnGroup-Ship-SavageGunship</string>
-    <string>Orks-SpawnGroup-Ship-Shootaboat</string>
-    <string>Orks-SpawnGroup-Ship-ToughBlastaBarge</string>
-    <string>Orks-SpawnGroup-Ship-ToughDakkaJet</string>
-    <string>Orks-SpawnGroup-Ship-ToughDeffShip</string>
-    <string>Orks-SpawnGroup-Ship-ToughFightaBomba</string>
-    <string>Orks-SpawnGroup-Ship-ToughHeavyFighta</string>
-    <string>Orks-SpawnGroup-Ship-ToughLiteKrooza</string>
-    <string>Orks-SpawnGroup-Ship-ToughRavagerAttackShip</string>
-    <string>Orks-SpawnGroup-Ship-ToughSavageGunship</string>
-    <string>Orks-SpawnGroup-Ship-ToughShootaboat</string>
-    <string>Orks-SpawnGroup-Ship-ToughVoidFighta</string>
-    <string>Orks-SpawnGroup-Ship-VoidFighta</string>
-    <string>Orks-SpawnGroup-Station-AirMekWorkshop</string>
-    <string>Orks-SpawnGroup-Station-MekbossStation</string>
-    <string>Orks-SpawnGroup-Station-ScrapFort</string>
-    <string>Orks-SpawnGroup-Station-ScrappaHut</string>
-    <string>Orks-SpawnGroup-Station-WAAAGHTower</string>
-    <string>Orks-SpawnGroup-Test</string>
   </NpcSpawnGroupBlacklist>
   <UseEconomyBuyingReputationIncrease>true</UseEconomyBuyingReputationIncrease>
   <EconomyBuyingReputationCostAmount>500000</EconomyBuyingReputationCostAmount>
