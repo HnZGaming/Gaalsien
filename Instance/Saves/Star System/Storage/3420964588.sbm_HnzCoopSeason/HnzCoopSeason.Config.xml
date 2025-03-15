@@ -14,9 +14,7 @@
   <RespawnDatapadTextFormat>Come here: {0}</RespawnDatapadTextFormat>
   <PlanetaryPois>
     <Poi X="-290" Y="786" Z="60039">Earth</Poi>
-    <Poi X="910546" Y="11567" Z="1622251">Europa</Poi>
     <Poi X="1026639" Y="67965" Z="1630386">Mars</Poi>
-    <Poi X="25354" Y="135646" Z="-110868">Moon</Poi>
     <Poi X="-3937305" Y="-27598" Z="-767083">Pertam</Poi>
     <Poi X="-313130" Y="-2409336" Z="365378">Triton</Poi>
   </PlanetaryPois>
