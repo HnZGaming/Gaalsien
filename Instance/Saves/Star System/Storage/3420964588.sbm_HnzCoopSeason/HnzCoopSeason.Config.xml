@@ -7,16 +7,20 @@
   <PoiCountPerAxis>4</PoiCountPerAxis>
   <MaxProgressLevel>5</MaxProgressLevel>
   <EncounterRadius>10000</EncounterRadius>
-  <EncounterClearance>1000</EncounterClearance>
-  <RandomInvasionChance>0.0001</RandomInvasionChance>
+  <EncounterClearance>500</EncounterClearance>
+  <RandomInvasionChance>0</RandomInvasionChance>
   <RandomInvasionInterval>3600</RandomInvasionInterval>
   <EconomyUpdateInterval>1200</EconomyUpdateInterval>
   <RespawnDatapadTextFormat>Come here: {0}</RespawnDatapadTextFormat>
   <PlanetaryPois>
-    <Poi X="-290" Y="786" Z="60039">Earth</Poi>
-    <Poi X="1026639" Y="67965" Z="1630386">Mars</Poi>
-    <Poi X="-3937305" Y="-27598" Z="-767083">Pertam</Poi>
-    <Poi X="-313130" Y="-2409336" Z="365378">Triton</Poi>
+    <Poi X="74847" Y="131185" Z="5710208" Atmospheric="true">Alien</Poi>
+    <Poi X="-290" Y="786" Z="60039" Atmospheric="true">Earth</Poi>
+    <Poi X="910546" Y="11567" Z="1622251">Europa</Poi>
+    <Poi X="1026639" Y="67965" Z="1630386" Atmospheric="true">Mars</Poi>
+    <Poi X="25354" Y="135646" Z="-110868">Moon</Poi>
+    <Poi X="-3937305" Y="-27598" Z="-767083" Atmospheric="true">Pertam</Poi>
+    <Poi X="36929" Y="230197" Z="5787988">Titan</Poi>
+    <Poi X="-313130" Y="-2409336" Z="365378" Atmospheric="true">Triton</Poi>
   </PlanetaryPois>
   <Orks>
     <!-- Space -->
@@ -80,48 +84,48 @@
     <Ork ProgressLevel="1" SpawnType="SpaceShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-VoidFighta</SpawnGroup>
     </Ork>
-    <!-- Planetary -->
-    <Ork ProgressLevel="5" SpawnType="PlanetaryShip">
+    <!-- Atmospheric -->
+    <Ork ProgressLevel="5" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-FlybossCarrier</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="4" SpawnType="PlanetaryShip">
+    <Ork ProgressLevel="4" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="4" SpawnType="PlanetaryShip">
+    <Ork ProgressLevel="4" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughHeavyFighta</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="3" SpawnType="PlanetaryShip">
+    <Ork ProgressLevel="3" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="3" SpawnType="PlanetaryShip">
+    <Ork ProgressLevel="3" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="2" SpawnType="PlanetaryShip">
+    <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="2" SpawnType="PlanetaryShip">
+    <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="1" SpawnType="PlanetaryShip">
+    <Ork ProgressLevel="1" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="1" SpawnType="PlanetaryShip">
+    <Ork ProgressLevel="1" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
     </Ork>
   </Orks>
