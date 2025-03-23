@@ -532,11 +532,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="HnZ Mod Adjuster (PvP)">
-      <Name>3386471387.sbm</Name>
-      <PublishedFileId>3386471387</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Space Limited KOTH ReBuild - Kubomi">
       <Name>2935687497.sbm</Name>
       <PublishedFileId>2935687497</PublishedFileId>
