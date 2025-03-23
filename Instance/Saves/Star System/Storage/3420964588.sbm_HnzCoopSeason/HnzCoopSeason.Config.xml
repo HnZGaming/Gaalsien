@@ -11,7 +11,7 @@
   <RandomInvasionChance>0</RandomInvasionChance>
   <RandomInvasionInterval>3600</RandomInvasionInterval>
   <EconomyUpdateInterval>1200</EconomyUpdateInterval>
-  <RespawnDatapadTextFormat>Come here: {0}</RespawnDatapadTextFormat>
+  <RespawnDatapadTextFormat>We have been waiting for you! Our universe has been taken over by a bunch of Orks and we can't do trade. Please remove these Orks from our trading point: {0}</RespawnDatapadTextFormat>
   <PlanetaryPois>
     <Poi X="-290" Y="786" Z="60039" Atmospheric="true">Earth</Poi>
     <Poi X="910546" Y="11567" Z="1622251">Europa</Poi>
@@ -23,108 +23,149 @@
   <Orks>
     <!-- Space -->
     <Ork ProgressLevel="5" SpawnType="SpaceShip">
-      <SpawnGroup>Orks-SpawnGroup-Boss-BigMekKrooza</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
-    </Ork>
-    <Ork ProgressLevel="4" SpawnType="SpaceShip">
-      <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-ToughShootaboat</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
-    </Ork>
-    <Ork ProgressLevel="4" SpawnType="SpaceShip">
-      <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-ToughDeffShip</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughLiteKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughLiteKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughBlastaBarge</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="5" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughRavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughSavageGunship</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="4" SpawnType="SpaceShip">
-      <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughDeffShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughBlastaBarge</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="4" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughLiteKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughBlastaBarge</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="4" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughRavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughSavageGunship</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="4" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughShootaboat</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughVoidFighta</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-VoidFighta</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="3" SpawnType="SpaceShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-ToughShootaboat</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
-    </Ork>
-    <Ork ProgressLevel="3" SpawnType="SpaceShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-ToughDeffShip</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughBlastaBarge</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="3" SpawnType="SpaceShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughSavageGunship</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="3" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughVoidFighta</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-VoidFighta</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="2" SpawnType="SpaceShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="2" SpawnType="SpaceShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="2" SpawnType="SpaceShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="2" SpawnType="SpaceShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-VoidFighta</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="1" SpawnType="SpaceShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="1" SpawnType="SpaceShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="1" SpawnType="SpaceShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-VoidFighta</SpawnGroup>
     </Ork>
     <!-- Atmospheric -->
     <Ork ProgressLevel="5" SpawnType="AtmosphericShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-FlybossCarrier</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
-    </Ork>
-    <Ork ProgressLevel="4" SpawnType="AtmosphericShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
-    </Ork>
-    <Ork ProgressLevel="4" SpawnType="AtmosphericShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-ToughHeavyFighta</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
-    </Ork>
-    <Ork ProgressLevel="3" SpawnType="AtmosphericShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
-    </Ork>
-    <Ork ProgressLevel="3" SpawnType="AtmosphericShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughDeffShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughRavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughDakkaJet</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
-    </Ork>
-    <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
-    </Ork>
-    <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="5" SpawnType="AtmosphericShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughLiteKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughShootaboat</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="1" SpawnType="AtmosphericShip">
+    <Ork ProgressLevel="4" SpawnType="AtmosphericShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughRavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughDakkaJet</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="4" SpawnType="AtmosphericShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughShootaboat</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="1" SpawnType="AtmosphericShip">
+    <Ork ProgressLevel="3" SpawnType="AtmosphericShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughDakkaJet</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="3" SpawnType="AtmosphericShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="3" SpawnType="AtmosphericShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughHeavyFighta</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="1" SpawnType="AtmosphericShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="1" SpawnType="AtmosphericShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
+    </Ork>
+    <Ork ProgressLevel="1" SpawnType="AtmosphericShip">
+      <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
     </Ork>
   </Orks>
   <PoiMerchants>
