@@ -170,21 +170,21 @@
   </Orks>
   <PoiMerchants>
     <!-- Space -->
-    <PoiMerchant SpawnType="SpaceStation">Economy_SpaceStation_1</PoiMerchant>
-    <PoiMerchant SpawnType="SpaceStation">Economy_SpaceStation_2</PoiMerchant>
-    <PoiMerchant SpawnType="SpaceStation">Economy_SpaceStation_3</PoiMerchant>
-    <PoiMerchant SpawnType="SpaceStation">Economy_SpaceStation_4</PoiMerchant>
-    <PoiMerchant SpawnType="SpaceStation">Economy_SpaceStation_5</PoiMerchant>
+    <PoiMerchant SpawnType="SpaceStation">Coop_Economy_SpaceStation_1</PoiMerchant>
+    <PoiMerchant SpawnType="SpaceStation">Coop_Economy_SpaceStation_2</PoiMerchant>
+    <PoiMerchant SpawnType="SpaceStation">Coop_Economy_SpaceStation_3</PoiMerchant>
+    <PoiMerchant SpawnType="SpaceStation">Coop_Economy_SpaceStation_4</PoiMerchant>
+    <PoiMerchant SpawnType="SpaceStation">Coop_Economy_SpaceStation_5</PoiMerchant>
     <!-- Planetary -->
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="22">Economy_Outpost_1</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="50">Economy_Outpost_2</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="20">Economy_Outpost_3</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="30">Economy_Outpost_4</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="25">Economy_Outpost_5</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="30">Economy_Outpost_6</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="00">Economy_Outpost_7</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="35">Economy_Outpost_8</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="35">Economy_Outpost_9</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="10">Coop_Economy_Outpost_1</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="4">Coop_Economy_Outpost_2</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="20">Coop_Economy_Outpost_3</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="43">Coop_Economy_Outpost_4</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="18">Coop_Economy_Outpost_5</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="26">Coop_Economy_Outpost_6</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="26">Coop_Economy_Outpost_7</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="25">Coop_Economy_Outpost_8</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="19">Coop_Economy_Outpost_9</PoiMerchant>
   </PoiMerchants>
   <StoreItems>
     <StoreItem Type="Component" Subtype="Tech2x" PricePerUnit="200000" MinAmountPerUpdate="8" MaxAmountPerUpdate="16" MaxAmount="400" />
