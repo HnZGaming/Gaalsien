@@ -6,5 +6,5 @@
   <AllowAntiEnergyInhibitorSuitUpgrade>true</AllowAntiEnergyInhibitorSuitUpgrade>
   <AllowSolarChargingSuitUpgrade>true</AllowSolarChargingSuitUpgrade>
   <AllowDamageReductionSuitUpgrade>true</AllowDamageReductionSuitUpgrade>
-  <ModVersion>2.71.25</ModVersion>
+  <ModVersion>2.71.28</ModVersion>
 </ConfigProgression>
