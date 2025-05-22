@@ -111,9 +111,9 @@
     <Ork ProgressLevel="5" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughDeffShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughRavagerAttackShip</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-ToughDakkaJet</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="5" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughLiteKrooza</SpawnGroup>
@@ -124,20 +124,15 @@
     </Ork>
     <Ork ProgressLevel="4" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughRavagerAttackShip</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-ToughDakkaJet</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="4" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughShootaboat</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
-    </Ork>
-    <Ork ProgressLevel="3" SpawnType="AtmosphericShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-ToughDakkaJet</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="3" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
@@ -155,7 +150,7 @@
     </Ork>
     <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
@@ -164,9 +159,6 @@
     <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
-    </Ork>
-    <Ork ProgressLevel="1" SpawnType="AtmosphericShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-DakkaJet</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="1" SpawnType="AtmosphericShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
