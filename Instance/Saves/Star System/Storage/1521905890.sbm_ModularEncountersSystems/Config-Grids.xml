@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <ConfigGrids xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <EnableGlobalNPCWeaponRandomizer>false</EnableGlobalNPCWeaponRandomizer>
-  <EnableGlobalNPCShieldProvider>false</EnableGlobalNPCShieldProvider>
+  <EnableGlobalNPCWeaponRandomizer>true</EnableGlobalNPCWeaponRandomizer>
+  <EnableGlobalNPCShieldProvider>true</EnableGlobalNPCShieldProvider>
   <WeaponReplacerBlacklist>
     <string>1380830774</string>
     <string>Large_SC_LaserDrill_HiddenStatic</string>
@@ -28,8 +28,8 @@
   <WeaponReplacerMassLimits>false</WeaponReplacerMassLimits>
   <WeaponReplacerUseTotalGridMassMultiplier>false</WeaponReplacerUseTotalGridMassMultiplier>
   <WeaponReplacerTotalGridMassMultiplier>1.2</WeaponReplacerTotalGridMassMultiplier>
-  <RandomizedWeaponsUseFullRange>false</RandomizedWeaponsUseFullRange>
-  <ShieldProviderChance>0</ShieldProviderChance>
+  <RandomizedWeaponsUseFullRange>true</RandomizedWeaponsUseFullRange>
+  <ShieldProviderChance>100</ShieldProviderChance>
   <UseGlobalBlockReplacer>true</UseGlobalBlockReplacer>
   <GlobalBlockReplacerReference />
   <GlobalBlockReplacerProfiles>
