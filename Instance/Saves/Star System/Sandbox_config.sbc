@@ -538,6 +538,11 @@
       <PublishedFileId>3347016415</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="HNZ Tiered Prototech">
+      <Name>3498756550.sbm</Name>
+      <PublishedFileId>3498756550</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>PVP</SessionName>
   <LastSaveTime>2024-12-15T13:32:21.9364131+08:00</LastSaveTime>
