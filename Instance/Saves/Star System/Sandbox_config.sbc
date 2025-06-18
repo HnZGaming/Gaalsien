@@ -543,6 +543,12 @@
       <PublishedFileId>3498756550</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Flash GPS V2">
+      <Name>3493139056.sbm</Name>
+      <PublishedFileId>3493139056</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>PVP</SessionName>
   <LastSaveTime>2024-12-15T13:32:21.9364131+08:00</LastSaveTime>
