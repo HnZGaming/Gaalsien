@@ -23,7 +23,7 @@
   <WeaponReplacerWhitelist />
   <WeaponReplacerTargetBlacklist />
   <WeaponReplacerTargetWhitelist />
-  <RandomWeaponChance>100</RandomWeaponChance>
+  <RandomWeaponChance>0</RandomWeaponChance>
   <RandomWeaponSizeVariance>-1</RandomWeaponSizeVariance>
   <WeaponReplacerMassLimits>false</WeaponReplacerMassLimits>
   <WeaponReplacerUseTotalGridMassMultiplier>false</WeaponReplacerUseTotalGridMassMultiplier>
