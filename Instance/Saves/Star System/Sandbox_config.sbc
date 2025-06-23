@@ -508,6 +508,17 @@
       <PublishedFileId>3498756550</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="HNZ Tiered Prototech">
+      <Name>3498756550.sbm</Name>
+      <PublishedFileId>3498756550</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Flash GPS V2">
+      <Name>3493139056.sbm</Name>
+      <PublishedFileId>3493139056</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>Creative</SessionName>
   <LastSaveTime>2024-11-18T18:53:47.584855+08:00</LastSaveTime>
