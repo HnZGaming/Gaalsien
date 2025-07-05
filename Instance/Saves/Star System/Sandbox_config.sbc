@@ -68,7 +68,7 @@
     <StartInRespawnScreen>true</StartInRespawnScreen>
     <EnableVoxelDestruction>true</EnableVoxelDestruction>
     <MaxDrones>5</MaxDrones>
-    <EnableDrones>true</EnableDrones>
+    <EnableDrones>false</EnableDrones>
     <EnableWolfs>false</EnableWolfs>
     <EnableSpiders>false</EnableSpiders>
     <FloraDensityMultiplier>1</FloraDensityMultiplier>
@@ -162,7 +162,7 @@
     <GlobalEncounterRemovalTimeClock>30</GlobalEncounterRemovalTimeClock>
     <EncounterDensity>0.35</EncounterDensity>
     <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
-    <EnablePlanetaryEncounters>true</EnablePlanetaryEncounters>
+    <EnablePlanetaryEncounters>false</EnablePlanetaryEncounters>
     <PlanetaryEncounterTimerMin>15</PlanetaryEncounterTimerMin>
     <PlanetaryEncounterTimerMax>30</PlanetaryEncounterTimerMax>
     <PlanetaryEncounterTimerFirst>5</PlanetaryEncounterTimerFirst>
@@ -181,12 +181,6 @@
     <ModItem FriendlyName="Rich HUD Master">
       <Name>1965654081.sbm</Name>
       <PublishedFileId>1965654081</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Modular Encounters Systems">
-      <Name>1521905890.sbm</Name>
-      <PublishedFileId>1521905890</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
@@ -501,11 +495,6 @@
     <ModItem FriendlyName="Emissive Letters &amp; Symbols">
       <Name>3347016415.sbm</Name>
       <PublishedFileId>3347016415</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="HNZ Tiered Prototech">
-      <Name>3498756550.sbm</Name>
-      <PublishedFileId>3498756550</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="HNZ Tiered Prototech">
