@@ -4,7 +4,7 @@
   <PoiMapCenterY>-1972703</PoiMapCenterY>
   <PoiMapCenterZ>1915038</PoiMapCenterZ>
   <PoiMapRadius>5000000</PoiMapRadius>
-  <PoiCountPerAxis>4</PoiCountPerAxis>
+  <PoiCountPerAxis>5</PoiCountPerAxis>
   <MaxProgressLevel>5</MaxProgressLevel>
   <EncounterRadius>10000</EncounterRadius>
   <EncounterClearance>500</EncounterClearance>
