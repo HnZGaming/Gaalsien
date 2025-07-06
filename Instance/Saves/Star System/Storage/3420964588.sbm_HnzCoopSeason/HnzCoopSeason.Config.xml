@@ -77,11 +77,6 @@
       <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="3" SpawnType="SpaceShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-ToughVoidFighta</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
-      <SpawnGroup>Orks-SpawnGroup-Ship-VoidFighta</SpawnGroup>
-    </Ork>
     <Ork ProgressLevel="2" SpawnType="SpaceShip">
       <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
