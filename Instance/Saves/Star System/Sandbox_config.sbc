@@ -538,9 +538,9 @@
       <PublishedFileId>3347016415</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HnZ Co-Op Season">
-      <Name>3420964588.sbm</Name>
-      <PublishedFileId>3420964588</PublishedFileId>
+    <ModItem FriendlyName="HnZ Coop Season">
+      <Name>3523668242.sbm</Name>
+      <PublishedFileId>3523668242</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="HNZ Tiered Prototech">
@@ -556,5 +556,5 @@
     </ModItem>
   </Mods>
   <SessionName>Main</SessionName>
-  <LastSaveTime>2025-06-04T19:38:33.4058095+08:00</LastSaveTime>
+  <LastSaveTime>2025-07-13T08:04:25.8694339+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
