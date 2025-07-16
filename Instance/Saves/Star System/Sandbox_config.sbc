@@ -554,6 +554,11 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem FriendlyName="Suppress Vanilla Cargo Ships">
+      <Name>888457124.sbm</Name>
+      <PublishedFileId>888457124</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Main</SessionName>
   <LastSaveTime>2025-07-13T08:04:25.8694339+08:00</LastSaveTime>
