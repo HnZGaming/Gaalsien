@@ -13,11 +13,11 @@
   <EconomyUpdateInterval>1200</EconomyUpdateInterval>
   <RespawnDatapadTextFormat>We have been waiting for you! Our universe has been taken over by a bunch of Orks and we can't do trade. Please remove these Orks from our trading point: {0}</RespawnDatapadTextFormat>
   <ProgressionLevels>
-    <Level Level="1" MinPlayerCount="1" />
-    <Level Level="2" MinPlayerCount="1" />
-    <Level Level="3" MinPlayerCount="2" />
-    <Level Level="4" MinPlayerCount="2" />
-    <Level Level="5" MinPlayerCount="3" />
+    <Level Level="1" MinPlayerCount="2" />
+    <Level Level="2" MinPlayerCount="2" />
+    <Level Level="3" MinPlayerCount="3" />
+    <Level Level="4" MinPlayerCount="3" />
+    <Level Level="5" MinPlayerCount="4" />
   </ProgressionLevels>
   <PlanetaryPois>
     <Poi X="-290" Y="786" Z="60039" Atmospheric="true">Earth</Poi>
