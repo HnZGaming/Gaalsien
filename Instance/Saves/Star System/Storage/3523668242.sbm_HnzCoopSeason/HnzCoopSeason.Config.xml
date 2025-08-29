@@ -4,7 +4,7 @@
   <PoiMapCenterY>-1972703</PoiMapCenterY>
   <PoiMapCenterZ>1915038</PoiMapCenterZ>
   <PoiMapRadius>5000000</PoiMapRadius>
-  <PoiCountPerAxis>4</PoiCountPerAxis>
+  <PoiCountPerAxis>5</PoiCountPerAxis>
   <MaxProgressLevel>5</MaxProgressLevel>
   <EncounterRadius>10000</EncounterRadius>
   <EncounterClearance>500</EncounterClearance>
@@ -13,11 +13,11 @@
   <EconomyUpdateInterval>1200</EconomyUpdateInterval>
   <RespawnDatapadTextFormat>We have been waiting for you! Our universe has been taken over by a bunch of Orks and we can't do trade. Please remove these Orks from our trading point: {0}</RespawnDatapadTextFormat>
   <ProgressionLevels>
-    <Level Level="1" MinPlayerCount="1" />
-    <Level Level="2" MinPlayerCount="1" />
-    <Level Level="3" MinPlayerCount="2" />
-    <Level Level="4" MinPlayerCount="2" />
-    <Level Level="5" MinPlayerCount="3" />
+    <Level Level="1" MinPlayerCount="2" />
+    <Level Level="2" MinPlayerCount="2" />
+    <Level Level="3" MinPlayerCount="3" />
+    <Level Level="4" MinPlayerCount="3" />
+    <Level Level="5" MinPlayerCount="4" />
   </ProgressionLevels>
   <PlanetaryPois>
     <Poi X="-290" Y="786" Z="60039" Atmospheric="true">Earth</Poi>
@@ -170,15 +170,7 @@
     <PoiMerchant SpawnType="SpaceStation">Coop_Economy_SpaceStation_4</PoiMerchant>
     <PoiMerchant SpawnType="SpaceStation">Coop_Economy_SpaceStation_5</PoiMerchant>
     <!-- Planetary -->
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="10">Coop_Economy_Outpost_1</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="4">Coop_Economy_Outpost_2</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="20">Coop_Economy_Outpost_3</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="43">Coop_Economy_Outpost_4</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="18">Coop_Economy_Outpost_5</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="26">Coop_Economy_Outpost_6</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="26">Coop_Economy_Outpost_7</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="25">Coop_Economy_Outpost_8</PoiMerchant>
-    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="19">Coop_Economy_Outpost_9</PoiMerchant>
+    <PoiMerchant SpawnType="PlanetaryStation" OffsetY="13">Coop_Economy_Outpost_1</PoiMerchant>
   </PoiMerchants>
   <StoreItems>
     <StoreItem Type="Component" Subtype="Tech2x" PricePerUnit="200000" MinAmountPerUpdate="8" MaxAmountPerUpdate="16" MaxAmount="400" />
