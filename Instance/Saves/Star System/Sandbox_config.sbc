@@ -425,39 +425,9 @@
       <PublishedFileId>3267099357</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Huge Armor Blocks">
-      <Name>2764158540.sbm</Name>
-      <PublishedFileId>2764158540</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Huge Refinery + Assembler">
-      <Name>2571508822.sbm</Name>
-      <PublishedFileId>2571508822</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Huge Landing Gear">
-      <Name>2542224600.sbm</Name>
-      <PublishedFileId>2542224600</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Huge Hydrogen Tanks">
-      <Name>2500505175.sbm</Name>
-      <PublishedFileId>2500505175</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Huge Gyroscopes">
-      <Name>2468994674.sbm</Name>
-      <PublishedFileId>2468994674</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Huge Batteries">
-      <Name>2461941910.sbm</Name>
-      <PublishedFileId>2461941910</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Huge O2/H2 Generators">
-      <Name>2546592707.sbm</Name>
-      <PublishedFileId>2546592707</PublishedFileId>
+    <ModItem FriendlyName="HnZ Huge Blocks">
+      <Name>3563781902.sbm</Name>
+      <PublishedFileId>3563781902</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Light Booster x10">
