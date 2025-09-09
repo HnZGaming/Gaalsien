@@ -175,7 +175,7 @@
     <EnableUnsafePistonImpulses>false</EnableUnsafePistonImpulses>
     <EnableUnsafeRotorTorques>false</EnableUnsafeRotorTorques>
     <EnableRadiation>true</EnableRadiation>
-    <SolarRadiationIntensity>1</SolarRadiationIntensity>
+    <SolarRadiationIntensity>0.1</SolarRadiationIntensity>
     <ResetForageableItems>true</ResetForageableItems>
     <ResetForageableItemsTimeM>30</ResetForageableItemsTimeM>
     <ResetForageableItemsDistance>3000</ResetForageableItemsDistance>
