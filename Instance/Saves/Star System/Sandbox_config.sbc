@@ -72,8 +72,6 @@
     <EnableWolfs>false</EnableWolfs>
     <EnableSpiders>false</EnableSpiders>
     <FloraDensityMultiplier>1</FloraDensityMultiplier>
-    <EnableStructuralSimulation>false</EnableStructuralSimulation>
-    <MaxActiveFracturePieces>50</MaxActiveFracturePieces>
     <BlockTypeLimits>
       <dictionary />
     </BlockTypeLimits>
@@ -529,5 +527,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2024-12-15T13:32:21.9364131+08:00</LastSaveTime>
+  <LastSaveTime>2025-09-09T01:55:14.0101599+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

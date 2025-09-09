@@ -8,16 +8,15 @@
   <MaxProgressLevel>5</MaxProgressLevel>
   <EncounterRadius>10000</EncounterRadius>
   <EncounterClearance>500</EncounterClearance>
-  <RandomInvasionChance>0</RandomInvasionChance>
-  <RandomInvasionInterval>3600</RandomInvasionInterval>
+  <InvasionIntervalHours>2</InvasionIntervalHours>
   <EconomyUpdateInterval>1200</EconomyUpdateInterval>
   <RespawnDatapadTextFormat>We have been waiting for you! Our universe has been taken over by a bunch of Orks and we can't do trade. Please remove these Orks from our trading point: {0}</RespawnDatapadTextFormat>
   <ProgressionLevels>
     <Level Level="1" MinPlayerCount="2" />
     <Level Level="2" MinPlayerCount="2" />
     <Level Level="3" MinPlayerCount="3" />
-    <Level Level="4" MinPlayerCount="3" />
-    <Level Level="5" MinPlayerCount="4" />
+    <Level Level="4" MinPlayerCount="4" />
+    <Level Level="5" MinPlayerCount="5" />
   </ProgressionLevels>
   <PlanetaryPois>
     <Poi X="-290" Y="786" Z="60039" Atmospheric="true">Earth</Poi>
