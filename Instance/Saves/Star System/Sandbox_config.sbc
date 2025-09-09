@@ -72,8 +72,6 @@
     <EnableWolfs>false</EnableWolfs>
     <EnableSpiders>false</EnableSpiders>
     <FloraDensityMultiplier>1</FloraDensityMultiplier>
-    <EnableStructuralSimulation>false</EnableStructuralSimulation>
-    <MaxActiveFracturePieces>50</MaxActiveFracturePieces>
     <BlockTypeLimits>
       <dictionary />
     </BlockTypeLimits>
@@ -176,6 +174,14 @@
     <EnableShareInertiaTensor>true</EnableShareInertiaTensor>
     <EnableUnsafePistonImpulses>false</EnableUnsafePistonImpulses>
     <EnableUnsafeRotorTorques>false</EnableUnsafeRotorTorques>
+    <EnableRadiation>true</EnableRadiation>
+    <SolarRadiationIntensity>0</SolarRadiationIntensity>
+    <ResetForageableItems>true</ResetForageableItems>
+    <ResetForageableItemsTimeM>30</ResetForageableItemsTimeM>
+    <ResetForageableItemsDistance>3000</ResetForageableItemsDistance>
+    <FoodConsumptionRate>0</FoodConsumptionRate>
+    <EnableSurvivalBuffs>true</EnableSurvivalBuffs>
+    <EnableReducedStatsOnRespawn>true</EnableReducedStatsOnRespawn>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Rich HUD Master">
@@ -436,11 +442,6 @@
       <PublishedFileId>2863089693</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Norca Engineers HUD - Coloured -- 1.201 == With Targeting Indicator">
-      <Name>1682356734.sbm</Name>
-      <PublishedFileId>1682356734</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="HnZ Conveyor Pack">
       <Name>3373137874.sbm</Name>
       <PublishedFileId>3373137874</PublishedFileId>
@@ -478,12 +479,7 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="Suppress Vanilla Cargo Ships">
-      <Name>888457124.sbm</Name>
-      <PublishedFileId>888457124</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
   </Mods>
-  <SessionName>Creative</SessionName>
-  <LastSaveTime>2024-11-18T18:53:47.584855+08:00</LastSaveTime>
+  <SessionName>Star System</SessionName>
+  <LastSaveTime>2025-09-09T12:17:04.7747015+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
