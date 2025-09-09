@@ -179,7 +179,7 @@
     <ResetForageableItems>true</ResetForageableItems>
     <ResetForageableItemsTimeM>30</ResetForageableItemsTimeM>
     <ResetForageableItemsDistance>3000</ResetForageableItemsDistance>
-    <FoodConsumptionRate>1</FoodConsumptionRate>
+    <FoodConsumptionRate>0.1</FoodConsumptionRate>
     <EnableSurvivalBuffs>true</EnableSurvivalBuffs>
     <EnableReducedStatsOnRespawn>true</EnableReducedStatsOnRespawn>
   </Settings>
