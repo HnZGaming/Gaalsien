@@ -176,6 +176,14 @@
     <EnableShareInertiaTensor>true</EnableShareInertiaTensor>
     <EnableUnsafePistonImpulses>false</EnableUnsafePistonImpulses>
     <EnableUnsafeRotorTorques>false</EnableUnsafeRotorTorques>
+    <EnableRadiation>true</EnableRadiation>
+    <SolarRadiationIntensity>0.5</SolarRadiationIntensity>
+    <ResetForageableItems>true</ResetForageableItems>
+    <ResetForageableItemsTimeM>30</ResetForageableItemsTimeM>
+    <ResetForageableItemsDistance>3000</ResetForageableItemsDistance>
+    <FoodConsumptionRate>1</FoodConsumptionRate>
+    <EnableSurvivalBuffs>true</EnableSurvivalBuffs>
+    <EnableReducedStatsOnRespawn>true</EnableReducedStatsOnRespawn>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Rich HUD Master">
@@ -470,11 +478,6 @@
     <ModItem FriendlyName="[WCIS] Longer Seamless Industrial Conveyor Pipes">
       <Name>2863089693.sbm</Name>
       <PublishedFileId>2863089693</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Norca Engineers HUD - Coloured -- 1.201 == With Targeting Indicator">
-      <Name>1682356734.sbm</Name>
-      <PublishedFileId>1682356734</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="HnZ Conveyor Pack">
