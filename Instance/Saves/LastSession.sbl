@@ -4,7 +4,7 @@
   <IsContentWorlds>false</IsContentWorlds>
   <IsOnline>false</IsOnline>
   <IsLobby>false</IsLobby>
-  <GameName>PVP</GameName>
+  <GameName>Star System</GameName>
   <ServerPort>0</ServerPort>
   <RelativePath>Star System</RelativePath>
 </MyObjectBuilder_LastSession>
