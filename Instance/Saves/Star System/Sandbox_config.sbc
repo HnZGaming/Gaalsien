@@ -174,12 +174,12 @@
     <EnableShareInertiaTensor>true</EnableShareInertiaTensor>
     <EnableUnsafePistonImpulses>false</EnableUnsafePistonImpulses>
     <EnableUnsafeRotorTorques>false</EnableUnsafeRotorTorques>
-    <EnableRadiation>true</EnableRadiation>
-    <SolarRadiationIntensity>0.5</SolarRadiationIntensity>
+    <EnableRadiation>false</EnableRadiation>
+    <SolarRadiationIntensity>0</SolarRadiationIntensity>
     <ResetForageableItems>true</ResetForageableItems>
     <ResetForageableItemsTimeM>30</ResetForageableItemsTimeM>
     <ResetForageableItemsDistance>3000</ResetForageableItemsDistance>
-    <FoodConsumptionRate>1</FoodConsumptionRate>
+    <FoodConsumptionRate>0</FoodConsumptionRate>
     <EnableSurvivalBuffs>true</EnableSurvivalBuffs>
     <EnableReducedStatsOnRespawn>true</EnableReducedStatsOnRespawn>
   </Settings>
