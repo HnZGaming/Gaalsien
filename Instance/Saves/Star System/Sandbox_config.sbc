@@ -530,6 +530,16 @@
       <PublishedFileId>888457124</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="MES Loot">
+      <Name>3568639798.sbm</Name>
+      <PublishedFileId>3568639798</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Space Music - Anime">
+      <Name>753499143.sbm</Name>
+      <PublishedFileId>753499143</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2025-09-09T01:55:14.0101599+08:00</LastSaveTime>
