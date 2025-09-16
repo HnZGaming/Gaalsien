@@ -175,5 +175,6 @@
     <StoreItem Type="Component" Subtype="Tech2x" PricePerUnit="200000" MinAmountPerUpdate="8" MaxAmountPerUpdate="16" MaxAmount="400" />
     <StoreItem Type="Component" Subtype="Tech4x" PricePerUnit="400000" MinAmountPerUpdate="4" MaxAmountPerUpdate="8" MaxAmount="200" />
     <StoreItem Type="Component" Subtype="Tech8x" PricePerUnit="800000" MinAmountPerUpdate="2" MaxAmountPerUpdate="4" MaxAmount="100" />
+    <StoreItem Type="ConsumableItem" Subtype="RadiationKit" PricePerUnit="1750" MinAmountPerUpdate="2" MaxAmountPerUpdate="4" MaxAmount="100" />
   </StoreItems>
 </SessionConfig>
