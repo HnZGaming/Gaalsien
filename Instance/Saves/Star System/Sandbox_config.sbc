@@ -38,7 +38,7 @@
     <PermanentDeath>false</PermanentDeath>
     <AutoSaveInMinutes>999999</AutoSaveInMinutes>
     <EnableSaving>false</EnableSaving>
-    <InfiniteAmmo>false</InfiniteAmmo>
+    <InfiniteAmmo>true</InfiniteAmmo>
     <EnableContainerDrops>true</EnableContainerDrops>
     <SpawnShipTimeMultiplier>1</SpawnShipTimeMultiplier>
     <ProceduralDensity>0.35</ProceduralDensity>
@@ -53,7 +53,7 @@
     <EnableEncounters>false</EnableEncounters>
     <EnableConvertToStation>true</EnableConvertToStation>
     <StationVoxelSupport>false</StationVoxelSupport>
-    <EnableSunRotation>true</EnableSunRotation>
+    <EnableSunRotation>false</EnableSunRotation>
     <EnableRespawnShips>true</EnableRespawnShips>
     <ScenarioEditMode>false</ScenarioEditMode>
     <Scenario>false</Scenario>
@@ -66,7 +66,7 @@
     <BlueprintShareTimeout>30</BlueprintShareTimeout>
     <BlueprintShare>true</BlueprintShare>
     <StartInRespawnScreen>true</StartInRespawnScreen>
-    <EnableVoxelDestruction>true</EnableVoxelDestruction>
+    <EnableVoxelDestruction>false</EnableVoxelDestruction>
     <MaxDrones>5</MaxDrones>
     <EnableDrones>false</EnableDrones>
     <EnableWolfs>false</EnableWolfs>
@@ -102,12 +102,12 @@
     <EnableGoodBotHints>false</EnableGoodBotHints>
     <OptimalSpawnDistance>50000</OptimalSpawnDistance>
     <EnableAutorespawn>false</EnableAutorespawn>
-    <EnableBountyContracts>true</EnableBountyContracts>
+    <EnableBountyContracts>false</EnableBountyContracts>
     <EnableSupergridding>false</EnableSupergridding>
-    <EnableEconomy>true</EnableEconomy>
+    <EnableEconomy>false</EnableEconomy>
     <DepositsCountCoefficient>2</DepositsCountCoefficient>
     <DepositSizeDenominator>60</DepositSizeDenominator>
-    <WeatherSystem>true</WeatherSystem>
+    <WeatherSystem>false</WeatherSystem>
     <WeatherLightingDamage>false</WeatherLightingDamage>
     <HarvestRatioMultiplier>1</HarvestRatioMultiplier>
     <TradeFactionsCount>5</TradeFactionsCount>
@@ -174,7 +174,7 @@
     <EnableShareInertiaTensor>true</EnableShareInertiaTensor>
     <EnableUnsafePistonImpulses>false</EnableUnsafePistonImpulses>
     <EnableUnsafeRotorTorques>false</EnableUnsafeRotorTorques>
-    <EnableRadiation>true</EnableRadiation>
+    <EnableRadiation>false</EnableRadiation>
     <SolarRadiationIntensity>0</SolarRadiationIntensity>
     <ResetForageableItems>true</ResetForageableItems>
     <ResetForageableItemsTimeM>30</ResetForageableItemsTimeM>
