@@ -334,11 +334,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="The Sun is not yellow">
-      <Name>2722299710.sbm</Name>
-      <PublishedFileId>2722299710</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="HNZ Relative Top Speed">
       <Name>2920687365.sbm</Name>
       <PublishedFileId>2920687365</PublishedFileId>
@@ -405,11 +400,6 @@
       <PublishedFileId>2819683565</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Advanced Welding - detaching and reattaching blocks!">
-      <Name>510790477.sbm</Name>
-      <PublishedFileId>510790477</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Armored Hangar Doors (+Small Grid)">
       <Name>2230891848.sbm</Name>
@@ -482,6 +472,11 @@
     <ModItem FriendlyName="Space Music - Anime">
       <Name>753499143.sbm</Name>
       <PublishedFileId>753499143</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Projections To Assembler">
+      <Name>1289485324.sbm</Name>
+      <PublishedFileId>1289485324</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
