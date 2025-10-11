@@ -34,8 +34,7 @@
     <string>BlackList_Grid_Name_Here</string>
     <string>BlackList_Grid_Name_Here</string>
   </NpcGridNameBlacklist>
-  <NpcSpawnGroupBlacklist>
-  </NpcSpawnGroupBlacklist>
+  <NpcSpawnGroupBlacklist />
   <UseEconomyBuyingReputationIncrease>true</UseEconomyBuyingReputationIncrease>
   <EconomyBuyingReputationCostAmount>500000</EconomyBuyingReputationCostAmount>
   <Difficulty>1</Difficulty>
