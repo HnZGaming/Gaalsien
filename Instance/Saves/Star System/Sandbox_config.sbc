@@ -371,11 +371,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="HnZ Trade Operators Coalition">
-      <Name>3341212194.sbm</Name>
-      <PublishedFileId>3341212194</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="HnZ Grid Garage">
       <Name>3329806962.sbm</Name>
       <PublishedFileId>3329806962</PublishedFileId>
