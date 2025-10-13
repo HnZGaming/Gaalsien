@@ -40,7 +40,6 @@ Instance/Saves/**/Backup
 Instance/**/*.txt
 Instance/**/*.json
 Instance/FoogsRewards.cfg
-Instance/SEDiscordBridge.cfg
 Instance/TorchAlertPlugin.cfg
 Instance/TorchInfluxDbPlugin.cfg
 Instance/TorchMonitorPlugin.cfg
@@ -55,3 +54,4 @@ Instance/Saves/ViewedContent.sbl
 Instance/PerformanceImprovements/Debug
 *.mes
 Instance/downloads
+.env
