@@ -55,3 +55,4 @@ Instance/Saves/ViewedContent.sbl
 *.mes
 Instance/downloads
 .env
+*.ini
