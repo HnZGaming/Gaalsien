@@ -55,3 +55,4 @@ Instance/PerformanceImprovements/Debug
 *.mes
 Instance/downloads
 .env
+*.ini
