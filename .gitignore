@@ -56,3 +56,4 @@ Instance/PerformanceImprovements/Debug
 Instance/downloads
 .env
 *.ini
+*.scf
