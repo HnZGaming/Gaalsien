@@ -489,12 +489,32 @@
       <PublishedFileId>2200451495</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Planet Aquaras">
+    <ModItem FriendlyName="Planet Aquaras (uses water mod)">
       <Name>2217031815.sbm</Name>
       <PublishedFileId>2217031815</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    
+    <ModItem FriendlyName="Kinetic Devastation">
+      <Name>2649159807.sbm</Name>
+      <PublishedFileId>2649159807</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Bigger Explosions">
+      <Name>2667547195.sbm</Name>
+      <PublishedFileId>2667547195</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Self-Maintenance Unit">
+      <Name>3515485609.sbm</Name>
+      <PublishedFileId>3515485609</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Hacking Computer 3.2 - SE 206">
+      <Name>2034225971.sbm</Name>
+      <PublishedFileId>2034225971</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2025-09-09T12:17:04.7747015+08:00</LastSaveTime>
