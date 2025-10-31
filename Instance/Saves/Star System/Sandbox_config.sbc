@@ -540,17 +540,6 @@
       <PublishedFileId>1992435623</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Water Mod">
-      <Name>2200451495.sbm</Name>
-      <PublishedFileId>2200451495</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Planet Aquaras">
-      <Name>2217031815.sbm</Name>
-      <PublishedFileId>2217031815</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2025-09-09T01:55:14.0101599+08:00</LastSaveTime>
