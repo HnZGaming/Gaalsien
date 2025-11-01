@@ -515,6 +515,11 @@
       <PublishedFileId>2034225971</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="CAMP">
+      <Name>3476250974.sbm</Name>
+      <PublishedFileId>3476250974</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
   <LastSaveTime>2025-09-09T12:17:04.7747015+08:00</LastSaveTime>
