@@ -13,11 +13,6 @@ while ($true)
     $process = Get-Process Torch.Server -ErrorAction SilentlyContinue | Where-Object {$_.Path -like $processpath}
     if ($null -eq $process)
     {
-        Write-Output "$(Get-Date -Format o): Running 'git reset --hard' to discard changes..."
-        Push-Location (Join-Path -Path "$PSScriptRoot" -ChildPath "..")
-        git reset --hard
-        Pop-Location
-
         $process = Start-Process $processpath -PassThru
         $startCount += 1
         Write-Output "$(Get-Date -Format o): Started '$($arguments)'... Start count: $($startCount)"

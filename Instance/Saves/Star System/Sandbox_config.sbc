@@ -484,9 +484,9 @@
       <PublishedFileId>2652227853</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Water Mod">
-      <Name>2200451495.sbm</Name>
-      <PublishedFileId>2200451495</PublishedFileId>
+    <ModItem FriendlyName="Smooth Voxels">
+      <Name>2652227853.sbm</Name>
+      <PublishedFileId>2652227853</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Planet Aquaras (uses water mod)">
