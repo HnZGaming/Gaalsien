@@ -360,11 +360,6 @@
       <PublishedFileId>2920687365</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HnZ Respawn">
-      <Name>2560410003.sbm</Name>
-      <PublishedFileId>2560410003</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Leak Finder">
       <Name>3170315974.sbm</Name>
       <PublishedFileId>3170315974</PublishedFileId>
