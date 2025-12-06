@@ -339,11 +339,6 @@
       <PublishedFileId>2920687365</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="HnZ Respawn">
-      <Name>2560410003.sbm</Name>
-      <PublishedFileId>2560410003</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Leak Finder">
       <Name>3170315974.sbm</Name>
       <PublishedFileId>3170315974</PublishedFileId>
@@ -484,40 +479,29 @@
       <PublishedFileId>2652227853</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Smooth Voxels">
-      <Name>2652227853.sbm</Name>
-      <PublishedFileId>2652227853</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Planet Aquaras (uses water mod)">
-      <Name>2217031815.sbm</Name>
-      <PublishedFileId>2217031815</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Kinetic Devastation">
-      <Name>2649159807.sbm</Name>
-      <PublishedFileId>2649159807</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Bigger Explosions">
-      <Name>2667547195.sbm</Name>
-      <PublishedFileId>2667547195</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Self-Maintenance Unit">
-      <Name>3515485609.sbm</Name>
-      <PublishedFileId>3515485609</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Hacking Computer 3.2 - SE 206">
       <Name>2034225971.sbm</Name>
       <PublishedFileId>2034225971</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="CAMP">
+    <ModItem FriendlyName="CAMP | Construction &amp; Assembly Material Processor">
       <Name>3476250974.sbm</Name>
       <PublishedFileId>3476250974</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Elite Dangerous: FSD Supercruise">
+      <Name>2640137506.sbm</Name>
+      <PublishedFileId>2640137506</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="InfoLCD - Apex Update">
+      <Name>3580736330.sbm</Name>
+      <PublishedFileId>3580736330</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Planting Automation 2">
+      <Name>3611758213.sbm</Name>
+      <PublishedFileId>3611758213</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
