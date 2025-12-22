@@ -42,7 +42,7 @@
     <EnableContainerDrops>true</EnableContainerDrops>
     <SpawnShipTimeMultiplier>1</SpawnShipTimeMultiplier>
     <ProceduralDensity>0.35</ProceduralDensity>
-    <ProceduralSeed>2</ProceduralSeed>
+    <ProceduralSeed>3</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
     <EnableIngameScripts>true</EnableIngameScripts>
     <ViewDistance>15000</ViewDistance>
