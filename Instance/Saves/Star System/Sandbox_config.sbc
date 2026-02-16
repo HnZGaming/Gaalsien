@@ -42,7 +42,7 @@
     <EnableContainerDrops>true</EnableContainerDrops>
     <SpawnShipTimeMultiplier>1</SpawnShipTimeMultiplier>
     <ProceduralDensity>0.35</ProceduralDensity>
-    <ProceduralSeed>3</ProceduralSeed>
+    <ProceduralSeed>5</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
     <EnableIngameScripts>true</EnableIngameScripts>
     <ViewDistance>15000</ViewDistance>
@@ -348,11 +348,6 @@
     <ModItem FriendlyName="HNZ Relative Top Speed">
       <Name>2920687365.sbm</Name>
       <PublishedFileId>2920687365</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="HnZ Respawn">
-      <Name>2560410003.sbm</Name>
-      <PublishedFileId>2560410003</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Leak Finder">
