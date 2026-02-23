@@ -9,166 +9,157 @@
   <EncounterRadius>10000</EncounterRadius>
   <EncounterClearance>500</EncounterClearance>
   <InvasionIntervalHours>2</InvasionIntervalHours>
-  <EconomyUpdateInterval>1200</EconomyUpdateInterval>
+  <EconomyUpdateIntervalMinutes>20</EconomyUpdateIntervalMinutes>
+  <ExposedPoiCount>3</ExposedPoiCount>
   <RespawnDatapadTextFormat>We have been waiting for you! Our universe has been taken over by a bunch of Orks and we can't do trade. Please remove these Orks from our trading point: {0}</RespawnDatapadTextFormat>
+  <OrksDamageManipulationScale>2</OrksDamageManipulationScale>
   <ProgressionLevels>
     <Level Level="1" MinPlayerCount="1" />
     <Level Level="2" MinPlayerCount="1" />
-    <Level Level="3" MinPlayerCount="2" />
-    <Level Level="4" MinPlayerCount="3" />
-    <Level Level="5" MinPlayerCount="4" />
+    <Level Level="3" MinPlayerCount="1" />
+    <Level Level="4" MinPlayerCount="2" />
+    <Level Level="5" MinPlayerCount="2" />
   </ProgressionLevels>
-  <PlanetaryPois>
-    <Poi X="-290" Y="786" Z="60039" Atmospheric="true">Earth</Poi>
-    <Poi X="910546" Y="11567" Z="1622251">Europa</Poi>
-    <Poi X="1026639" Y="67965" Z="1630386" Atmospheric="true">Mars</Poi>
-    <Poi X="25354" Y="135646" Z="-110868">Moon</Poi>
-    <Poi X="-3937305" Y="-27598" Z="-767083" Atmospheric="true">Pertam</Poi>
-    <Poi X="-313130" Y="-2409336" Z="365378" Atmospheric="true">Triton</Poi>
-  </PlanetaryPois>
+  <PlanetaryPois />
   <Orks>
-    <!-- Space -->
-    <Ork ProgressLevel="5" SpawnType="SpaceShip">
-      <SpawnGroup>Orks-SpawnGroup-Ship-ToughLiteKrooza</SpawnGroup>
+    <Ork ProgressLevel="5" SpawnType="SpaceShip" Weight="1">
+      <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughLiteKrooza</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughBlastaBarge</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="5" SpawnType="SpaceShip">
+    <Ork ProgressLevel="5" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Boss-KillaKrooZa</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughRavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughSavageGunship</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="4" SpawnType="SpaceShip">
+    <Ork ProgressLevel="4" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughDeffShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughBlastaBarge</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="4" SpawnType="SpaceShip">
+    <Ork ProgressLevel="4" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughLiteKrooza</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughBlastaBarge</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="4" SpawnType="SpaceShip">
+    <Ork ProgressLevel="4" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughRavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughSavageGunship</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="4" SpawnType="SpaceShip">
+    <Ork ProgressLevel="4" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughShootaboat</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughVoidFighta</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-VoidFighta</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="3" SpawnType="SpaceShip">
+    <Ork ProgressLevel="3" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughBlastaBarge</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="3" SpawnType="SpaceShip">
+    <Ork ProgressLevel="3" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughSavageGunship</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="2" SpawnType="SpaceShip">
+    <Ork ProgressLevel="2" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="2" SpawnType="SpaceShip">
+    <Ork ProgressLevel="2" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="2" SpawnType="SpaceShip">
+    <Ork ProgressLevel="2" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="2" SpawnType="SpaceShip">
+    <Ork ProgressLevel="2" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-VoidFighta</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="1" SpawnType="SpaceShip">
+    <Ork ProgressLevel="1" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="1" SpawnType="SpaceShip">
+    <Ork ProgressLevel="1" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-SavageGunship</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="1" SpawnType="SpaceShip">
+    <Ork ProgressLevel="1" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-VoidFighta</SpawnGroup>
     </Ork>
-    <!-- Atmospheric -->
-    <Ork ProgressLevel="5" SpawnType="AtmosphericShip">
+    <Ork ProgressLevel="5" SpawnType="AtmosphericShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughDeffShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughRavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="5" SpawnType="AtmosphericShip">
+    <Ork ProgressLevel="5" SpawnType="AtmosphericShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughLiteKrooza</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughShootaboat</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="4" SpawnType="AtmosphericShip">
+    <Ork ProgressLevel="4" SpawnType="AtmosphericShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughRavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="4" SpawnType="AtmosphericShip">
+    <Ork ProgressLevel="4" SpawnType="AtmosphericShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughShootaboat</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="3" SpawnType="AtmosphericShip">
+    <Ork ProgressLevel="3" SpawnType="AtmosphericShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughFightaBomba</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="3" SpawnType="AtmosphericShip">
+    <Ork ProgressLevel="3" SpawnType="AtmosphericShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughHeavyFighta</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
+    <Ork ProgressLevel="2" SpawnType="AtmosphericShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-DeffShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
+    <Ork ProgressLevel="2" SpawnType="AtmosphericShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-LiteKrooza</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
+    <Ork ProgressLevel="2" SpawnType="AtmosphericShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="2" SpawnType="AtmosphericShip">
+    <Ork ProgressLevel="2" SpawnType="AtmosphericShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-Shootaboat</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="1" SpawnType="AtmosphericShip">
+    <Ork ProgressLevel="1" SpawnType="AtmosphericShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-FightaBomba</SpawnGroup>
     </Ork>
-    <Ork ProgressLevel="1" SpawnType="AtmosphericShip">
+    <Ork ProgressLevel="1" SpawnType="AtmosphericShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
     </Ork>
   </Orks>
   <PoiMerchants>
-    <!-- Space -->
-    <PoiMerchant SpawnType="SpaceStation">Coop_Economy_SpaceStation_1</PoiMerchant>
-    <PoiMerchant SpawnType="SpaceStation">Coop_Economy_SpaceStation_2</PoiMerchant>
-    <PoiMerchant SpawnType="SpaceStation">Coop_Economy_SpaceStation_3</PoiMerchant>
-    <PoiMerchant SpawnType="SpaceStation">Coop_Economy_SpaceStation_4</PoiMerchant>
-    <PoiMerchant SpawnType="SpaceStation">Coop_Economy_SpaceStation_5</PoiMerchant>
-    <!-- Planetary -->
+    <PoiMerchant SpawnType="SpaceStation" OffsetY="0">Coop_Economy_SpaceStation_1</PoiMerchant>
+    <PoiMerchant SpawnType="SpaceStation" OffsetY="0">Coop_Economy_SpaceStation_2</PoiMerchant>
+    <PoiMerchant SpawnType="SpaceStation" OffsetY="0">Coop_Economy_SpaceStation_3</PoiMerchant>
+    <PoiMerchant SpawnType="SpaceStation" OffsetY="0">Coop_Economy_SpaceStation_4</PoiMerchant>
+    <PoiMerchant SpawnType="SpaceStation" OffsetY="0">Coop_Economy_SpaceStation_5</PoiMerchant>
     <PoiMerchant SpawnType="PlanetaryStation" OffsetY="13">Coop_Economy_Outpost_1</PoiMerchant>
   </PoiMerchants>
   <StoreItems>
@@ -177,4 +168,34 @@
     <StoreItem Type="Component" Subtype="Tech8x" PricePerUnit="800000" MinAmountPerUpdate="2" MaxAmountPerUpdate="4" MaxAmount="100" />
     <StoreItem Type="ConsumableItem" Subtype="RadiationKit" PricePerUnit="1750" MinAmountPerUpdate="2" MaxAmountPerUpdate="4" MaxAmount="100" />
   </StoreItems>
+  <Missions>
+    <Mission>
+      <Type>Acquisition</Type>
+      <Title>Unironically, not enough stones</Title>
+      <Description>Our pet bird just threw up due to a hangover the other day and she needs a bulk of stones to reset her gastroliths. Please collect as much as you can.</Description>
+      <Goal>2400000</Goal>
+      <CustomData>
+        <dictionary>
+          <item>
+            <Key>Acquisition/ItemType</Key>
+            <Value>MyObjectBuilder_Ore/Stone</Value>
+          </item>
+        </dictionary>
+      </CustomData>
+    </Mission>
+    <Mission>
+      <Type>Acquisition</Type>
+      <Title>Unironically, not enough stones</Title>
+      <Description>Our pet bird just threw up due to a hangover the other day and she needs a bulk of stones to reset her gastroliths. Please collect as much as you can.</Description>
+      <Goal>2400000</Goal>
+      <CustomData>
+        <dictionary>
+          <item>
+            <Key>Acquisition/ItemType</Key>
+            <Value>MyObjectBuilder_Ore/Stone</Value>
+          </item>
+        </dictionary>
+      </CustomData>
+    </Mission>
+  </Missions>
 </SessionConfig>
