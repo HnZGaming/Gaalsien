@@ -182,6 +182,7 @@
     <FoodConsumptionRate>0</FoodConsumptionRate>
     <EnableSurvivalBuffs>true</EnableSurvivalBuffs>
     <EnableReducedStatsOnRespawn>true</EnableReducedStatsOnRespawn>
+    <RandomizeSeed>false</RandomizeSeed>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Rich HUD Master">
@@ -221,7 +222,7 @@
       <PublishedFileId>2611224052</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Nanobot Build and Repair System (Maintained)">
+    <ModItem FriendlyName="Nanobot Build and Repair System (Maintained) - Nerfed Version">
       <Name>2111073562.sbm</Name>
       <PublishedFileId>2111073562</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
