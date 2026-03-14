@@ -12,8 +12,8 @@
     <MaxFloatingObjects>56</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>15</MaxBackupSaves>
-    <MaxGridSize>15000</MaxGridSize>
-    <MaxBlocksPerPlayer>20000</MaxBlocksPerPlayer>
+    <MaxGridSize>99999</MaxGridSize>
+    <MaxBlocksPerPlayer>99999</MaxBlocksPerPlayer>
     <TotalPCU>6750000</TotalPCU>
     <PiratePCU>500000</PiratePCU>
     <GlobalEncounterPCU>25000</GlobalEncounterPCU>
