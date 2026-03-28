@@ -490,11 +490,6 @@
       <PublishedFileId>3476250974</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Elite Dangerous: FSD Supercruise">
-      <Name>2640137506.sbm</Name>
-      <PublishedFileId>2640137506</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="InfoLCD - Apex Update">
       <Name>3580736330.sbm</Name>
       <PublishedFileId>3580736330</PublishedFileId>
