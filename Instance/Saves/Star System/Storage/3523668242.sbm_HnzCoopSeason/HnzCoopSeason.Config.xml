@@ -1,26 +1,45 @@
 <?xml version="1.0" encoding="utf-16"?>
 <SessionConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <PoiMapCenterX>-2281951</PoiMapCenterX>
-  <PoiMapCenterY>-1972703</PoiMapCenterY>
+  <EncounterClearance>500</EncounterClearance>
+  <InvasionIntervalHours>2</InvasionIntervalHours>
+  <EconomyUpdateIntervalMinutes>20</EconomyUpdateIntervalMinutes>
+  <DefaultEconomyUpdateIntervalToFillItems>30</DefaultEconomyUpdateIntervalToFillItems>
   <PoiMapCenterZ>1915038</PoiMapCenterZ>
   <PoiMapRadius>5000000</PoiMapRadius>
   <PoiCountPerAxis>4</PoiCountPerAxis>
   <MaxProgressLevel>5</MaxProgressLevel>
   <EncounterRadius>10000</EncounterRadius>
-  <EncounterClearance>500</EncounterClearance>
-  <InvasionIntervalHours>2</InvasionIntervalHours>
-  <EconomyUpdateIntervalMinutes>20</EconomyUpdateIntervalMinutes>
   <ExposedPoiCount>3</ExposedPoiCount>
-  <RespawnDatapadTextFormat>We have been waiting for you! Our universe has been taken over by a bunch of Orks and we can't do trade. Please remove these Orks from our trading point: {0}</RespawnDatapadTextFormat>
-  <OrksDamageManipulationScale>2</OrksDamageManipulationScale>
-  <ProgressionLevels>
-    <Level Level="1" MinPlayerCount="1" />
-    <Level Level="2" MinPlayerCount="1" />
-    <Level Level="3" MinPlayerCount="1" />
-    <Level Level="4" MinPlayerCount="2" />
-    <Level Level="5" MinPlayerCount="2" />
-  </ProgressionLevels>
-  <PlanetaryPois />
+  <Missions>
+    <Mission>
+      <Type>Acquisition</Type>
+      <Title>Unironically, not enough stones</Title>
+      <Description>Our pet bird just threw up due to a hangover the other day and she needs a bulk of stones to reset her gastroliths. Please collect as much as you can.</Description>
+      <Goal>2400000</Goal>
+      <CustomData>
+        <dictionary>
+          <item>
+            <Key>Acquisition/ItemType</Key>
+            <Value>MyObjectBuilder_Ore/Stone</Value>
+          </item>
+        </dictionary>
+      </CustomData>
+    </Mission>
+    <Mission>
+      <Type>Acquisition</Type>
+      <Title>Unironically, not enough stones</Title>
+      <Description>Our pet bird just threw up due to a hangover the other day and she needs a bulk of stones to reset her gastroliths. Please collect as much as you can.</Description>
+      <Goal>2400000</Goal>
+      <CustomData>
+        <dictionary>
+          <item>
+            <Key>Acquisition/ItemType</Key>
+            <Value>MyObjectBuilder_Ore/Stone</Value>
+          </item>
+        </dictionary>
+      </CustomData>
+    </Mission>
+  </Missions>
   <Orks>
     <Ork ProgressLevel="5" SpawnType="SpaceShip" Weight="1">
       <SpawnGroup>Orks-SpawnGroup-Boss-DaIronGnasherMk2</SpawnGroup>
@@ -154,6 +173,201 @@
       <SpawnGroup>Orks-SpawnGroup-Ship-HeavyFighta</SpawnGroup>
     </Ork>
   </Orks>
+  <MerchantStores>
+    <MerchantStore>
+      <Offers>
+        <StoreItem Type="Component" Subtype="Tech2x" PricePerUnit="200000" AmountPerUpdate="12" MaxAmount="400" />
+        <StoreItem Type="Component" Subtype="Tech4x" PricePerUnit="400000" AmountPerUpdate="6" MaxAmount="200" />
+        <StoreItem Type="Component" Subtype="Tech8x" PricePerUnit="800000" AmountPerUpdate="3" MaxAmount="100" />
+        <StoreItem Type="Ore" Subtype="Iron" PricePerUnit="30" AmountPerUpdate="334" MaxAmount="10000" />
+        <StoreItem Type="Ore" Subtype="Nickel" PricePerUnit="30" AmountPerUpdate="334" MaxAmount="10000" />
+        <StoreItem Type="Ore" Subtype="Cobalt" PricePerUnit="30" AmountPerUpdate="300" MaxAmount="9000" />
+        <StoreItem Type="Ore" Subtype="Magnesium" PricePerUnit="200" AmountPerUpdate="300" MaxAmount="9000" />
+        <StoreItem Type="Ore" Subtype="Silicon" PricePerUnit="30" AmountPerUpdate="334" MaxAmount="10000" />
+        <StoreItem Type="Ore" Subtype="Silver" PricePerUnit="150" AmountPerUpdate="500" MaxAmount="15000" />
+        <StoreItem Type="Ore" Subtype="Gold" PricePerUnit="150" AmountPerUpdate="500" MaxAmount="15000" />
+        <StoreItem Type="Ore" Subtype="Platinum" PricePerUnit="400" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Ore" Subtype="Uranium" PricePerUnit="500" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Datapad" Subtype="Datapad" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="20" />
+        <StoreItem Type="Ingot" Subtype="Iron" PricePerUnit="-1" AmountPerUpdate="334" MaxAmount="10000" />
+        <StoreItem Type="Ingot" Subtype="Nickel" PricePerUnit="-1" AmountPerUpdate="334" MaxAmount="10000" />
+        <StoreItem Type="Ingot" Subtype="Silicon" PricePerUnit="-1" AmountPerUpdate="334" MaxAmount="10000" />
+        <StoreItem Type="Ingot" Subtype="Cobalt" PricePerUnit="-1" AmountPerUpdate="100" MaxAmount="3000" />
+        <StoreItem Type="Ingot" Subtype="Magnesium" PricePerUnit="-1" AmountPerUpdate="100" MaxAmount="3000" />
+        <StoreItem Type="Ingot" Subtype="Silver" PricePerUnit="-1" AmountPerUpdate="167" MaxAmount="5000" />
+        <StoreItem Type="Ingot" Subtype="Gold" PricePerUnit="-1" AmountPerUpdate="167" MaxAmount="5000" />
+        <StoreItem Type="Ingot" Subtype="Platinum" PricePerUnit="-1" AmountPerUpdate="67" MaxAmount="2000" />
+        <StoreItem Type="Ingot" Subtype="Uranium" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="PhysicalGunObject" Subtype="HandDrill3Item" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="10" />
+        <StoreItem Type="PhysicalGunObject" Subtype="HandDrill4Item" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="3" />
+        <StoreItem Type="ConsumableItem" Subtype="MealPack_Flatbread" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="4" />
+        <StoreItem Type="ConsumableItem" Subtype="MealPack_FruitPastry" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="4" />
+        <StoreItem Type="ConsumableItem" Subtype="MealPack_Ramen" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="4" />
+        <StoreItem Type="ConsumableItem" Subtype="Medkit" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="50" />
+        <StoreItem Type="ConsumableItem" Subtype="Powerkit" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="50" />
+        <StoreItem Type="ConsumableItem" Subtype="ClangCola" PricePerUnit="100" AmountPerUpdate="334" MaxAmount="10000" />
+        <StoreItem Type="ConsumableItem" Subtype="CosmicCoffee" PricePerUnit="100" AmountPerUpdate="334" MaxAmount="10000" />
+      </Offers>
+      <Orders>
+        <StoreItem Type="Ore" Subtype="Cobalt" PricePerUnit="30" AmountPerUpdate="300" MaxAmount="9000" />
+        <StoreItem Type="Ore" Subtype="Magnesium" PricePerUnit="200" AmountPerUpdate="300" MaxAmount="9000" />
+        <StoreItem Type="Ore" Subtype="Silver" PricePerUnit="150" AmountPerUpdate="500" MaxAmount="15000" />
+        <StoreItem Type="Ore" Subtype="Gold" PricePerUnit="150" AmountPerUpdate="500" MaxAmount="15000" />
+        <StoreItem Type="Ore" Subtype="Platinum" PricePerUnit="400" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Ore" Subtype="Uranium" PricePerUnit="500" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="SteelPlate" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="Construction" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="Detector" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="50" />
+        <StoreItem Type="Component" Subtype="Motor" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="Computer" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="LargeTube" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+      </Orders>
+    </MerchantStore>
+    <MerchantStore>
+      <Offers>
+        <StoreItem Type="Component" Subtype="Tech2x" PricePerUnit="200000" AmountPerUpdate="12" MaxAmount="400" />
+        <StoreItem Type="Component" Subtype="Tech4x" PricePerUnit="400000" AmountPerUpdate="6" MaxAmount="200" />
+        <StoreItem Type="Component" Subtype="Tech8x" PricePerUnit="800000" AmountPerUpdate="3" MaxAmount="100" />
+        <StoreItem Type="PhysicalGunObject" Subtype="AutomaticRifleItem" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="20" />
+        <StoreItem Type="PhysicalGunObject" Subtype="PreciseAutomaticRifleItem" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="10" />
+        <StoreItem Type="PhysicalGunObject" Subtype="RapidFireAutomaticRifleItem" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="10" />
+        <StoreItem Type="PhysicalGunObject" Subtype="UltimateAutomaticRifleItem" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="3" />
+        <StoreItem Type="PhysicalGunObject" Subtype="SemiAutoPistolItem" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="20" />
+        <StoreItem Type="PhysicalGunObject" Subtype="FullAutoPistolItem" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="10" />
+        <StoreItem Type="PhysicalGunObject" Subtype="ElitePistolItem" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="3" />
+        <StoreItem Type="PhysicalGunObject" Subtype="BasicHandHeldLauncherItem" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="5" />
+        <StoreItem Type="PhysicalGunObject" Subtype="AdvancedHandHeldLauncherItem" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="3" />
+        <StoreItem Type="PhysicalGunObject" Subtype="WelderItem" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="20" />
+        <StoreItem Type="PhysicalGunObject" Subtype="Welder2Item" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="10" />
+        <StoreItem Type="PhysicalGunObject" Subtype="AngleGrinderItem" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="20" />
+        <StoreItem Type="PhysicalGunObject" Subtype="AngleGrinder2Item" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="10" />
+        <StoreItem Type="PhysicalGunObject" Subtype="AngleGrinder3Item" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="10" />
+        <StoreItem Type="PhysicalGunObject" Subtype="AngleGrinder4Item" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="3" />
+        <StoreItem Type="PhysicalGunObject" Subtype="HandDrillItem" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="20" />
+        <StoreItem Type="PhysicalGunObject" Subtype="HandDrill2Item" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="10" />
+        <StoreItem Type="OxygenContainerObject" Subtype="OxygenBottle" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="10" />
+        <StoreItem Type="GasContainerObject" Subtype="HydrogenBottle" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="10" />
+        <StoreItem Type="Component" Subtype="Construction" PricePerUnit="-1" AmountPerUpdate="167" MaxAmount="5000" />
+        <StoreItem Type="Component" Subtype="MetalGrid" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="InteriorPlate" PricePerUnit="-1" AmountPerUpdate="167" MaxAmount="5000" />
+        <StoreItem Type="Component" Subtype="SteelPlate" PricePerUnit="-1" AmountPerUpdate="84" MaxAmount="2500" />
+        <StoreItem Type="Component" Subtype="Girder" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="SmallTube" PricePerUnit="-1" AmountPerUpdate="100" MaxAmount="3000" />
+        <StoreItem Type="Component" Subtype="LargeTube" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="Motor" PricePerUnit="-1" AmountPerUpdate="67" MaxAmount="2000" />
+        <StoreItem Type="Component" Subtype="Display" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="BulletproofGlass" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="Superconductor" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="Computer" PricePerUnit="-1" AmountPerUpdate="167" MaxAmount="5000" />
+        <StoreItem Type="Component" Subtype="Reactor" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="Thrust" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="Component" Subtype="GravityGenerator" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="50" />
+        <StoreItem Type="Component" Subtype="RadioCommunication" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="Component" Subtype="Detector" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="60" />
+        <StoreItem Type="Component" Subtype="Explosives" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="50" />
+        <StoreItem Type="Component" Subtype="SolarCell" PricePerUnit="-1" AmountPerUpdate="4" MaxAmount="100" />
+        <StoreItem Type="Component" Subtype="PowerCell" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="Component" Subtype="Canvas" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="50" />
+        <StoreItem Type="Component" Subtype="Medical" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="Datapad" Subtype="Datapad" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="20" />
+        <StoreItem Type="Component" Subtype="ZoneChip" PricePerUnit="100000" AmountPerUpdate="2" MaxAmount="48" />
+        <StoreItem Type="Component" Subtype="EngineerPlushie" PricePerUnit="30000" AmountPerUpdate="1" MaxAmount="1" />
+        <StoreItem Type="AmmoMagazine" Subtype="NATO_25x184mm" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="AmmoMagazine" Subtype="Missile200mm" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="AmmoMagazine" Subtype="AutocannonClip" PricePerUnit="-1" AmountPerUpdate="10" MaxAmount="300" />
+        <StoreItem Type="AmmoMagazine" Subtype="MediumCalibreAmmo" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="AmmoMagazine" Subtype="LargeCalibreAmmo" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="AmmoMagazine" Subtype="LargeRailgunAmmo" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="15" />
+        <StoreItem Type="AmmoMagazine" Subtype="SmallRailgunAmmo" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="50" />
+        <StoreItem Type="AmmoMagazine" Subtype="SemiAutoPistolMagazine" PricePerUnit="-1" AmountPerUpdate="4" MaxAmount="100" />
+        <StoreItem Type="AmmoMagazine" Subtype="FullAutoPistolMagazine" PricePerUnit="-1" AmountPerUpdate="4" MaxAmount="100" />
+        <StoreItem Type="AmmoMagazine" Subtype="ElitePistolMagazine" PricePerUnit="-1" AmountPerUpdate="4" MaxAmount="100" />
+        <StoreItem Type="AmmoMagazine" Subtype="AutomaticRifleGun_Mag_20rd" PricePerUnit="-1" AmountPerUpdate="4" MaxAmount="100" />
+        <StoreItem Type="AmmoMagazine" Subtype="RapidFireAutomaticRifleGun_Mag_50rd" PricePerUnit="-1" AmountPerUpdate="4" MaxAmount="100" />
+        <StoreItem Type="AmmoMagazine" Subtype="PreciseAutomaticRifleGun_Mag_5rd" PricePerUnit="-1" AmountPerUpdate="4" MaxAmount="100" />
+        <StoreItem Type="AmmoMagazine" Subtype="UltimateAutomaticRifleGun_Mag_30rd" PricePerUnit="-1" AmountPerUpdate="4" MaxAmount="100" />
+        <StoreItem Type="ConsumableItem" Subtype="Medkit" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="50" />
+        <StoreItem Type="ConsumableItem" Subtype="Powerkit" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="50" />
+        <StoreItem Type="SeedItem" Subtype="Fruit" PricePerUnit="100" AmountPerUpdate="1" MaxAmount="8" />
+        <StoreItem Type="SeedItem" Subtype="Grain" PricePerUnit="100" AmountPerUpdate="1" MaxAmount="8" />
+        <StoreItem Type="SeedItem" Subtype="Mushrooms" PricePerUnit="100" AmountPerUpdate="1" MaxAmount="8" />
+        <StoreItem Type="SeedItem" Subtype="Vegetables" PricePerUnit="100" AmountPerUpdate="1" MaxAmount="8" />
+        <StoreItem Type="ConsumableItem" Subtype="MammalMeatRaw" PricePerUnit="1027" AmountPerUpdate="1" MaxAmount="3" />
+        <StoreItem Type="ConsumableItem" Subtype="InsectMeatRaw" PricePerUnit="856" AmountPerUpdate="1" MaxAmount="3" />
+        <StoreItem Type="ConsumableItem" Subtype="MealPack_Flatbread" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="4" />
+        <StoreItem Type="ConsumableItem" Subtype="MealPack_FruitPastry" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="4" />
+        <StoreItem Type="ConsumableItem" Subtype="MealPack_Ramen" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="4" />
+        <StoreItem Type="ConsumableItem" Subtype="MealPack_Spaghetti" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="4" />
+        <StoreItem Type="ConsumableItem" Subtype="MealPack_Burrito" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="4" />
+        <StoreItem Type="ConsumableItem" Subtype="ClangCola" PricePerUnit="100" AmountPerUpdate="334" MaxAmount="10000" />
+        <StoreItem Type="ConsumableItem" Subtype="CosmicCoffee" PricePerUnit="100" AmountPerUpdate="334" MaxAmount="10000" />
+      </Offers>
+      <Orders>
+        <StoreItem Type="Ingot" Subtype="Cobalt" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Ingot" Subtype="Magnesium" PricePerUnit="-1" AmountPerUpdate="7" MaxAmount="200" />
+        <StoreItem Type="Ingot" Subtype="Silver" PricePerUnit="-1" AmountPerUpdate="100" MaxAmount="3000" />
+        <StoreItem Type="Ingot" Subtype="Gold" PricePerUnit="-1" AmountPerUpdate="100" MaxAmount="3000" />
+        <StoreItem Type="Ingot" Subtype="Platinum" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Ingot" Subtype="Uranium" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="Superconductor" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="Component" Subtype="Reactor" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="Component" Subtype="Thrust" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="Component" Subtype="GravityGenerator" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="40" />
+        <StoreItem Type="Component" Subtype="RadioCommunication" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="Component" Subtype="Detector" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="50" />
+        <StoreItem Type="Component" Subtype="SolarCell" PricePerUnit="-1" AmountPerUpdate="4" MaxAmount="100" />
+        <StoreItem Type="Component" Subtype="PowerCell" PricePerUnit="-1" AmountPerUpdate="4" MaxAmount="100" />
+        <StoreItem Type="Component" Subtype="EngineerPlushie" PricePerUnit="30000" AmountPerUpdate="0" MaxAmount="0" />
+        <StoreItem Type="Ingot" Subtype="PrototechScrap" PricePerUnit="35000" AmountPerUpdate="2" MaxAmount="50" />
+      </Orders>
+    </MerchantStore>
+    <MerchantStore>
+      <Offers>
+        <StoreItem Type="Component" Subtype="Tech2x" PricePerUnit="200000" AmountPerUpdate="12" MaxAmount="400" />
+        <StoreItem Type="Component" Subtype="Tech4x" PricePerUnit="400000" AmountPerUpdate="6" MaxAmount="200" />
+        <StoreItem Type="Component" Subtype="Tech8x" PricePerUnit="800000" AmountPerUpdate="3" MaxAmount="100" />
+        <StoreItem Type="Datapad" Subtype="Datapad" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="20" />
+        <StoreItem Type="Component" Subtype="ZoneChip" PricePerUnit="100000" AmountPerUpdate="2" MaxAmount="48" />
+        <StoreItem Type="PhysicalGunObject" Subtype="Welder3Item" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="10" />
+        <StoreItem Type="PhysicalGunObject" Subtype="Welder4Item" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="3" />
+        <StoreItem Type="ConsumableItem" Subtype="Medkit" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="50" />
+        <StoreItem Type="ConsumableItem" Subtype="Powerkit" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="50" />
+        <StoreItem Type="ConsumableItem" Subtype="MealPack_Flatbread" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="4" />
+        <StoreItem Type="ConsumableItem" Subtype="MealPack_FruitPastry" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="4" />
+        <StoreItem Type="ConsumableItem" Subtype="MealPack_Ramen" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="4" />
+        <StoreItem Type="ConsumableItem" Subtype="ClangCola" PricePerUnit="100" AmountPerUpdate="334" MaxAmount="10000" />
+        <StoreItem Type="ConsumableItem" Subtype="CosmicCoffee" PricePerUnit="100" AmountPerUpdate="334" MaxAmount="10000" />
+      </Offers>
+      <Orders>
+        <StoreItem Type="Component" Subtype="Construction" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="MetalGrid" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="InteriorPlate" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="SteelPlate" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="Girder" PricePerUnit="-1" AmountPerUpdate="14" MaxAmount="400" />
+        <StoreItem Type="Component" Subtype="SmallTube" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="LargeTube" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="Component" Subtype="Motor" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="Display" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="Component" Subtype="BulletproofGlass" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="Superconductor" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="Component" Subtype="Computer" PricePerUnit="-1" AmountPerUpdate="34" MaxAmount="1000" />
+        <StoreItem Type="Component" Subtype="Reactor" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="Component" Subtype="Thrust" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="Component" Subtype="GravityGenerator" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="40" />
+        <StoreItem Type="Component" Subtype="RadioCommunication" PricePerUnit="-1" AmountPerUpdate="17" MaxAmount="500" />
+        <StoreItem Type="Component" Subtype="Detector" PricePerUnit="-1" AmountPerUpdate="2" MaxAmount="50" />
+        <StoreItem Type="Component" Subtype="Explosives" PricePerUnit="-1" AmountPerUpdate="1" MaxAmount="18" />
+        <StoreItem Type="Component" Subtype="SolarCell" PricePerUnit="-1" AmountPerUpdate="4" MaxAmount="100" />
+        <StoreItem Type="Component" Subtype="PowerCell" PricePerUnit="-1" AmountPerUpdate="4" MaxAmount="100" />
+        <StoreItem Type="Component" Subtype="Canvas" PricePerUnit="-1" AmountPerUpdate="0" MaxAmount="0" />
+      </Orders>
+    </MerchantStore>
+  </MerchantStores>
+  <RespawnDatapadTextFormat>We have been waiting for you! Our universe has been taken over by a bunch of Orks and we can't do trade. Please remove these Orks from our trading point: {0}</RespawnDatapadTextFormat>
+  <OrksDamageManipulationScale>2</OrksDamageManipulationScale>
+  <PlanetaryPois />
+  <PoiMapCenterX>-2281951</PoiMapCenterX>
+  <PoiMapCenterY>-1972703</PoiMapCenterY>
   <PoiMerchants>
     <PoiMerchant SpawnType="SpaceStation" OffsetY="0">Coop_Economy_SpaceStation_1</PoiMerchant>
     <PoiMerchant SpawnType="SpaceStation" OffsetY="0">Coop_Economy_SpaceStation_2</PoiMerchant>
@@ -162,40 +376,11 @@
     <PoiMerchant SpawnType="SpaceStation" OffsetY="0">Coop_Economy_SpaceStation_5</PoiMerchant>
     <PoiMerchant SpawnType="PlanetaryStation" OffsetY="13">Coop_Economy_Outpost_1</PoiMerchant>
   </PoiMerchants>
-  <StoreItems>
-    <StoreItem Type="Component" Subtype="Tech2x" PricePerUnit="200000" MinAmountPerUpdate="8" MaxAmountPerUpdate="16" MaxAmount="400" />
-    <StoreItem Type="Component" Subtype="Tech4x" PricePerUnit="400000" MinAmountPerUpdate="4" MaxAmountPerUpdate="8" MaxAmount="200" />
-    <StoreItem Type="Component" Subtype="Tech8x" PricePerUnit="800000" MinAmountPerUpdate="2" MaxAmountPerUpdate="4" MaxAmount="100" />
-    <StoreItem Type="ConsumableItem" Subtype="RadiationKit" PricePerUnit="1750" MinAmountPerUpdate="2" MaxAmountPerUpdate="4" MaxAmount="100" />
-  </StoreItems>
-  <Missions>
-    <Mission>
-      <Type>Acquisition</Type>
-      <Title>Unironically, not enough stones</Title>
-      <Description>Our pet bird just threw up due to a hangover the other day and she needs a bulk of stones to reset her gastroliths. Please collect as much as you can.</Description>
-      <Goal>2400000</Goal>
-      <CustomData>
-        <dictionary>
-          <item>
-            <Key>Acquisition/ItemType</Key>
-            <Value>MyObjectBuilder_Ore/Stone</Value>
-          </item>
-        </dictionary>
-      </CustomData>
-    </Mission>
-    <Mission>
-      <Type>Acquisition</Type>
-      <Title>Unironically, not enough stones</Title>
-      <Description>Our pet bird just threw up due to a hangover the other day and she needs a bulk of stones to reset her gastroliths. Please collect as much as you can.</Description>
-      <Goal>2400000</Goal>
-      <CustomData>
-        <dictionary>
-          <item>
-            <Key>Acquisition/ItemType</Key>
-            <Value>MyObjectBuilder_Ore/Stone</Value>
-          </item>
-        </dictionary>
-      </CustomData>
-    </Mission>
-  </Missions>
+  <ProgressionLevels>
+    <Level Level="1" MinPlayerCount="1" />
+    <Level Level="2" MinPlayerCount="1" />
+    <Level Level="3" MinPlayerCount="1" />
+    <Level Level="4" MinPlayerCount="2" />
+    <Level Level="5" MinPlayerCount="2" />
+  </ProgressionLevels>
 </SessionConfig>
