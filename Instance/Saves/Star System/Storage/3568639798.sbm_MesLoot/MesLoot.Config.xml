@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SessionConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MaxItemCount>10</MaxItemCount>
+  <LootChance>0.1</LootChance>
+  <ContainerTypes>
+    <Type>MyObjectBuilder_Cockpit/LargeBlockCockpit</Type>
+  </ContainerTypes>
+  <ItemTypes>
+    <Type>MyObjectBuilder_ConsumableItem/MealPack_KelpCrisp</Type>
+  </ItemTypes>
+</SessionConfig>
