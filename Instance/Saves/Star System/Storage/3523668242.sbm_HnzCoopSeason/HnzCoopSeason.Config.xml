@@ -49,7 +49,7 @@
       <SpawnGroup>Orks-SpawnGroup-Ship-BlastaBarge</SpawnGroup>
     </Ork>
     <Ork ProgressLevel="5" SpawnType="SpaceShip" Weight="1">
-      <SpawnGroup>Orks-SpawnGroup-Boss-BigMekKrooza</SpawnGroup>
+      <SpawnGroup>Orks-SpawnGroup-Boss-BigMekKroozaStar</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughRavagerAttackShip</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-ToughSavageGunship</SpawnGroup>
       <SpawnGroup>Orks-SpawnGroup-Ship-RavagerAttackShip</SpawnGroup>
