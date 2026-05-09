@@ -272,7 +272,7 @@
       <PublishedFileId>1843256487</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.5">
+    <ModItem FriendlyName="WeaponCore - 3.0">
       <Name>3154371364.sbm</Name>
       <PublishedFileId>3154371364</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -478,26 +478,6 @@
     <ModItem FriendlyName="Smooth Voxels">
       <Name>2652227853.sbm</Name>
       <PublishedFileId>2652227853</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Hacking Computer 3.2 - SE 208">
-      <Name>2034225971.sbm</Name>
-      <PublishedFileId>2034225971</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="CAMP | Construction &amp; Assembly Material Processor">
-      <Name>3476250974.sbm</Name>
-      <PublishedFileId>3476250974</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="InfoLCD - Apex Update">
-      <Name>3580736330.sbm</Name>
-      <PublishedFileId>3580736330</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Planting Automation 2">
-      <Name>3611758213.sbm</Name>
-      <PublishedFileId>3611758213</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="AQD - Armor Expansion">
