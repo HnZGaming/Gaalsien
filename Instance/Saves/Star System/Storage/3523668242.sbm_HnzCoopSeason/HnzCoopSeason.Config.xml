@@ -380,7 +380,7 @@
     <Level Level="1" MinPlayerCount="1" />
     <Level Level="2" MinPlayerCount="1" />
     <Level Level="3" MinPlayerCount="1" />
-    <Level Level="4" MinPlayerCount="2" />
-    <Level Level="5" MinPlayerCount="2" />
+    <Level Level="4" MinPlayerCount="1" />
+    <Level Level="5" MinPlayerCount="1" />
   </ProgressionLevels>
 </SessionConfig>
