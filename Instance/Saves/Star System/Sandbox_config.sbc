@@ -26,7 +26,7 @@
     <WeaponsEnabled>true</WeaponsEnabled>
     <ShowPlayerNamesOnHud>true</ShowPlayerNamesOnHud>
     <ThrusterDamage>true</ThrusterDamage>
-    <CargoShipsEnabled>true</CargoShipsEnabled>
+    <CargoShipsEnabled>false</CargoShipsEnabled>
     <EnableSpectator>false</EnableSpectator>
     <WorldSizeKm>0</WorldSizeKm>
     <RespawnShipDelete>false</RespawnShipDelete>
@@ -40,7 +40,7 @@
     <EnableSaving>true</EnableSaving>
     <InfiniteAmmo>false</InfiniteAmmo>
     <EnableContainerDrops>true</EnableContainerDrops>
-    <SpawnShipTimeMultiplier>5</SpawnShipTimeMultiplier>
+    <SpawnShipTimeMultiplier>0.5</SpawnShipTimeMultiplier>
     <ProceduralDensity>0.2</ProceduralDensity>
     <ProceduralSeed>87654321</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
@@ -50,7 +50,7 @@
     <EnableOxygen>true</EnableOxygen>
     <EnableOxygenPressurization>true</EnableOxygenPressurization>
     <Enable3rdPersonView>true</Enable3rdPersonView>
-    <EnableEncounters>true</EnableEncounters>
+    <EnableEncounters>false</EnableEncounters>
     <EnableConvertToStation>true</EnableConvertToStation>
     <StationVoxelSupport>false</StationVoxelSupport>
     <EnableSunRotation>true</EnableSunRotation>
@@ -128,7 +128,7 @@
         </item>
       </dictionary>
     </BlockTypeLimits>
-    <EnableScripterRole>true</EnableScripterRole>
+    <EnableScripterRole>false</EnableScripterRole>
     <MinDropContainerRespawnTime>5</MinDropContainerRespawnTime>
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>false</EnableTurretsFriendlyFire>
@@ -170,7 +170,6 @@
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <NPCGridClaimTimeLimit>120</NPCGridClaimTimeLimit>
     <SimplifiedSimulation>false</SimplifiedSimulation>
-    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>true</EnableSelectivePhysicsUpdates>
@@ -229,13 +228,13 @@
     <EnableUnsafePistonImpulses>false</EnableUnsafePistonImpulses>
     <EnableUnsafeRotorTorques>false</EnableUnsafeRotorTorques>
     <EnableRadiation>true</EnableRadiation>
-    <SolarRadiationIntensity>1</SolarRadiationIntensity>
+    <SolarRadiationIntensity>0.1</SolarRadiationIntensity>
     <ResetForageableItems>true</ResetForageableItems>
     <ResetForageableItemsTimeM>30</ResetForageableItemsTimeM>
     <ResetForageableItemsDistance>3000</ResetForageableItemsDistance>
     <FoodConsumptionRate>1</FoodConsumptionRate>
     <EnableSurvivalBuffs>true</EnableSurvivalBuffs>
-    <EnableReducedStatsOnRespawn>false</EnableReducedStatsOnRespawn>
+    <EnableReducedStatsOnRespawn>true</EnableReducedStatsOnRespawn>
     <ReputationDecayRate>0.5</ReputationDecayRate>
     <RandomizeSeed>false</RandomizeSeed>
     <GridStorageAllowsInventory>false</GridStorageAllowsInventory>
@@ -304,11 +303,6 @@
       <PublishedFileId>1843256487</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
-      <Name>2272613450.sbm</Name>
-      <PublishedFileId>2272613450</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Modular Encounters Systems">
       <Name>1521905890.sbm</Name>
       <PublishedFileId>1521905890</PublishedFileId>
@@ -344,12 +338,12 @@
       <PublishedFileId>2754014019</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Huge Blocks">
       <Name>3563781902.sbm</Name>
       <PublishedFileId>3563781902</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Grid Garage">
       <Name>3329806962.sbm</Name>
       <PublishedFileId>3329806962</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -369,7 +363,7 @@
       <PublishedFileId>2096677783</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Tiered Tech Blocks">
       <Name>2759474323.sbm</Name>
       <PublishedFileId>2759474323</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -384,12 +378,12 @@
       <PublishedFileId>2756894170</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Adjustment">
       <Name>3417541701.sbm</Name>
       <PublishedFileId>3417541701</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="Ship Sale">
       <Name>3355403868.sbm</Name>
       <PublishedFileId>3355403868</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -414,7 +408,7 @@
       <PublishedFileId>1289485324</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HNZ Relative Top Speed">
       <Name>2920687365.sbm</Name>
       <PublishedFileId>2920687365</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -424,7 +418,7 @@
       <PublishedFileId>1469072169</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Aryx">
       <Name>3715204697.sbm</Name>
       <PublishedFileId>3715204697</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -514,12 +508,12 @@
       <PublishedFileId>3017795356</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Stone Incinerator">
       <Name>3339166767.sbm</Name>
       <PublishedFileId>3339166767</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="HnZ Conveyor Pack">
       <Name>3373137874.sbm</Name>
       <PublishedFileId>3373137874</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -529,7 +523,7 @@
       <PublishedFileId>1864380341</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="Flash GPS V2">
       <Name>3493139056.sbm</Name>
       <PublishedFileId>3493139056</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -584,7 +578,12 @@
       <PublishedFileId>2308085590</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="NexusSyncModV3">
+      <Name>3322895374.sbm</Name>
+      <PublishedFileId>3322895374</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2026-05-09T16:35:11.1287234+08:00</LastSaveTime>
+  <LastSaveTime>2026-07-18T22:55:12.0634154+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
