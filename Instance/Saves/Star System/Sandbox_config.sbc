@@ -244,8 +244,11 @@
     <GridStorageRetrievalTimeMinMinutes>2</GridStorageRetrievalTimeMinMinutes>
     <GridStorageRetrievalTimeMultiplier>1</GridStorageRetrievalTimeMultiplier>
     <GridStorageMinutesPerPCU>0.001</GridStorageMinutesPerPCU>
+    <GridStorageMinutesPerKm>0.004</GridStorageMinutesPerKm>
     <GridStorageExpediteFactor>0.5</GridStorageExpediteFactor>
     <GridStorageExpediteCostPerSecond>1000</GridStorageExpediteCostPerSecond>
+    <GridStorageCombatCooldown>60</GridStorageCombatCooldown>
+    <GridStorageMaxDistance>0</GridStorageMaxDistance>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Build Info">
