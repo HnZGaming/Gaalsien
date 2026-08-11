@@ -55,3 +55,6 @@ Instance/Saves/ViewedContent.sbl
 Instance/downloads
 .env
 *.ini
+Instance/Saves/**/gs*.sbc
+Instance/Saves/**/gs*.sbcB5
+Instance/Saves/Star System/Storage/BLPlayerTime.xml
