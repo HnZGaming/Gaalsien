@@ -244,8 +244,11 @@
     <GridStorageRetrievalTimeMinMinutes>2</GridStorageRetrievalTimeMinMinutes>
     <GridStorageRetrievalTimeMultiplier>1</GridStorageRetrievalTimeMultiplier>
     <GridStorageMinutesPerPCU>0.001</GridStorageMinutesPerPCU>
+    <GridStorageMinutesPerKm>0.004</GridStorageMinutesPerKm>
     <GridStorageExpediteFactor>0.5</GridStorageExpediteFactor>
     <GridStorageExpediteCostPerSecond>1000</GridStorageExpediteCostPerSecond>
+    <GridStorageCombatCooldown>60</GridStorageCombatCooldown>
+    <GridStorageMaxDistance>0</GridStorageMaxDistance>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Build Vision 3.0">
@@ -276,11 +279,6 @@
     <ModItem FriendlyName="HnZ Independent Contractors">
       <Name>2877092514.sbm</Name>
       <PublishedFileId>2877092514</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Space Music - Anime">
-      <Name>753499143.sbm</Name>
-      <PublishedFileId>753499143</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="XL Slopes">
@@ -610,5 +608,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2026-07-18T22:55:31.0771485+08:00</LastSaveTime>
+  <LastSaveTime>2026-08-11T05:30:32.2214288-07:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
