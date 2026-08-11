@@ -12,8 +12,8 @@
     <MaxFloatingObjects>100</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>5</MaxBackupSaves>
-    <MaxGridSize>99999</MaxGridSize>
-    <MaxBlocksPerPlayer>99999</MaxBlocksPerPlayer>
+    <MaxGridSize>100000</MaxGridSize>
+    <MaxBlocksPerPlayer>100000</MaxBlocksPerPlayer>
     <TotalPCU>600000</TotalPCU>
     <PiratePCU>50000</PiratePCU>
     <GlobalEncounterPCU>25000</GlobalEncounterPCU>
@@ -36,11 +36,11 @@
     <RealisticSound>false</RealisticSound>
     <HackSpeedMultiplier>0.33</HackSpeedMultiplier>
     <PermanentDeath>false</PermanentDeath>
-    <SpawnShipTimeMultiplier>0.5</SpawnShipTimeMultiplier>
     <AutoSaveInMinutes>15</AutoSaveInMinutes>
     <EnableSaving>true</EnableSaving>
     <InfiniteAmmo>false</InfiniteAmmo>
     <EnableContainerDrops>true</EnableContainerDrops>
+    <SpawnShipTimeMultiplier>0.5</SpawnShipTimeMultiplier>
     <ProceduralDensity>0.2</ProceduralDensity>
     <ProceduralSeed>87654321</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
@@ -583,5 +583,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2026-05-09T18:38:52.1066+08:00</LastSaveTime>
+  <LastSaveTime>2026-08-11T08:18:06.6795572-07:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
