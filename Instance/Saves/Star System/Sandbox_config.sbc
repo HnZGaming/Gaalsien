@@ -42,7 +42,7 @@
     <EnableContainerDrops>true</EnableContainerDrops>
     <SpawnShipTimeMultiplier>0.5</SpawnShipTimeMultiplier>
     <ProceduralDensity>0.2</ProceduralDensity>
-    <ProceduralSeed>87654321</ProceduralSeed>
+    <ProceduralSeed>2</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
     <EnableIngameScripts>true</EnableIngameScripts>
     <ViewDistance>15000</ViewDistance>
@@ -608,5 +608,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2026-08-11T08:02:15.2152658-07:00</LastSaveTime>
+  <LastSaveTime>2026-09-10T05:02:06.5400626+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
