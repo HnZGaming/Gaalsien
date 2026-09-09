@@ -57,3 +57,6 @@ Instance/downloads
 Instance/Saves/Star System/Storage/2935687497.sbm_koth/Scores.data
 .env
 *.ini
+Instance/Saves/**/gs*.sbc
+Instance/Saves/**/gs*.sbcB5
+Instance/Saves/Star System/Storage/BLPlayerTime.xml
